@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Support Dashboard</title>
+    <title>Pal CustomerAI</title>
+    <link rel="icon" type="image/png" href="./logo-pl.png">
     
     <!-- Google Fonts: Inter -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,30 +17,48 @@
     <link rel="stylesheet" href="./styles.css">
 </head>
 <body class="light">
+    <body class="light">
     <!-- Login View -->
     <div id="loginApp" class="login-view">
         <div class="login-card">
-            <div class="login-header">
-                <i class="fa-solid fa-robot brand-icon" style="font-size: 2.5rem; margin-bottom: 16px;"></i>
-                <h2 style="color: var(--text-primary); margin-bottom: 8px;">Support AI</h2>
-                <p style="color: var(--text-secondary); font-size: 0.95rem;">Sign in to access the support dashboard</p>
+            <div class="login-topbar">
+                <button id="langToggleBtn" class="lang-btn" type="button">العربية</button>
             </div>
+
+            <div class="login-header">
+                <img src="./logo-pl.png" alt="Pal CustomerAI Logo" class="brand-logo">
+                <h2 id="systemName" style="color: var(--text-primary); margin-bottom: 8px;">Pal CustomerAI</h2>
+                <p>AI-powered Arabic Customer Support</p>
+                <p id="loginSubtitle" style="color: var(--text-secondary); font-size: 0.70rem;">
+                    Sign in to access the customer support dashboard
+                </p>
+            </div>
+
             <form id="loginForm" class="login-form">
                 <div class="form-group">
-                    <label>Email</label>
-                    <input type="email" placeholder="Enter your email" required autofocus>
+                    <label id="emailLabel">Email</label>
+                    <input id="emailInput" type="email" placeholder="Enter your email" required autofocus>
                 </div>
+
                 <div class="form-group">
-                    <label>Password</label>
-                    <input type="password" placeholder="Enter your password" required>
+                    <label id="passwordLabel">Password</label>
+                    <input id="passwordInput" type="password" placeholder="Enter your password" required>
                 </div>
+
                 <div class="form-options">
-                    <label style="display: flex; align-items: center; gap: 8px; font-size: 0.85rem; color: var(--text-secondary); cursor: pointer;">
-                        <input type="checkbox"> Remember me
+                    <label id="rememberLabel" class="remember-label">
+                        <input type="checkbox"> <span>Remember me</span>
                     </label>
                 </div>
-                <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center; padding: 12px; margin-top: 10px;">Sign In</button>
+
+                <button id="signInBtn" type="submit" class="btn btn-primary login-submit-btn">
+                    Sign In
+                </button>
             </form>
+
+            <footer class="login-footer">
+                <p id="footerText">© 2026 Pal CustomerAI. All rights reserved.</p>
+            </footer>
         </div>
     </div>
 
@@ -47,8 +66,9 @@
         <!-- Sidebar -->
         <aside class="sidebar" id="sidebar">
             <div class="sidebar-header">
-                <i class="fa-solid fa-robot brand-icon"></i>
-                <span class="brand-name">Support AI</span>
+                <img src="./logo-pl.png" alt="Pal CustomerAI Logo" class="sidebar-logo">
+                <span class="brand-name">Pal CustomerAI</span>
+                <p>AI-powered Arabic Customer Support</p>
                 <button class="close-sidebar lg-hidden" id="closeSidebarBtn">
                     <i class="fa-solid fa-times"></i>
                 </button>

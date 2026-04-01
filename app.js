@@ -790,4 +790,66 @@ document.addEventListener("DOMContentLoaded", () => {
         }, 100);
     }
 
+    // --- Language Toggle ---
+    const langToggleBtn = document.getElementById("langToggleBtn");
+
+    const translations = {
+    en: {
+        pageTitle: "Pal CustomerAI",
+        systemName: "Pal CustomerAI",
+        subtitle: "Sign in to access the customer support dashboard",
+        email: "Email",
+        emailPlaceholder: "Enter your email",
+        password: "Password",
+        passwordPlaceholder: "Enter your password",
+        remember: "Remember me",
+        signIn: "Sign In",
+        footer: "© 2026 Pal CustomerAI. All rights reserved.",
+        langButton: "العربية"
+    },
+    ar: {
+        pageTitle: "بال كستمر AI",
+        systemName: "بال كستمر AI",
+        subtitle: "سجّل دخولك للوصول إلى لوحة دعم العملاء",
+        email: "البريد الإلكتروني",
+        emailPlaceholder: "أدخل بريدك الإلكتروني",
+        password: "كلمة المرور",
+        passwordPlaceholder: "أدخل كلمة المرور",
+        remember: "تذكرني",
+        signIn: "تسجيل الدخول",
+        footer: "© 2026 بال كستمر AI. جميع الحقوق محفوظة.",
+        langButton: "English"
+    }
+    };
+
+    let currentLanguage = "en";
+
+    function applyLanguage(lang) {
+    const t = translations[lang];
+
+    document.documentElement.lang = lang;
+    document.body.classList.toggle("rtl-mode", lang === "ar");
+    document.title = t.pageTitle;
+
+    document.getElementById("systemName").textContent = t.systemName;
+    document.getElementById("loginSubtitle").textContent = t.subtitle;
+    document.getElementById("emailLabel").textContent = t.email;
+    document.getElementById("emailInput").placeholder = t.emailPlaceholder;
+    document.getElementById("passwordLabel").textContent = t.password;
+    document.getElementById("passwordInput").placeholder = t.passwordPlaceholder;
+    document.querySelector("#rememberLabel span").textContent = t.remember;
+    document.getElementById("signInBtn").textContent = t.signIn;
+    document.getElementById("footerText").textContent = t.footer;
+    document.getElementById("langToggleBtn").textContent = t.langButton;
+    }
+
+    if (langToggleBtn) {
+    langToggleBtn.addEventListener("click", () => {
+        currentLanguage = currentLanguage === "en" ? "ar" : "en";
+        applyLanguage(currentLanguage);
+    });
+    }
+
+    applyLanguage(currentLanguage);
+
 });
