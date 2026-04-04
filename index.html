@@ -1,13 +1,150 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>feontend-part-gp</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pal CustomerAI</title>
+    <link rel="icon" type="image/png" href="./logo-pl.png">
+
+    <!-- Google Fonts: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body class="light">
+    <!-- Login View -->
+    <div id="loginApp" class="login-view">
+        <div class="login-card">
+            <div class="login-topbar">
+                <button id="langToggleBtn" class="lang-btn" type="button">العربية</button>
+            </div>
+
+            <div class="login-header">
+                <img src="./logo-pl.png" alt="Pal CustomerAI Logo" class="brand-logo">
+                <h2 id="systemName" style="color: var(--text-primary); margin-bottom: 8px;">Pal CustomerAI</h2>
+                <p>AI-powered Arabic Customer Support</p>
+                <p id="loginSubtitle" style="color: var(--text-secondary); font-size: 0.70rem;">
+                    Sign in to access the customer support dashboard
+                </p>
+            </div>
+
+            <form id="loginForm" class="login-form">
+                <div class="form-group">
+                    <label id="emailLabel">Email</label>
+                    <input id="emailInput" type="email" placeholder="Enter your email" required autofocus>
+                </div>
+
+                <div class="form-group">
+                    <label id="passwordLabel">Password</label>
+                    <input id="passwordInput" type="password" placeholder="Enter your password" required>
+                </div>
+
+                <div class="form-options">
+                    <label id="rememberLabel" class="remember-label">
+                        <input type="checkbox"> <span>Remember me</span>
+                    </label>
+                </div>
+
+                <button id="signInBtn" type="submit" class="btn btn-primary login-submit-btn">
+                    Sign In
+                </button>
+            </form>
+
+            <footer class="login-footer">
+                <p id="footerText">© 2026 Pal CustomerAI. All rights reserved.</p>
+            </footer>
+        </div>
+    </div>
+
+    <div class="app-container" id="dashboardApp" style="display: none;">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="sidebar-header-row">
+                    <img src="./logo-pl.png" alt="Pal CustomerAI Logo" class="sidebar-logo"
+                        style="width:28px;height:28px;border-radius:6px;flex-shrink:0;">
+                    <span class="brand-name">Pal CustomerAI</span>
+                </div>
+                <p style="font-size:0.72rem;color:var(--text-secondary);margin:0;">AI-powered Arabic Customer Support
+                </p>
+                <button class="close-sidebar lg-hidden" id="closeSidebarBtn">
+                    <i class="fa-solid fa-times"></i>
+                </button>
+            </div>
+
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item" id="navDashboard">
+                    <i class="fa-solid fa-chart-line"></i>
+                    <span>Dashboard</span>
+                </a>
+                <a href="#" class="nav-item active" id="navMessages">
+                    <i class="fa-solid fa-envelope"></i>
+                    <span>Messages</span>
+                </a>
+                <a href="#" class="nav-item" id="navRouting">
+                    <i class="fa-solid fa-users-gear"></i>
+                    <span>Routing</span>
+                </a>
+                <a href="#" class="nav-item" id="navFaq">
+                    <i class="fa-solid fa-circle-question"></i>
+                    <span>FAQ</span>
+                </a>
+                <a href="#" class="nav-item" id="navAnalytics">
+                    <i class="fa-solid fa-chart-pie"></i>
+                    <span>Analytics</span>
+                </a>
+            </nav>
+        </aside>
+
+        <!-- Main Layout -->
+        <div class="main-layout">
+            <!-- Top Navbar -->
+            <header class="top-navbar">
+                <div class="nav-left">
+                    <button class="toggle-sidebar lg-hidden" id="toggleSidebarBtn">
+                        <i class="fa-solid fa-bars"></i>
+                    </button>
+                    <h1 class="page-title" id="pageTitle">Incoming Messages</h1>
+                </div>
+
+                <div class="nav-right">
+                    <div class="search-container">
+                        <i class="fa-solid fa-search search-icon"></i>
+                        <input type="text" class="search-input global-search" id="globalSearch" placeholder="Search...">
+                    </div>
+
+                    <button class="theme-toggle" id="themeToggleBtn" title="Toggle Dark/Light Mode">
+                        <i class="fa-regular fa-moon" id="themeIcon"></i>
+                    </button>
+
+                    <div class="user-profile">
+                        <div class="avatar">
+                            <i class="fa-solid fa-user"></i>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Main Content Area where views will be injected -->
+            <main class="main-content" id="appContent">
+                <!-- Content injected via JS -->
+            </main>
+        </div>
+
+        <!-- Sidebar overlay for mobile -->
+        <div class="sidebar-overlay" id="sidebarOverlay"></div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+</body>
+
 </html>
