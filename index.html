@@ -67,8 +67,12 @@
         <aside class="sidebar" id="sidebar">
             <div class="sidebar-header">
                 <img src="./logo-pl.png" alt="Pal CustomerAI Logo" class="sidebar-logo">
-                <span class="brand-name">Pal CustomerAI</span>
-                <p>AI-powered Arabic Customer Support</p>
+
+                <div class="brand-text">
+                    <span class="brand-name">Pal CustomerAI</span>
+                    <p class="brand-subtitle">AI-powered Arabic Customer Support</p>
+                </div>
+
                 <button class="close-sidebar lg-hidden" id="closeSidebarBtn">
                     <i class="fa-solid fa-times"></i>
                 </button>
@@ -114,14 +118,30 @@
                         <i class="fa-solid fa-search search-icon"></i>
                         <input type="text" class="search-input global-search" id="globalSearch" placeholder="Search...">
                     </div>
-                    
+    
                     <button class="theme-toggle" id="themeToggleBtn" title="Toggle Dark/Light Mode">
                         <i class="fa-regular fa-moon" id="themeIcon"></i>
                     </button>
                     
-                    <div class="user-profile">
+                    <div class="user-profile" id="userProfile">
                         <div class="avatar">
                             <i class="fa-solid fa-user"></i>
+                        </div>
+                        <div class="profile-dropdown" id="profileDropdown">
+                            <div class="profile-info">
+                                <div class="profile-avatar-lg">
+                                    <i class="fa-solid fa-user"></i>
+                                </div>
+                                <div>
+                                    <div class="profile-name">Admin User</div>
+                                    <div class="profile-email">admin@pal.ai</div>
+                                </div>
+                            </div>
+                            <hr class="dropdown-divider">
+                            <button class="dropdown-item logout-item" id="logoutBtn">
+                                <i class="fa-solid fa-right-from-bracket"></i>
+                                <span>Logout</span>
+                            </button>
                         </div>
                     </div>
                 </div>

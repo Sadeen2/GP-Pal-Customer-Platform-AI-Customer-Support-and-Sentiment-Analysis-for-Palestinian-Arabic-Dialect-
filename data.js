@@ -1,149 +1,149 @@
-// Mock array of 8 realistic customer support messages
+// بيانات وهمية - 8 رسائل دعم عملاء باللهجة الفلسطينية
 
 const dummyMessages = [
     {
         id: "MSG-001",
-        customerName: "Alice Freeman",
-        email: "alice.f@example.com",
-        messagePreview: "My package was marked as delivered but I haven't received it.",
-        fullMessage: "Hello support, my tracking number #TRK-88291 shows that my package was delivered yesterday at 3:00 PM. However, I have checked my porch, with my neighbors, and the mailroom, but it's nowhere to be found. Can you please help me track this down or issue a replacement?",
+        customerName: "ريم أبو علي",
+        email: "reem.abuali@example.com",
+        messagePreview: "الطلبية تبعتي مكتوب عليها استلمت بس ما وصلتني.",
+        fullMessage: "مرحبا، رقم التتبع #TRK-88291 بيقول إنو الطلبية وصلت امبارح الساعة 3 العصر. بس بحثت عند الباب وعند الجيران وعند أمانات البناية وما لقيتها. ممكن تساعدوني تتابعوا الموضوع ولا تبعتولي بديل؟",
         sentiment: "Negative",
-        intent: "Complaint",
+        intent: "شكوى",
         urgency: "High",
         timestamp: "2026-03-27T08:15:00Z",
         status: "Pending",
         assignedAgent: "Unassigned",
         confidence: 94,
-        suggestedReply: "I'm so sorry to hear your package hasn't arrived, Alice. I'm opening an investigation with the courier right now. If they cannot locate it within 24 hours, we will immediately process a requested replacement or refund for you.",
+        suggestedReply: "آسفين كتير يا ريم إنو الطلبية ما وصلتك. فتحنا تحقيق مع شركة التوصيل هلق. إذا ما قدروا يحددوا مكانها خلال 24 ساعة، رح نرسلك بديل أو نرجعلك الفلوس فوراً.",
         conversationHistory: [
-            { sender: "Alice Freeman", text: "My package was marked as delivered but I haven't received it.", time: "08:15 AM" }
+            { sender: "ريم أبو علي", text: "الطلبية تبعتي مكتوب عليها استلمت بس ما وصلتني.", time: "08:15 ص" }
         ]
     },
     {
         id: "MSG-002",
-        customerName: "Bob Smith",
-        email: "bob.smith@example.com",
-        messagePreview: "Question about the pro subscription features.",
-        fullMessage: "Hi team, I am currently on the basic plan and considering an upgrade. Could you please clarify if the Pro subscription includes unlimited API calls, or is there a monthly cap? Thanks in advance.",
+        customerName: "محمد الخطيب",
+        email: "m.khatib@example.com",
+        messagePreview: "عندي سؤال عن مميزات الاشتراك المدفوع.",
+        fullMessage: "هلا، أنا هلق على الباقة الأساسية وعم بفكر أترقى. ممكن توضحولي إذا اشتراك Pro بيشمل طلبات API بدون حد، ولا في حد شهري؟ شكراً مسبقاً.",
         sentiment: "Neutral",
-        intent: "Inquiry",
+        intent: "استفسار",
         urgency: "Low",
         timestamp: "2026-03-27T08:42:00Z",
         status: "Pending",
-        assignedAgent: "Sarah Ali",
+        assignedAgent: "سارة علي",
         confidence: 88,
-        suggestedReply: "Hi Bob, thanks for reaching out! Our Pro subscription includes up to 100,000 API calls per month. If you need unlimited calls, you might want to consider our Enterprise plan.",
+        suggestedReply: "هلا محمد، شكراً لتواصلك معنا! اشتراك Pro بيشمل لغاية 100,000 طلب API بالشهر. إذا بدك بدون حد، ممكن تفكر بباقة Enterprise.",
         conversationHistory: [
-            { sender: "Bob Smith", text: "Question about the pro subscription features.", time: "08:42 AM" }
+            { sender: "محمد الخطيب", text: "عندي سؤال عن مميزات الاشتراك المدفوع.", time: "08:42 ص" }
         ]
     },
     {
         id: "MSG-003",
-        customerName: "Carlos Diaz",
-        email: "cdiaz@example.com",
-        messagePreview: "Can't log in into my account. Password reset not working.",
-        fullMessage: "This is very frustrating. I've been trying to log in for the past two hours. I hit 'Forgot Password' and never receive the reset email. Please fix this immediately, I need to access my invoices.",
+        customerName: "كريم الشريف",
+        email: "k.sharif@example.com",
+        messagePreview: "مش قادر أدخل على حسابي وإعادة تعيين كلمة السر ما بتشتغل.",
+        fullMessage: "هاد الشي محبط كتير. من ساعتين وأنا بحاول أدخل. ضغطت على 'نسيت كلمة السر' بس ما جاني أي إيميل. ارجوكم حلوا هاد الموضوع بسرعة، محتاج أوصل لفواتيري.",
         sentiment: "Negative",
-        intent: "Request",
+        intent: "طلب",
         urgency: "High",
         timestamp: "2026-03-27T09:05:00Z",
         status: "Escalated",
-        assignedAgent: "Michael Brown",
+        assignedAgent: "مايكل براون",
         confidence: 91,
-        suggestedReply: "Hi Carlos, I sincerely apologize for the inconvenience. I have manually triggered a password reset link to a secondary email if you have one, or I can verify your identity manually. Let's get this sorted right away.",
+        suggestedReply: "هلا كريم، آسفين جداً على هاد الإزعاج. بعثتلك رابط إعادة تعيين يدوي على الإيميل الاحتياطي إذا عندك، أو ممكن نتحقق من هويتك بطريقة ثانية. خلينا نحل الموضوع هلق.",
         conversationHistory: [
-            { sender: "Carlos Diaz", text: "Can't log in into my account. Password reset not working.", time: "09:05 AM" }
+            { sender: "كريم الشريف", text: "مش قادر أدخل على حسابي وإعادة تعيين كلمة السر ما بتشتغل.", time: "09:05 ص" }
         ]
     },
     {
         id: "MSG-004",
-        customerName: "Diana Prince",
-        email: "diana.p@example.com",
-        messagePreview: "Great service, just wanting to leave some feedback!",
-        fullMessage: "I just wanted to drop a quick note to say thank you to your support rep John. He helped me set up my integration perfectly, and it works flawlessly. Keep up the great work!",
+        customerName: "دانا النجار",
+        email: "dana.najjar@example.com",
+        messagePreview: "خدمة ممتازة، بدي أشارككم رأيي!",
+        fullMessage: "بدي أشكركم على موظف الدعم جون. ساعدني أربط النظام بشكل مثالي وصار يشتغل بدون أي مشكلة. استمروا بهيك مستوى!",
         sentiment: "Positive",
-        intent: "Feedback",
+        intent: "تقييم",
         urgency: "Low",
         timestamp: "2026-03-27T09:30:00Z",
         status: "Responded",
-        assignedAgent: "John Carter",
+        assignedAgent: "جون كارتر",
         confidence: 98,
-        suggestedReply: "Thank you so much for the kind words, Diana! We'll be sure to pass along your praise to John. Have a wonderful day!",
+        suggestedReply: "شكراً كتير يا دانا على كلامك الحلو! رح نوصل شكرك لجون بالتأكيد. يوم سعيد!",
         conversationHistory: [
-            { sender: "Diana Prince", text: "I just wanted to drop a quick note to say thank you...", time: "09:30 AM" },
-            { sender: "Agent (John Carter)", text: "Thank you so much for the kind words, Diana!...", time: "09:45 AM" }
+            { sender: "دانا النجار", text: "بدي أشكركم على موظف الدعم جون وعلى الخدمة الممتازة.", time: "09:30 ص" },
+            { sender: "موظف (جون كارتر)", text: "شكراً كتير يا دانا على كلامك الحلو! يوم سعيد!", time: "09:45 ص" }
         ]
     },
     {
         id: "MSG-005",
-        customerName: "Evan Zhao",
-        email: "ezhao88@example.com",
-        messagePreview: "I need a refund for my last invoice.",
-        fullMessage: "Hello, I noticed a charge on my credit card this morning for an annual renewal that I did not authorize. Please cancel my account immediately and refund the $120 charge.",
+        customerName: "إياد حمدان",
+        email: "iyad.hamdan@example.com",
+        messagePreview: "بدي استرجع فلوس آخر فاتورة.",
+        fullMessage: "مرحبا، لاحظت اليوم الصبح إنو في خصم من بطاقتي لتجديد سنوي ما وافقت عليه. ارجوكم ألغوا اشتراكي فوراً وارجعوا لي الـ 120 دولار.",
         sentiment: "Negative",
-        intent: "Request",
+        intent: "طلب",
         urgency: "Medium",
         timestamp: "2026-03-27T09:45:00Z",
         status: "Pending",
         assignedAgent: "Unassigned",
         confidence: 85,
-        suggestedReply: "Hi Evan, I've gone ahead and cancelled your subscription as requested. The refund of $120 has been processed and should reflect in your account in 3-5 business days.",
+        suggestedReply: "هلا إياد، ألغينا اشتراكك كما طلبت. عملية استرداد الـ 120 دولار تمت وراح تظهر بحسابك خلال 3-5 أيام عمل.",
         conversationHistory: [
-            { sender: "Evan Zhao", text: "I need a refund for my last invoice.", time: "09:45 AM" }
+            { sender: "إياد حمدان", text: "بدي استرجع فلوس آخر فاتورة.", time: "09:45 ص" }
         ]
     },
     {
         id: "MSG-006",
-        customerName: "Fiona Gallagher",
-        email: "fiona.g@example.com",
-        messagePreview: "Following up on my previous ticket (#TK-441)",
-        fullMessage: "Hi, I submitted a ticket three days ago about the export feature bug on the dashboard and haven't heard back. Is there any update on this?",
+        customerName: "سمر العمري",
+        email: "samar.omari@example.com",
+        messagePreview: "متابعة على طلبي السابق (#TK-441)",
+        fullMessage: "هلا، منذ ثلاثة أيام أرسلت تذكرة عن خلل في ميزة التصدير بالداشبورد وما رد عليّ أحد. في أي تحديث؟",
         sentiment: "Neutral",
-        intent: "Inquiry",
+        intent: "استفسار",
         urgency: "Medium",
         timestamp: "2026-03-27T10:10:00Z",
         status: "Pending",
-        assignedAgent: "Noor Hassan",
+        assignedAgent: "نور حسن",
         confidence: 77,
-        suggestedReply: "Hi Fiona, I apologize for the delay. Our engineering team is currently looking into ticket #TK-441. I will bump the priority on this and update you directly by the end of the day.",
+        suggestedReply: "هلا سمر، آسفين على التأخير. فريق الهندسة هلق شغال على تذكرة #TK-441. رح نرفع أولويتها ونرجعلك بتحديث قبل نهاية اليوم.",
         conversationHistory: [
-            { sender: "Fiona Gallagher", text: "Following up on my previous ticket (#TK-441)", time: "10:10 AM" }
+            { sender: "سمر العمري", text: "متابعة على طلبي السابق (#TK-441)", time: "10:10 ص" }
         ]
     },
     {
         id: "MSG-007",
-        customerName: "George Miller",
-        email: "gmiller@example.com",
-        messagePreview: "Is it possible to change my shipping address?",
-        fullMessage: "Hi, I just placed an order 10 minutes ago, but I realize I used my old address. Can you please update my shipping address to 123 New Way Rd, Springfield?",
+        customerName: "خالد أبو رية",
+        email: "khaled.aburayya@example.com",
+        messagePreview: "ممكن أغير عنوان التوصيل؟",
+        fullMessage: "هلا، طلبت طلبية قبل 10 دقائق بس لاحظت إني حطيت العنوان القديم. ممكن تغيروا عنوان التوصيل لـ شارع النجاح 123، رام الله؟",
         sentiment: "Neutral",
-        intent: "Request",
+        intent: "طلب",
         urgency: "High",
         timestamp: "2026-03-27T10:25:00Z",
         status: "Pending",
         assignedAgent: "Unassigned",
         confidence: 92,
-        suggestedReply: "Hi George! I've successfully intercepted your order and updated the shipping address to 123 New Way Rd, Springfield. You'll receive a confirmation email shortly.",
+        suggestedReply: "هلا خالد! عدّلنا عنوان التوصيل لشارع النجاح 123، رام الله بنجاح. راح يوصلك إيميل تأكيد هلق.",
         conversationHistory: [
-            { sender: "George Miller", text: "Is it possible to change my shipping address?", time: "10:25 AM" }
+            { sender: "خالد أبو رية", text: "ممكن أغير عنوان التوصيل؟", time: "10:25 ص" }
         ]
     },
     {
         id: "MSG-008",
-        customerName: "Hannah Abbott",
-        email: "hannah.a@example.com",
-        messagePreview: "Wow, the new update is amazing!",
-        fullMessage: "Just wanted to let your team know that the new dark mode and overhauled UI is spectacular. It's so much easier on the eyes. Thanks!",
+        customerName: "نور البطش",
+        email: "nour.battsh@example.com",
+        messagePreview: "والله التحديث الجديد روعة!",
+        fullMessage: "بس بدي أقولكم إن الوضع الليلي الجديد والواجهة الجديدة شي ما بيتوصف. كتير أريح للعين. شكراً للفريق!",
         sentiment: "Positive",
-        intent: "Feedback",
+        intent: "تقييم",
         urgency: "Low",
         timestamp: "2026-03-27T10:50:00Z",
         status: "Pending",
         assignedAgent: "Unassigned",
         confidence: 99,
-        suggestedReply: "Hi Hannah, we are thrilled to hear that you're enjoying the new dark mode! Feedback like yours makes our day.",
+        suggestedReply: "هلا نور، يسعدنا إنك عاجبك الوضع الليلي الجديد! كلامك الحلو بسعدنا كتير.",
         conversationHistory: [
-            { sender: "Hannah Abbott", text: "Wow, the new update is amazing!", time: "10:50 AM" }
+            { sender: "نور البطش", text: "والله التحديث الجديد روعة!", time: "10:50 ص" }
         ]
     }
 ];
