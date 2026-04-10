@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "text": "يسلمو إيديكم والله الخدمة عندكم بتجنن والشباب ما قصروا بالمرة في التركيب",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 2,
+    "text": "يا جماعة الكهربا قاطعة عنا من الصبح في منطقة الرمال شو القصة؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 3,
+    "text": "بدي اسأل قديش سعر اشتراك المي الجديد عندكم بالشركة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 4,
+    "text": "المية غرقانة بالشارع والماسورة مكسورة بطلعة أبو سنينة الحقونا بسرعة المي دخلت عالدور",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 5,
+    "text": "مرحبا، في مجال تغيروا موعد زيارة الفني لبكرة الصبح بدل اليوم؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 6,
+    "text": "يعطيكم العافية، حابب أشكر الموظف اللي رد علي هلقيت كان كثير محترم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 7,
+    "text": "ليش الفاتورة هاد الشهر نازلة دبل؟ والله ما استهلكنا اشي زيادة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 8,
+    "text": "وين أقرب فرع لمركزكم في محافظة جنين؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 9,
+    "text": "يما المية ضعيفة بالببور صارلها يومين، شو في عطل بالمنطقة؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 10,
+    "text": "ممكن تبعتولي كشف حساب لآخر ست شهور لو سمحتوا؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 11,
+    "text": "كل الاحترام لجهودكم، صراحة أحسن شركة بتعامل معها بفلسطين",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 12,
+    "text": "يا عمي صلنا ساعة بنرن وما حدا بيرد، شو هالمعاملة هاي؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 13,
+    "text": "بدي الغي الاشتراك تبعي كيف الطريقة؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 14,
+    "text": "في خطر عالناس، سلك كهربا مقطوع بنص الشارع بالحارة التحتا!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 15,
+    "text": "لو سمحتوا، كيف بقدر ادفع الفاتورة عن طريق التطبيق؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 16,
+    "text": "يسعد مساكم، حبيت أمر وأسلم بس. خدماتكم ممتازة",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 17,
+    "text": "يا زلمة انقطع النفس واحنا بنستنى، الموظفين عندكم نايمين؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 18,
+    "text": "بدي اعرف اوقات الدوام في رمضان لفرع نابلس",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 19,
+    "text": "النت فصل وما رجعش، صرت راستر الراوتر مية مرة وما في فايدة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 20,
+    "text": "ممكن تفاصيل عن العروض الجديدة اللي نزلتوها عالفيسبوك؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 21,
+    "text": "ما شاء الله، سرعة في الرد واحترافية عالية، الله يوفقكم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 22,
+    "text": "العداد عندي بيزمر، شو معناه هاد الاشي؟ خايف تفصل الكهربا",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 23,
+    "text": "الريحة طالعة من المناهل بالشارع، بليز ابعتوا حدا يشوف الصرف الصحي",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 24,
+    "text": "بدي احول الاشتراك لاسم اخوي، شو الاوراق المطلوبة يابا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 25,
+    "text": "شكراً جزيلاً عالمساعدة، حليتولي المشكلة بدقايق",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 26,
+    "text": "بدي اطلب صهريج مي، قديش بياخد وقت ليوصل لعندنا؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 27,
+    "text": "شو قصة الرواتب؟ الموظف حكالي الفاتورة بتندفع كاش بس!",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 28,
+    "text": "حسبي الله ونعم الوكيل فيكم، خربتوا الأجهزة بسبب قوة الكهربا المفاجئة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 29,
+    "text": "ممكن تبعتولي رقم الفني اللي اجا عنا اليوم نسي مفتاح عندي",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 30,
+    "text": "الخدمة كتير بطيئة والنت بيقطع وقت الزوم، هيك ما بينفع بالمرة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 31,
+    "text": "تحية من غزة العزة لأحلى شركة خدمات، شغلكم مرتب",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 32,
+    "text": "بدي استفسر عن حملة تقسيط الديون القديمة، لسا موجودة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 33,
+    "text": "ليش ما في رد على رسائل الواتساب؟ صارلي يومين ببعت",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 34,
+    "text": "مرحبا عمي، بدي اركب ساعة مي جديدة شو الخطوات؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 35,
+    "text": "فش عندكم ذمة ولا ضمير، الناس بتموت من العطش وانتم ولا انتو هون",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 36,
+    "text": "ممتازين، استمروا، الله يعطيكم الصحة والعافية",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 37,
+    "text": "بقدر ادفع الفاتورة من خلال محلات الصرافة ولا لازم بالشركة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 38,
+    "text": "الكهربا ضعيفة كتير واللمبات بترمش، خايف الثلاجة تنحرق",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 39,
+    "text": "بدي اقدم طلب وظيفة عندكم وين ابعت السي في؟",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 40,
+    "text": "يعطيكم العافية، التغطية في منطقة تل الهوا مش بزيادة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 41,
+    "text": "أحلى تعامل والله، ريحتونا كثير من غلبة المكاتب",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 42,
+    "text": "في ريحة حريق طالعة من خزانة الكهربا الرئيسية بالبناية تعالو فوراً",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 43,
+    "text": "ممكن تبعتولي لوكيشن المكتب تبع رام الله؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 44,
+    "text": "ليش الموقع الالكتروني مش شغال؟ حاولت افوت مش راضي",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 45,
+    "text": "كل الحب والاحترام للجهود الجبارة في ظل الظروف الصعبة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 46,
+    "text": "بدي اعرف قديش ضايل علي ديون عشان اسكرها",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 47,
+    "text": "الفني اللي اجا اليوم كان صوته عالي وما اتعامل بأدب، يرجى المتابعة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 48,
+    "text": "بدي اشحن كرت الكهربا وما في ولا محل فاتح هلقيت، شو اعمل؟",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 49,
+    "text": "شكراً الكم، تم حل المشكلة بسرعة فائقة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 50,
+    "text": "يا جماعة الخير، وين جدول قطع المي لهاد الأسبوع في الخليل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 51,
+    "text": "تعبنا من الوعود الكاذبة، صارلكم شهر بتحكو بكره بنصلحها",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 52,
+    "text": "بقدر اطلب تحويل الفاتورة على الايميل بدل الورق؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 53,
+    "text": "والله إنكم كفو، دايمًا موجودين وقت الزنقة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 54,
+    "text": "يا اخوان النت مقطوع بكل المنطقة ولا بس عندي في بيت حنينا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 55,
+    "text": "ليش السحب من الرصيد بصير بسرعة مع إني ما بستخدم النت كثير؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 56,
+    "text": "ممكن تحكولي شو الأوراق المطلوبة لفتح اشتراك تجاري؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 57,
+    "text": "تعامل راقي جداً من موظف الاستقبال، شكراً جزيلاً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 58,
+    "text": "يا عالم ارحمونا، المي مقطوعة والجو نار، الولاد الصغار مش متحملين",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 59,
+    "text": "بدي اطلب تمديد كابلات جديدة للمحل تبعي بالبلدة القديمة",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 60,
+    "text": "هل في خصومات لذوي الاحتياجات الخاصة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 61,
+    "text": "خدمة زبالة وما حدا سائل فينا، حسبي الله بس",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 62,
+    "text": "أنا طالب وبدي اعرف اذا في باقات خاصة للطلاب؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 63,
+    "text": "يسعد صباحكم، حابب اعرف كيف بقدر افعل خدمة الرسائل القصيرة",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 64,
+    "text": "يا خوي والله زهقنا، كل شوي بتفصل الكهربا وبترجع، شو هاد؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 65,
+    "text": "بدي ابلغ عن عمود كهربا آيل للسقوط في شارع النصر",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 66,
+    "text": "شكراً للمدير وللطاقم على الاستجابة السريعة لمشكلتي",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 67,
+    "text": "كيف بقدر اغير كلمة السر تبعت الراوتر من عندي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 68,
+    "text": "بدي استفسر عن تأمين العداد، متى بسترجعه؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 69,
+    "text": "الموظف اللي حكيت معه هلقيت سكر الخط بوجهي! هاد كلام؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 70,
+    "text": "ما شاء الله عليكم، دايماً بالقمة وخدمتكم بتبيض الوج",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 71,
+    "text": "بدي انقل الساعة من بيت لبيت، شو الاجراءات يابا؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 72,
+    "text": "ليش المي ريحتها مش طيبة اليوم؟ في اشي بالمواسير؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 73,
+    "text": "لو سمحتو، في مجال فني يجي يشيك على التمديدات الداخلية؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 74,
+    "text": "أنا من بيت لحم وبدي اعرف وين ممكن ادفع بدون ما اجي عالشركة",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 75,
+    "text": "يسلمو كثير، الشغل كان سريع ونظيف",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 76,
+    "text": "ليش الخدمة عند جيراني شغالة وعندنا قاطعة؟ نفس البناية إحنا",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 77,
+    "text": "يا عمي انتو شركة نصابة، سحبتو المصاري وما فعلتو الخدمة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 78,
+    "text": "كيف ممكن اشترك في خدمة الدفع التلقائي من البنك؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 79,
+    "text": "الله يعطيكم العافية ويقويكم يا رب، مجهودكم مشكور",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 80,
+    "text": "المي بتنزل لونها بني من الحنفية، حد يحكيلي شو السبب؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 81,
+    "text": "بقدر اجدد الاشتراك اونلاين؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 82,
+    "text": "يخلف عليكم، ما قصرتو بالمرة والنت صار طيارة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 83,
+    "text": "صار عندي التماس بكهربا البيت، ابعتوا حدا بسرعة الدنيا رح تنحرق",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 84,
+    "text": "بدي اقدم شكوى رسمية بحق الموظف اللي كان مداوم مبارح",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 85,
+    "text": "مرحبا، في عندكم عروض للشركات الصغيرة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 86,
+    "text": "والله إنكم بترفعوا الراس، سرعة في التنفيذ وأدب في التعامل",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 87,
+    "text": "بدي أغير رقم الموبايل المسجل عندكم بالحساب",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 88,
+    "text": "ليش الموظف بيحكيلي المعاملة بدها أسبوع؟ كثير هيك يابا",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 89,
+    "text": "ممكن توضحولي بنود الفاتورة؟ في مبالغ مش فاهمها",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 90,
+    "text": "يعطيكم العافية، النت مقطوع في طولكرم عزبة ناصر",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 91,
+    "text": "تحياتي لكل الموظفين، صراحة خدمة بتستاهل خمس نجوم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 92,
+    "text": "بدي اعرف كيف بقدر اشحن كرت الكهربا من جوال بي",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 93,
+    "text": "وين الجدول تبع توزيع المي لقرى غرب جنين؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 94,
+    "text": "عن جد عيب عليكم، صارلي أربع ساعات بستنى الفني وما اجا",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 95,
+    "text": "شكراً عالهدية اللي بعتوها بمناسبة السنة الجديدة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 96,
+    "text": "بدي اركب انترنت فايبر، هل الخدمة واصلة لحي الشجاعية؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 97,
+    "text": "الكهربا ضربت عندي وفصلت كل الدار، شو أعمل؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 98,
+    "text": "ممكن حدا يتصل فيني بخصوص موضوع الفاتورة؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 99,
+    "text": "روعة، أفضل تعامل شفته بحياتي، الله يسعدكم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 100,
+    "text": "ليش في تأخير بتصليح الخطوط الأرضية في غزة؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 101,
+    "text": "بدي أسأل عن رسوم التأمين قديش هي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 102,
+    "text": "المي ضعيفة كثير ما بتوصل للخزانات فوق، شو الحل يا جماعة؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 103,
+    "text": "بدي حدا يجي يغير مكان العداد عشان بدنا نهدم السور",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 104,
+    "text": "يسلمو إيديكو، الخدمة سريعة والنت طيارة والله",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 105,
+    "text": "كيف بقدر افعل التجوال الدولي على شريحتي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 106,
+    "text": "ليش كل شهر بتزيد الفاتورة مع انو الاستهلاك هو هو؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 107,
+    "text": "يعطيكم العافية، في مجال تقسطوا المبلغ اللي علي؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 108,
+    "text": "شكراً للموظفة سارة على صبرها ومساعدتها إلي اليوم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 109,
+    "text": "في ماسورة مي مكسورة بوسط شارع صلاح الدين، المي بتهدر حرام",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 110,
+    "text": "بدي استفسر عن مواعيد الدفع في فرع طولكرم",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 111,
+    "text": "والله شركة محترمة وبتقدر الزبائن، شكراً لكم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 112,
+    "text": "الكهربا بتقطع وبتيجي كل دقيقة، خربتولنا الأجهزة الكهربائية!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 113,
+    "text": "لو سمحتوا، كيف بقدر الغي اشتراك الخدمات المضافة؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 114,
+    "text": "النت بطيء بشكل مش طبيعي، مش عارف افتح حتى فيسبوك",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 115,
+    "text": "تحياتي الكم، التطبيق الجديد رائع وسهل الاستخدام",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 116,
+    "text": "ممكن حدا يجاوبني ليش المي قاطعة ببلدة ترقوميا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 117,
+    "text": "بدي اعرف رصيدي الحالي بكرت الكهربا قديش؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 118,
+    "text": "زهقتونا، كل يوم عطل شكل، بطلت شركة هاي",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 119,
+    "text": "بارك الله فيكم، شباب التوصيل كانو محترمين كثير",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 120,
+    "text": "بدي اطلب صهريج مي طارئ لبيت جالا، قديش السعر؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 121,
+    "text": "ليش ما في تغطية إنترنت في منطقة وادي الجوز بالقدس؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 122,
+    "text": "ممكن تحكولي كيف بقدر احول رصيد من حساب لحساب؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 123,
+    "text": "يعطيكم العافية، هل في عطل عام بمنطقة رام الله التحتا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 124,
+    "text": "شكراً على الاستجابة السريعة لبلاغي بخصوص تسريب المي",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 125,
+    "text": "والله حرام عليكم اللي بتعملوه بالناس، قطع الكهربا بعز البرد!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 126,
+    "text": "بدي اسأل عن ساعات دوام مكتب البريد بالخليل",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 127,
+    "text": "ممكن اطلب فني يجي يشوف العداد لأنه بيطلع صوت غريب؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 128,
+    "text": "التعامل معكم بريح البال، شكراً جزيلاً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 129,
+    "text": "وين بقدر ألاقي مراكز الشحن القريبة من مخيم جباليا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 130,
+    "text": "ليش التطبيق بيحكيلي الرقم السري غلط وأنا متأكد منه؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 131,
+    "text": "بدي اعرف اذا في امكانية اغير نظام الاشتراك الشهري",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 132,
+    "text": "كل التقدير لطواقم الميدان اللي بيشتغلوا تحت المطر",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 133,
+    "text": "الكهربا فصلت فجأة وما في أي ضغط عالشبكة، شو السبب؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 134,
+    "text": "يا ريت توفروا خدمة الشحن من خلال المحفظة الإلكترونية",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 135,
+    "text": "أسوأ شركة تعاملت معها، وعود كاذبة وتأخير مستمر",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 136,
+    "text": "بدي أعرف قيمة الغرامة على التأخير في الدفع قديش؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 137,
+    "text": "ممكن حدا يشرحلي كيف بفعل باقة الـ 100 ميجا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 138,
+    "text": "شكراً الكم على سعة صدركم وتحملكم لأسئلتنا الكتيرة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 139,
+    "text": "المي اللي بتوصلنا لونها أبيض زي الكلور، هاد صحي؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 140,
+    "text": "بدي اطلب كشف استهلاك لآخر سنة لغايات ضريبية",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 141,
+    "text": "والله يا عمي شغلكم نظيف وما عليه كلام، استمروا",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 142,
+    "text": "ليش الخدمة انقطعت عني مع إني دافع الفاتورة مبارح؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 143,
+    "text": "بدي اسأل في عندكم فروع بتفتح يوم الجمعة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 144,
+    "text": "شو قصة البطء في الرد على التلفون؟ قعدت نص ساعة بستنى",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 145,
+    "text": "يسعدكم ربي، أحسن ناس وأسرع خدمة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 146,
+    "text": "بقدر اغير اسم المشترك من خلال الواتساب ولا لازم حضور شخصي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 147,
+    "text": "الحقونا، في حفرة بالشارع ناتجة عن أعمالكم وسكرت مدخل الكراج",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 148,
+    "text": "ممكن حدا يبعتلي رابط تحميل التطبيق للأندرويد؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 149,
+    "text": "شكراً لكل موظفي خدمة العملاء على روحهم الحلوة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 150,
+    "text": "المي مقطوعة عنا في رفح من 3 أيام، شو السيرة؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 151,
+    "text": "بدي استفسر عن كيفية الحصول على براءة ذمة",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 152,
+    "text": "يا زلمة والله انكم بطلتو تردوا عحدا، شو اللي صاير بالشركة؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 153,
+    "text": "كل الحب الكم، دايماً بتسهلوا علينا الأمور",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 154,
+    "text": "لو سمحتوا، في مجال حد يجي يفحص قوة الكهربا بالبيت؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 155,
+    "text": "النت فصل وما في أي إشارة بالراوتر، جربت كل شي وما نفع",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 156,
+    "text": "بدي اعرف شو الوثائق المطلوبة عشان انقل الملكية لمرتي",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 157,
+    "text": "ممتازين جداً، الخدمة فاقت توقعاتي والله",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 158,
+    "text": "يا ريت لو في خيار دفع بالتقسيط للمبالغ الكبيرة",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 159,
+    "text": "الموظف اللي بالفرع كان كثير غليظ وما ساعدني بالمرة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 160,
+    "text": "كيف بقدر اشغل باقة الانترنت الأسبوعية؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 161,
+    "text": "يسلمو إيديكم، صلحوا العطل بوقت قياسي",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 162,
+    "text": "الخدمة بالليل بتصير بطيئة كثير، ليش؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 163,
+    "text": "ممكن تحكولي قديش سعر المتر المكعب للمي هلقيت؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 164,
+    "text": "الكهربا اللي بتوصل ضعيفة وما بتشغل الغسالة، شو الحل؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 165,
+    "text": "شكراً للمساعدة، فعلاً أنتم قدها وقدود",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 166,
+    "text": "بدي اطلب صيانة دورية للخطوط الخارجية للدار",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 167,
+    "text": "ليش سحبتوا الرصيد بدون ما يوصلني أي تنبيه؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 168,
+    "text": "في مجال تبعتوا فاتورة الشهر هاد عالواتساب؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 169,
+    "text": "أحسن شركة خدمات في فلسطين بلا منازع، استمروا",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 170,
+    "text": "شو الإجراءات في حال ضياع كرت شحن الكهربا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 171,
+    "text": "الريحة اللي طالعة من المي مش طبيعية، خايفين نتسمم",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 172,
+    "text": "بدي اعرف اذا في مجال لخدمة الدفع عن طريق نقاط البيع في غزة",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 173,
+    "text": "شكراً الكم، حليتو المشكلة بسرعة غير متوقعة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 174,
+    "text": "يا جماعة سلك الكهربا هابط وقريب من راس الناس، تعالوا ارفعوه",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 175,
+    "text": "بدي أسجل في الدورة التدريبية اللي أعلنتوا عنها",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 176,
+    "text": "ليش النت بيقطع لما الدنيا تمطر؟ مش معقول نظل هيك",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 177,
+    "text": "يعطيكم العافية، موظفيكم دايماً بشوشين ومتعاونين",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 178,
+    "text": "ممكن حدا يتواصل معي بخصوص نقل الخط لمكان جديد؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 179,
+    "text": "فش عندكم نظام، كل موظف بيحكي شكل، دوختونا",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 180,
+    "text": "بدي اعرف اذا في مجال لخصم الديون القديمة لو دفعت كاش",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 181,
+    "text": "ما شاء الله، التغطية صارت ممتازة بكل الضفة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 182,
+    "text": "العداد فصل حاله مع انو فيه رصيد، شو أعمل يا ناس؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 183,
+    "text": "بدي استفسر عن مواعيد فتح الفروع في العيد",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 184,
+    "text": "والله إنكم شركة عالمية، فخر لفلسطين",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 185,
+    "text": "في انفجار صار بمحول الكهربا اللي بحارتنا، الدنيا نار وقفت!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 186,
+    "text": "ممكن حدا يشرحلي كيف بستخدم كود الخصم اللي بعتوه؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 187,
+    "text": "شكراً على الشفافية والوضوح في التعامل مع الزباين",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 188,
+    "text": "ليش المي بتيجي بس بالليل؟ والناس بدها تنام يا عمي",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 189,
+    "text": "بقدر اطلب تحويل الفاتورة على حساب البنك مباشرة؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 190,
+    "text": "يعطيكم العافية، هل في عندكم وظائف شاغرة بقسم البرمجة؟",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 191,
+    "text": "كل الاحترام للموظف اللي حل لي مشكلة الشحن هلقيت",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 192,
+    "text": "النت بيقطع كل خمس دقايق، بطلنا عارفين نشتغل يا عالم",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 193,
+    "text": "وين بقدر ألاقي كشف بالحملات اللي بتعملوها؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 194,
+    "text": "يخلف عليكم، ما قصرتو وبيضتو وجوهنا قدام الضيوف",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 195,
+    "text": "ليش الموظف بيطلب مني أوراق تعجيزية؟ والله تعبت",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 196,
+    "text": "ممكن حدا يجاوبني على استفساري بخصوص العداد الذكي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 197,
+    "text": "بدي اطلب صهريج مي كبير لمسجد في بيت لاهيا",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated"
+  },
+  {
+    "id": 198,
+    "text": "أنا كتير مبسوطة من التعامل معكم، شكراً من القلب",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated"
+  },
+  {
+    "id": 199,
+    "text": "في تسريب غاز من التمديدات اللي بالشارع، ابعتوا حدا بسرعة!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated"
+  },
+  {
+    "id": 200,
+    "text": "بدي اعرف كيف بقدر اسجل بالتطبيق لأول مرة",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated"
+  }
+]
