@@ -100,3 +100,45 @@ data/deepseek/deepseek_clean.json
 - DeepSeek is intentionally emotional-heavy, so the distribution is not fully balanced.
 - Other tools will be used to balance Inquiry, Request, and Neutral samples later.
 
+## Gemini Output
+
+- Raw batches: 600 records
+- After validation: 600
+- Invalid removed: 0
+- Exact duplicates removed: 0
+- Semantic duplicates removed: 8
+- Final clean records: 592
+
+Final file:
+
+```text
+data/gemini/gemini_clean.json
+```
+
+## Gemini Batch Topics
+
+| Batch | Topic |
+| --- | --- |
+| batch_1_pricing | Pricing inquiries, discounts, price breakdown, hidden fees |
+| batch_2_packages | Service packages, plan comparison, package features |
+| batch_3_availability | Service availability, booking availability, coverage availability |
+| batch_4_invoice | Invoice issues, incorrect charges, billing clarification |
+| batch_5_verification | Account verification, OTP, account approval |
+| batch_6_subscription_details | Renewal, cancellation, terms, billing cycles |
+| batch_7_hours | Support hours, service times, response times |
+| batch_8_coverage | Cities, regions, expansion areas, limitations |
+| batch_9_payment_methods | Payment options, online payment, failed payment |
+| batch_10_features | Product/service features and usage explanations |
+
+## Gemini Distribution After Cleaning
+
+| Category | Distribution |
+| --- | --- |
+| Sentiment | Neutral: 199, Positive: 197, Negative: 196 |
+| Intent | Inquiry: 251, Request: 196, Complaint: 86, Feedback: 51, Other: 8 |
+| Urgency | Urgent: 201, Critical: 198, Normal: 193 |
+
+## Gemini Notes
+
+Gemini was designed to generate formal, structured, and inquiry-heavy messages to balance the emotional bias of DeepSeek.
+

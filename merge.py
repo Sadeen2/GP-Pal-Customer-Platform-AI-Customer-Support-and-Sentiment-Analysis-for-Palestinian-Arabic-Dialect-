@@ -8,8 +8,8 @@ from pathlib import Path
 # =========================
 # Paths
 # =========================
-INPUT_FOLDER = "data/deepseek"
-OUTPUT_FILE = "data/deepseek/deepseek_clean.json"
+INPUT_FOLDER = "data/gemini"
+OUTPUT_FILE = "data/gemini/gemini_clean.json"
 
 USE_SEMANTIC_DEDUP = True
 SEMANTIC_THRESHOLD = 0.85
@@ -81,7 +81,7 @@ def basic_clean_and_validate(data):
             "sentiment": sentiment,
             "intent": intent,
             "urgency": urgency,
-            "source": item.get("source", "generated_deepseek_v3")
+            "source": item.get("source", "generated_gemini_v2")
         })
 
     return cleaned, invalid
@@ -152,11 +152,11 @@ def save_output(data):
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"\nSaved clean DeepSeek dataset to: {OUTPUT_FILE}")
+    print(f"\nSaved clean dataset to: {OUTPUT_FILE}")
 
 
 def main():
-    print("Starting DeepSeek merge pipeline...\n")
+    print("Starting merge pipeline...\n")
 
     raw_data = load_json_files()
     print("\nTotal before cleaning:", len(raw_data))

@@ -1,0 +1,4738 @@
+[
+  {
+    "id": 1,
+    "text": "يا ريت توفروا تغطية طوارئ هسا لمنطقة طولكرم لانو كل الخطوط مقطوعة والوضع حرج.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 2,
+    "text": "أطالب بتوفير دعم فني فوري هسا لانو المؤسسة متعطلة والوقت محسوب علينا خسائر.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 3,
+    "text": "يسعد مساكم، هل ميزات الباقة المطورة بتشتغل تلقائياً بعد الدفع مباشرة ولا بدها وقت؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 4,
+    "text": "محتاج جدول مقارنة الباقات فوراً لاتخاذ قرار حاسم بخصوص اشتراك المؤسسة السنوي.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 5,
+    "text": "أرجو إفادتي بتوفر الخدمة فوراً في مستشفى المقاصد بالقدس لضرورة طبية عاجلة جداً.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 6,
+    "text": "هل بيشمل نطاق تغطيتكم منطقة الأغوار لو طلبنا الخدمة بشكل مسبق؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 7,
+    "text": "الخدمة غير متوفرة بالمرة في مخيم شعفاط، هاد تهميش واضح وبدنا رد رسمي هسا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 8,
+    "text": "حابب أعرف إذا السعر بيتغير لو طلبت الخدمة في أيام العطل الرسمية.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 9,
+    "text": "من غير المعقول إنه ما في دعم فني هسا يحل مشكلة الدفع الفاشلة اللي صارت معي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 10,
+    "text": "كيف بدي أصدق عروضكم إذا كان أول تجديد صار فيه كل هاي المشاكل التقنية؟",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 11,
+    "text": "ممكن حدا يوضحلي ليش وقت الاستجابة اليوم أطول من المعتاد؟ هل في ضغط كبير؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 12,
+    "text": "أطالب بتسهيل عملية الدفع عبر الهاتف هسا لانو الموقع مش عم يفتح من عندي بالمرة.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 13,
+    "text": "يسعد مساكم، حابب أستفسر عن أسعار باقات الإنترنت الشهرية الجديدة لو سمحتوا.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 14,
+    "text": "مرحبا، ممكن توضحولي كيف بقدر أربط حسابي ببطاقة الائتمان عشان الدفع التلقائي؟ غلبتكم معي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 15,
+    "text": "لو سمحتوا، شو هي الإجراءات المتبعة في حال قررت إلغاء اشتراكي قبل نهاية المدة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 16,
+    "text": "ممكن رد سريع بخصوص كيفية إلغاء التجديد التلقائي لاني ما بدي أسحب من البطاقة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 17,
+    "text": "يا ريت تبعتولي موظف هسا يعاين الموقع في أريحا لانو بدنا نفتح مشروع جديد الأسبوع الجاي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 18,
+    "text": "تكرماً، بدي أغير رقم الجوال عشان كود التحقق يوصلني على الرقم الجديد.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 19,
+    "text": "يعطيكم العافية، حابب أطلب جدول مواعيد توفر الخدمة في منطقة بيت لحم خلال شهر رمضان.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 20,
+    "text": "لو سمحتوا، ممكن أعرف إذا في خصم خاص إذا تم الدفع إلكترونياً بدل الكاش؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 21,
+    "text": "يا ريت توضحولي بند 'الخدمات الإضافية' بالفاتورة، لأني حابب أفهم كل التفاصيل.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 22,
+    "text": "أطالب بفتح تحقيق ليش الخدمة ما بتغطي المناطق الحيوية في غزة رغم الوعود الكتيرة.",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 23,
+    "text": "بدي تأكيد فوري إذا عملية التحقق انتهت بنجاح لاني لازم أثبت الحجز هسا.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 24,
+    "text": "بدي تفسير واضح ليش قيمة الفاتورة زادت ٥٠٪ بدون أي تنبيه مسبق منا.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 25,
+    "text": "شكراً لسرعة الرد، عملية التوثيق كانت كتير سهلة وواضحة بالتطبيق.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 26,
+    "text": "تفاجأت بتقليص ميزات باقتي الحالية بدون أي إشعار مسبق، هاد خرق واضح للاتفاق بيننا وبدي حل هسا!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 27,
+    "text": "ممكن أعرف إذا في مجال لحجز موعد صيانة لبكرة الصبح بمدينة نابلس؟ غلبتكم معي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 28,
+    "text": "بدي رد سريع بخصوص الفاتورة لانو ميعاد الدفع بخلص اليوم وما بدي غرامات.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 29,
+    "text": "خدمة العملاء عندكم ما عم تساعدني بمشكلة التحقق والرد دايمًا آلي.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 30,
+    "text": "يا ريت توافقوا على طلبي هسا، كل الأوراق جاهزة وبدي أباشر الشغل.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 31,
+    "text": "يا ريت تبعتولي أوقات استلام الشكاوي هسا لانو بدي ألحق أقدم طلبي قبل إغلاق النظام.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 32,
+    "text": "بدي أطلب إلغاء عملية الدفع الأخيرة لانو صار غلط في المبلغ المكتوب، أرجو المساعدة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 33,
+    "text": "ليش تم حظر حسابي بحجة انتهاء الاشتراك وهو لسه شغال؟ هاد خطأ فادح!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 34,
+    "text": "ممكن حدا يخبرني هسا إذا في ميزة 'الوضع الليلي' بالتطبيق لانو عيني بتتعب من الإضاءة؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 35,
+    "text": "بدي رد سريع عن تكلفة تجديد الترخيص من خلال تطبيقكم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 36,
+    "text": "تكرماً، بدي تأكيد هسا إذا منطقتنا في سلفيت صارت مدعومة لانو محتاجين الخدمة ضروري.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 37,
+    "text": "تفاجأت بسعر الاشتراك هاد الشهر، المبلغ أعلى بكتير من المتفق عليه بالبداية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 38,
+    "text": "مرحبا، بدي أطلب تأكيد توفر الخدمة في حي الطيرة هسا عشان أباشر في إجراءات العقد.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 39,
+    "text": "لو سمحتوا، بدي أعرف إذا الخدمة بتدعم اللغة العربية بشكل كامل في واجهة المستخدم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 40,
+    "text": "يسعد مساكم، حابب أستفسر عن الفرق بين الباقة الفضية والذهبية للإنترنت لو سمحتوا.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 41,
+    "text": "محتاج تفعيل حسابي حالاً لانو عندي حالة طارئة وبحتاج للوصول للمحفظة المالية.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 42,
+    "text": "أرغب بطلب تأكيد فوري إذا تم استلام الحوالة البنكية اللي عملتها قبل ساعة.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 43,
+    "text": "أرجو إلغاء كل الاشتراكات المرتبطة ببطاقتي هسا لانو في عمليات سحب غير معروفة.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 44,
+    "text": "يسعد صباحكم، حابب أطلب فحص فوري للإشارة في منطقة جبل جرزيم بنابلس لتفعيل الاشتراك.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 45,
+    "text": "لو سمحتوا، بدي تقرير مفصل بالتكاليف اللي اندفعت الشهر الماضي.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 46,
+    "text": "بدي أستفسر بشكل عاجل عن موعد تواجد المشرف المسؤول عن المبيعات بفرع أريحا.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 47,
+    "text": "بدي أعرف ليش فرع القدس مسكر هسا مع إنو مكتوب إنه فاتح للساعة ٦ المسا.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 48,
+    "text": "هل ساعات العمل في يوم الجمعة بتختلف عن باقي الأيام؟ بدي جواب هسا لو سمحتوا.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 49,
+    "text": "يا ريت توضحولي إذا التغطية في مدينة روابي بتشمل الألياف الضوئية ولا بس إنترنت عادي.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 50,
+    "text": "ليش الخدمة مش واصلة لمنطقتنا مع إنكم حكيتوا إنها رح تتوفر من بداية الشهر؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 51,
+    "text": "محتاج فريق الطوارئ هسا فوراً، هل في حدا متاح قبل ما تخلص الوردية الحالية؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 52,
+    "text": "أود السؤال إذا كان لازم تكون صورة الهوية ملونة ولا عادي لو كانت أبيض وأسود؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 53,
+    "text": "بدي أسأل إذا الباقة الفضية لسه بتدعم ميزة النسخ الاحتياطي التلقائي ولا وقفتوها؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 54,
+    "text": "مطلوب التأكد من توفر الفنيين في منطقة طوباس للقيام بالفحص الدوري المعتاد.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 55,
+    "text": "بدي أسأل إذا خدمة الدردشة المباشرة بتضل شغالة ٢٤ ساعة ولا في وقت محدد؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 56,
+    "text": "لو سمحتوا، بدي تأكيد هسا إنو الدفعة اللي حولتها اليوم الصبح وصلت لحسابكم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 57,
+    "text": "أرجوكم، محتاج فاتورة الشهر هسا لانو السيستم عندي واقف وبدي أتمم عملية التدقيق.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 58,
+    "text": "شكراً لتعاونكم، العملية كانت كتير سهلة، بس بدي أتأكد إذا وصلكم إشعار الدفع بنجاح.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 59,
+    "text": "بدي أسأل عن موعد إصدار الفاتورة القادمة عشان أجهز المبلغ المطلوب.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 60,
+    "text": "ممكن مساعدة فورية في تخطي مرحلة الـ OTP لاني فقدت الوصول لشريحتي؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 61,
+    "text": "عندي استفسار بخصوص سياسة الاسترجاع المالي في حال تم إلغاء الاشتراك في أول أسبوع.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 62,
+    "text": "يعطيكم العافية، يا ريت تبعتولي ملف المقارنة بين الباقات بشكل عاجل عشان أعتمد وحدة.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 63,
+    "text": "محتاج ترقية فورية للباقة هسا لانو حجم البيانات خلص والعمل متوقف بالكامل عنا.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 64,
+    "text": "لو سمحتوا، ممكن تعديل عرض السعر لإضافة خدمة التوصيل السريع؟ وشكراً مقدماً.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 65,
+    "text": "أنا بحاجة لتعديل ميزات باقتي فوراً لانو في ميزات أساسية ناقصة وعم بتعطل شغلي هسا.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 66,
+    "text": "النظام رفض هويتي تلت مرات مع إنها واضحة جداً، هاد الاشي كتير مزعج.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 67,
+    "text": "أطلب رداً عاجلاً إذا كانت ميزة الدعم الفوري مشمولة بالباقة العادية ولا بس بالباقات الخاصة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 68,
+    "text": "هل ميزة الحماية المتقدمة مضافة تلقائياً في باقة الأمان هسا ولا لازم أفعلها؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 69,
+    "text": "مستحيل أقدر أكمل التوثيق إذا السيستم بضل يعلق عند خطوة رفع الملفات.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 70,
+    "text": "يا ريت تأكدولي إذا خدمة التوصيل متاحة لمنطقة الخليل القديمة حالياً، وشكراً لتعاونكم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 71,
+    "text": "للأسف ميزات الباقة الشاملة طلعت ضعيفة جداً وما بتلبي أبداً احتياجات الشركات الكبيرة زي ما بتدعوا.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 72,
+    "text": "محتاج أعرف هسا إذا بقدر أدمج ميزات باقتين مع بعض ولا النظام ما بيسمح؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 73,
+    "text": "بدي حل هسا، صارلي من الصبح بحاول أوصل لحدا وما في أي استجابة من طرفكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 74,
+    "text": "بدي أستفسر بشكل عاجل عن سبب وجود رصيد مستحق وأنا مسدد كل فواتيري.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 75,
+    "text": "هل يمكن توفير الخدمة في منطقة المواصي فوراً؟ الوضع طارئ جداً وبحاجة لاتصال دائم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 76,
+    "text": "شو الحل إذا كود التحقق مش عم يوصل والجوال معي وشغال تمام؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 77,
+    "text": "بدي مساعدة فورية هسا في تفعيل ميزة التتبع الجغرافي لانو في شحنة مفقودة ومحتاجين نلاقيها.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 78,
+    "text": "أنا بحاجة لمعرفة رسوم إلغاء الاشتراك هسا قبل موعد التجديد التلقائي.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 79,
+    "text": "يا ريت تأكدولي هسا إذا في إمكانية لتقديم طلب في الساعات المتأخرة من الليل.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 80,
+    "text": "ممكن تبعتولي تفاصيل ميزات الباقة الشاملة؟ غلبتكم معي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 81,
+    "text": "بخصوص دورة الفوترة، حابب أعرف بأي يوم من الشهر بيتم سحب مبلغ الاشتراك عادةً؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 82,
+    "text": "يعطيكم العافية، حابب أطلب خريطة بتوضح كل المناطق اللي بتوصلها خدماتكم في الضفة الغربية.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 83,
+    "text": "ممكن توضحولي إذا الضريبة مشمولة بالمبلغ النهائي المذكور بالفاتورة؟ غلبتكم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 84,
+    "text": "هل تختلف ساعات الاستجابة على البريد الإلكتروني عن سرعة الرد عبر الهاتف؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 85,
+    "text": "بصراحة أسعاركم ممتازة ومنافسة، ممكن أعرف تكلفة التركيب بالكامل؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 86,
+    "text": "تكرماً، بدي أعرف إذا في فني متاح هسا يوصل لمنطقة البيرة لمساعدتي في تفعيل الخدمة.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 87,
+    "text": "بدي حل هسا لمشكلة عدم قبول كود الخصم عند محاولة تجديد الاشتراك السنوي.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 88,
+    "text": "صارلي ساعتين بستنى رد من خدمة العملاء وما حدا عبرني، وين سرعة الاستجابة اللي بتحكوا عنها؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 89,
+    "text": "من غير المقبول إنه باقة الـ VIP يكون فيها انقطاع مستمر في الخدمة والاشتراك.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 90,
+    "text": "كيف بدكم أوثق الحساب والجوال ضاع؟ بدي طريقة تانية هسا وبسرعة.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 91,
+    "text": "لو سمحتوا، شو هي العوائق اللي بتمنع وصول التغطية للمناطق المرتفعة في محافظة رام الله؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 92,
+    "text": "ليش اشتراكي لسه ما اتفعل مع إني دفعت من الصبح؟ هاد التأخير مش لصالحكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 93,
+    "text": "كيف بتحسبوا رسوم إضافية وأنا أصلاً ما استخدمت الخدمة هاد الشهر؟ هاد نصب.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 94,
+    "text": "أطالب بفتح تحقيق فوري ليش عملية الدفع عم بتخصم مبالغ زيادة عن الفاتورة الأصلية.",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 95,
+    "text": "أرجو تفعيل حسابي بشكل استثنائي هسا، كل المستندات تم رفعها بنجاح.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 96,
+    "text": "بدي أطلب تغيير وسيلة الدفع الأساسية المسجلة في ملفي الشخصي لو سمحتوا.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 97,
+    "text": "بخصوص الباقة التعليمية، شو هي الملفات والميزات الإضافية اللي بتوفرها للمعلمين؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 98,
+    "text": "تفاجأت إنو باقة التوفير ما فيها ميزة الاتصال المجاني اللي كانت موجودة قبل التحديث.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 99,
+    "text": "ما راح أدفع الفاتورة لحتى يتعدل السعر للرقم اللي اتفقنا عليه في البداية.",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 100,
+    "text": "سؤالي هو هل الحساب بضل معلق إذا ما كملت التوثيق خلال ٢٤ ساعة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 101,
+    "text": "بدي أعرف هسا إذا بقدر أعدل موعد الحجز لليوم لانو صار عندي ظرف طارئ.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 102,
+    "text": "محتاجين فريق الصيانة هسا في منطقة وسط البلد بسبب انقطاع الخدمة بالكامل عن المؤسسة.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 103,
+    "text": "بصراحة ميزة البحث المتقدم وفرت علينا وقت كتير، يا ريت تضلوا تطوروها للأفضل.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 104,
+    "text": "ليش ما بلغتوني بزيادة الأسعار قبل ما تخصموها من الحساب؟ هاد تصرف غير مهني.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 105,
+    "text": "بدي أستفسر بشكل عاجل عن رسوم التحويل البنكي إذا كانت مشمولة بالسعر ولا لأ.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 106,
+    "text": "أريد معرفة إذا كان في حدود معينة لعدد العمليات اللي بقدر أعملها باليوم الواحد.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 107,
+    "text": "من غير المقبول إنو منطقة مركزية زي وسط رام الله تكون خارج نطاق التغطية لهسا.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 108,
+    "text": "أرجوكم، محتاج أعرف هسا كيف بقدر أسترجع النسخة الاحتياطية لانو البيانات اتمسحت بالخطأ.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 109,
+    "text": "أطالب بتفعيل الباقة اللي اخترتها هسا لانو السيستم عنا مربوط فيها ومحتاجينها ضروري.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 110,
+    "text": "لو سمحتوا، بدي قائمة بتوضح ساعات توفر كل خدمة من خدماتكم بشكل منفصل.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 111,
+    "text": "الخدمة انقطعت بالكامل مع إننا مشتركين بباقة الشركات المخصصة اللي بتضمن عدم الانقطاع، هاد تصرف غير مقبول بالمرة!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 112,
+    "text": "أنا طلبت إلغاء الخدمة عشان السعر غالي ولسه عم تبعتولي مطالبات مالية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 113,
+    "text": "عندي ملاحظة بخصوص تسعير بعض الخدمات، هل هي ثابتة ولا متغيرة؟",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 114,
+    "text": "أطالب بتعويض عن الأيام اللي تعطل فيها اشتراكي بسبب مشاكل تقنية من طرفكم.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 115,
+    "text": "تفاجأت إنه تم تجديد اشتراكي تلقائياً بدون ما يوصلني أي إشعار مسبق منكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 116,
+    "text": "هل في إمكانية أعرف أوقات الذروة عندكم عشان أتجنب التأخير في الرد المرة الجاية؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 117,
+    "text": "بخصوص طرق الدفع، هل بتوفروا خيار التقسيط الشهري للطلبات اللي سعرها مرتفع؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 118,
+    "text": "يا ريت توضحوا ليش تم تقليص ساعات العمل بفرع طولكرم بدون أي تنبيه مسبق.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 119,
+    "text": "لو سمحتوا، بدي أغير طريقة الدفع المسجلة بحسابي عشان التجديد الجاي يكون أسهل.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 120,
+    "text": "يا ريت تبعتولي فيديو توضيحي هسا عن ميزة 'التحكم عن بعد' لاني محتاجها ببرزنتيشن الصبح.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 121,
+    "text": "بدي أسأل إذا التغطية واصلة لمنطقة شارع الإرسال، لانو حابب أشترك بأسرع وقت.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 122,
+    "text": "لو سمحتوا، بدي أعرف إذا في خطأ بالسيستم بخصوص الفاتورة لانو المبلغ غريب شوي.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 123,
+    "text": "بصراحة ميزة التصميم الجديد كتير معقدة وصعبة الاستخدام مقارنة بالنسخة القديمة.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 124,
+    "text": "حابب أعرف هسا إذا باقة الألعاب بتعطي الأولوية لسرعة الرفع عشان بدي أشترك اليوم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 125,
+    "text": "يسعد مساكم، حابب أستفسر إذا خدمتكم بتغطي منطقة حي الرمال في غزة حالياً؟ وشكراً لجهودكم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 126,
+    "text": "يسعد مساكم، حابب أستفسر كيف بقدر أوثق حسابي بالهوية الفلسطينية؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 127,
+    "text": "بصراحة عروضكم دايمًا مميزة، ممكن أعرف تفاصيل باقة العائلة وشو شروط الاشتراك فيها؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 128,
+    "text": "بدي حل جذري لمشكلة تجديد الاشتراك اللي عم بتفشل كل شهر وبدي رد هسا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 129,
+    "text": "يا ريت حدا من الإدارة يتواصل معي هسا قبل إغلاق الشركة لانو المشكلة كبيرة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 130,
+    "text": "لو سمحتوا، هل الفاتورة واصلة عن طريق الإيميل ولا لازم أستلمها من الفرع؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 131,
+    "text": "من غير المقبول إنه عملية تفعيل حساب تاخد كل هاد الوقت والتعقيد.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 132,
+    "text": "أريد فهم ليش حسابي لساته قيد المراجعة مع إني بعتت كل اشي من زمان؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 133,
+    "text": "بدي رد هسا، ليش ميزة 'الأمان الحيوية' مش عم تتعرف على بصمتي وعالق بره الحساب؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 134,
+    "text": "الوضع لا يطاق، التغطية في منطقة المواصي معدومة تماماً والناس مش قادرة تتواصل.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 135,
+    "text": "مرحبا، هل تم احتساب رسوم التأخير على الفاتورة الماضية؟ بدي أتأكد هسا.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 136,
+    "text": "للأسف حاولت أحجز موعد أكتر من مرة وكل المواعيد محجوزة، شو الفائدة من الخدمة؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 137,
+    "text": "من غير المعقول إنو الفاتورة تكون بهاد المبلغ الضخم والخدمة أصلاً كانت مقطوعة.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 138,
+    "text": "أنا كتير مهتم بخدماتكم، هل بقدر أطلب تركيب الخدمة هسا في ضواحي قلقيلية؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 139,
+    "text": "هل في طاقم طوارئ متاح هسا في منطقة سلفيت لإصلاح العطل العام؟ الوضع حرج جداً.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 140,
+    "text": "ممكن أعرف قديش التكلفة الإجمالية لو أخدت أكتر من قطعة من هاد المنتج؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 141,
+    "text": "النظام عندكم بطلع فواتير عشوائية وبدي حل جذري لهي المشكلة هسا.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 142,
+    "text": "أرجوكم، بدي ملف كامل بيشرح ميزات الباقة الاحترافية هسا عشان أدرسه.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 143,
+    "text": "بدي أعرف هسا إذا في صيانة للأبراج في منطقة يطا لانو التغطية كتير ضعيفة اليوم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 144,
+    "text": "أرجو إلغاء الفاتورة الحالية وإعادة إصدارها بالتفاصيل الصحيحة لاني ماراح أدفع هيك.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 145,
+    "text": "محتاج تأكيد فوري هسا إذا تم سداد الفاتورة لانو مصلحة المياه رح تقطع عنا.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 146,
+    "text": "الفاتورة مش مفهومة وفيها لخبطة بالأسعار، بدي حدا يعدلها بأسرع وقت ممكن.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 147,
+    "text": "بدي أقدم شكوى بخصوص ميزة 'تحديث النظام' لانو خربتلي إعدادات الجهاز بالكامل.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 148,
+    "text": "يسعد مساكم، حابب أستفسر إذا خدماتكم بتغطي منطقة قرى شمال رام الله لو سمحتوا؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 149,
+    "text": "ممكن تبعتولي قائمة الأسعار المحدثة لخدمات الصيانة المنزلية؟ غلبتكم معي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 150,
+    "text": "عندي ملاحظة بخصوص ضعف التغطية في سرداب العمارة، هل في أجهزة مقوية متوفرة عندكم؟",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 151,
+    "text": "لو سمحت، بدي جدول بوضح كل المبالغ المقتطعة وتواريخ إصدار الفواتير.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 152,
+    "text": "لو سمحتوا، بدي إعادة إرسال رابط تفعيل الحساب لاني مسحته بالغلط.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 153,
+    "text": "يا ريت حدا يتواصل معي بخصوص عرض السعر اللي لسه ما وصلني.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 154,
+    "text": "بدي أقدم شكوى رسمية لانو تم سحب مبلغ من بطاقتي بدون ما يتم تأكيد الطلب.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 155,
+    "text": "لو سمحتوا، هل السعر الموجود على الموقع شامل الضريبة ولا في رسوم تانية؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 156,
+    "text": "لو سمحتوا، هل الخدمة متوفرة في حي المصايف حالياً ولا في أعمال صيانة بالشبكة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 157,
+    "text": "بدي أحصل على موافقة فورية هسا، هل في حدا من الإدارة مداوم حالياً ليساعدني؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 158,
+    "text": "مرحبا، هل كود التحقق بيوصل على الإيميل كمان ولا بس على التلفون؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 159,
+    "text": "بخصوص توثيق الحساب، كم يوم بتاخد عملية المراجعة عادةً؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 160,
+    "text": "يسعد صباحكم، محتاج رد سريع بخصوص توفر الفنيين في منطقة طولكرم اليوم قبل الضهر.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 161,
+    "text": "بدي أعرف إذا في ساعة بريك بكون فيها الدعم الفني غير متاح خلال النهار.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 162,
+    "text": "تكرماً، ممكن توفروا رابط دفع آمن هسا لاني بره البلد وبدي أسدد المستحقات اللي علي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 163,
+    "text": "بصراحة طريقة تسعيركم فيها تضليل، السعر الحقيقي بيطلع الضعف بعد الرسوم.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 164,
+    "text": "يا ريت حدا يتدخل هسا، ميزة الدفع داخل التطبيق عم بتعلق وبتاخد المصاري بدون تفعيل الميزة.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 165,
+    "text": "بدي أحاول أدفع هسا، يا ريت تبعتولي رابط الدفع السريع عشان ألحق أحجز طلبي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 166,
+    "text": "أرجو إرسال تفاصيل باقة الأفراد المحدثة فوراً لاني بحاجة لمقارنتها مع الباقة القديمة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 167,
+    "text": "بدي أحكي مع المدير هسا، التغطية مقطوعة عن كامل منطقة البريج والوضع لا يحتمل.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 168,
+    "text": "لو سمحتوا، بدي إغلاق الحساب نهائياً واسترجاع باقي الرصيد لاني مش راضي عنكم.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 169,
+    "text": "بدي رد عاجل بخصوص ساعات توفر السحب المالي من الصرافات التابعة لكم هسا.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 170,
+    "text": "في موظف متاح هسا يراجع هويتي يدوياً لانو النظام مش عم يقبل الصورة؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 171,
+    "text": "بدي رد هسا بخصوص ميزة الأمان، هل تم صد الهجوم السيبراني اللي صار ولا البيانات بخطر؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 172,
+    "text": "بدي أعرف هسا إذا ميزة 'إخفاء الهوية' بتضمن خصوصية كاملة أثناء تصفح التطبيق.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 173,
+    "text": "بدي رد عاجل بخصوص توفر شبكة الإنترنت في مناطق النزوح لضرورة التواصل الإنساني.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 174,
+    "text": "بدي أطلب مقارنة سريعة بين الباقة السنوية والشهرية عشان أقرر التجديد اليوم.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 175,
+    "text": "أرجوكم، عملية الدفع ضرورية جداً هسا لتثبيت الحجز لانو الموعد رح يروح علي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 176,
+    "text": "بصراحة خيارات الدفع عندكم كتير محدودة وما بتناسبنا إحنا سكان المناطق البعيدة.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 177,
+    "text": "تفاجأت بوجود رسوم صيانة وأنا أصلاً ما طلبت صيانة، هاد الإجراء غير مقبول.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 178,
+    "text": "عندي استفسار عن فرق السعر بين العرض المكتوب والمبلغ اللي نزل بالفاتورة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 179,
+    "text": "تكرماً، بدي تأكيد فوري إنو تم تفعيل الاشتراك الجديد لانو محتاج أباشر الشغل هسا.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 180,
+    "text": "تساؤل بخصوص إذا كانت عملية الدفع بتشمل ضريبة القيمة المضافة ولا بتنضاف بعدين؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 181,
+    "text": "يسعد صباحكم، هل تم تفعيل ميزة الدفع عبر بال باي في تطبيقكم الجديد؟ حابب أجربها.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 182,
+    "text": "لو سمحتوا، كود الـ OTP مش عم يوصلني هسا، في مجال تبعتوه مرة تانية؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 183,
+    "text": "يا ريت توضحولي إذا في مجال للتواصل معكم بعد الساعة ٨ المسا للحالات الاستثنائية.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 184,
+    "text": "بدي أستفسر بشكل عاجل إذا ميزة حماية البيانات بتشمل التشفير من طرف لطرف.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 185,
+    "text": "بصراحة التغطية بمدينة رام الله ممتازة جداً، وبدي أطلب تفعيل الخدمة لفرعنا الجديد هناك.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 186,
+    "text": "كيف بتحكوا إنكم بتغطوا كل فلسطين وانتو مش واصلين لقرى غرب رام الله لهسا؟",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 187,
+    "text": "يسعد صباحكم، هل في إمكانية لحجز موعد في عطلة نهاية الأسبوع في مدينة طولكرم؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 188,
+    "text": "هل يوجد دليل مستخدم بيشرح كل الأدوات والوظائف اللي بتقدمها الخدمة بالتفصيل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 189,
+    "text": "أرغب بطلب ترقية فورية لاستخدام ميزة الذكاء الاصطناعي في تحليل الصور، وشكراً لتعاونكم.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 190,
+    "text": "بصراحة سرعة ردكم في الصباح كتير ممتازة، ممكن أعرف متوسط وقت الانتظار هسا؟",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 191,
+    "text": "بصراحة ميزات الباقة الذهبية ممتازة، بس حابب أتأكد إذا بتشمل الاتصال الدولي.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 192,
+    "text": "بدي إلغاء اشتراكي فوراً إذا ما توفرت التغطية في موقع عملي الجديد اليوم.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 193,
+    "text": "ممكن رد سريع بخصوص توفر الخدمة في منطقة رفح اليوم لضرورة قصوى؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 194,
+    "text": "بدي أفهم ليش ميزة التخزين السحابي مش شغالة عندي مع إني مشترك في باقة المحترفين؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 195,
+    "text": "من المستحيل السكوت على هاد الإهمال، برج التغطية واقع وما حدا سائل فينا هسا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 196,
+    "text": "أطالب بتعويض لانو ميزة 'النسخ الاحتياطي' اللي بندفع حقها طلعت مش شغالة أصلاً.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 197,
+    "text": "ممكن توضيح لسبب اختلاف السعر بين الفرع والطلب أونلاين؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 198,
+    "text": "لو سمحتوا، هل ميزة الحجز الفوري مفعلة هسا بفرع أريحا؟ بدي أثبت الموعد حالاً.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 199,
+    "text": "من المستحيل السكوت على هاد الفشل، ميزة 'التشفير' طلعت وهمية والبيانات اتسربت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 200,
+    "text": "هل الباقة الذهبية بتضمن حماية البيانات الحساسة بنسبة كاملة؟ هاد الموضوع حرج جداً لشركتنا.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 201,
+    "text": "يا ريت توثقوا حسابي هسا عشان أسترجع بياناتي الضرورية لاني فقدت كلمة السر.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 202,
+    "text": "يعطيكم العافية، حابب أطلب تفصيل دقيق لأسعار المواد الخام المستخدمة بالخدمة.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 203,
+    "text": "بدي تأكيد هسا إذا ميزة 'مسح البيانات عن بعد' فعالة في حال انسرق الجهاز حالياً.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 204,
+    "text": "محتاجين تأكيد فوري على توفر الخدمة في مخيم نور شمس بسبب تعطل شبكة الاتصال.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 205,
+    "text": "لو سمحتوا، بدي حجز استثنائي هسا لانو النظام عنا معطل وبحاجة لفحص منطقة التغطية.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 206,
+    "text": "هل التوثيق بطلب جواز سفر فلسطيني ولا الهوية الزرقاء بتكفي للعملية؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 207,
+    "text": "أرجو الرد هسا، التغطية اختفت فجأة عن كامل المحافظة والاتصالات كلها واقفة.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 208,
+    "text": "أريد معرفة إذا كانت خدماتكم بتشمل المناطق المصنفة 'ج' ولا في قيود معينة على التغطية.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 209,
+    "text": "أريد الحصول على نسخة ورقية من الفاتورة وضروري توصلني اليوم لو سمحتوا.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 210,
+    "text": "يا ريت تخبروني إذا في تحديثات قادمة رح تشمل ميزات جديدة لتعديل الفيديوهات.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 211,
+    "text": "مطلوب تغيير إيميل التوثيق فوراً لانو الإيميل القديم انسرق، ساعدوني بسرعة.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 212,
+    "text": "ما في أي مصداقية في تواريخ انتهاء الاشتراك المكتوبة بالتطبيق، الوضع فوضوي جداً.",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 213,
+    "text": "حابب أستفسر إذا في حدود معينة للاستخدام اليومي في الباقة المفتوحة عندكم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 214,
+    "text": "يا ريت تحكولي إذا في مجال لحجز موعد فحص هسا قبل ما يخلص الدوام الرسمي.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 215,
+    "text": "النظام تعطل بالكامل وميزة النسخ الاحتياطي في باقة البريميوم ما اشتغلت، هيك ضاعت كل ملفاتنا بسببكم!",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 216,
+    "text": "أرجو تفعيل الحساب فوراً، تم دفع قيمة الاشتراك وصارلي ساعة بستنى التفعيل.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 217,
+    "text": "ممكن رد بخصوص متى رح تتوفر خدمة الألياف الضوئية في مخيم شعفاط؟ الناس بتسأل.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 218,
+    "text": "بدي رد هسا، ليش تم قطع الخدمة عن منطقتنا بحجة الصيانة وبدون ما تخبرونا؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 219,
+    "text": "يا ريت حدا يراجع معي بنود الفاتورة هسا لانو في مبالغ مش مفهومة بالنسبة إلي.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 220,
+    "text": "بدي أطلب إرسال الفروقات الجوهرية بين باقة الأمان وباقة العمليات هسا لضرورة أمنية قصوى.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 221,
+    "text": "بصراحة التعامل معكم مريح، بس بدي تأكيد نهائي على سعر الباقة قبل ما يخلص العرض.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 222,
+    "text": "بصراحة حابب أشكركم على توسيع التغطية، وممكن أسأل عن مواعيد التوفر في منطقة سلفيت؟",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 223,
+    "text": "لو سمحت، بدي جدول بيوضح الفروقات بين باقة المبتدئين وباقة الشركات بالتفصيل.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 224,
+    "text": "أرجو توجيه فريق الطوارئ لمنطقة خان يونس هسا، الخدمة مقطوعة بالكامل عن المربع السكني.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 225,
+    "text": "بدي حل جذري لمشكلة تداخل الشبكات وضعف التغطية في المناطق الحدودية هسا فوراً.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 226,
+    "text": "بدي استرداد كامل للمبلغ هسا، الاشتراك ما اشتغل عندي ولا ثانية من وقت الدفع.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 227,
+    "text": "عندي رغبة بتجديد الاشتراك السنوي، ممكن تبعتولي الفاتورة مع التخفيض المتفق عليه؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 228,
+    "text": "ليش عملية الدفع بتفشل دايمًا في آخر خطوة؟ هاد الاشي بيضيع وقتي وجهدي عالفاضي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 229,
+    "text": "يا ريت توضحولي قديش تكلفة الشحن لمدينة نابلس، وشكراً كتير لتعاونكم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 230,
+    "text": "كيف ممكن أحكي مع المشرف؟ الاشتراك معلق والفلوس انخصمت والوضع كتير سيء.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 231,
+    "text": "يا ريت توضحولي هسا كيف بشتغل نظام الطوارئ في الخدمة لانو عنا عطل كبير بالموقع.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 232,
+    "text": "أطالب بتفعيل الطلب هسا، أنا دفعت في المكتب وأخدت الوصل بس لسه السيستم معلق.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 233,
+    "text": "أحتاج لإلغاء هذه المعاملة هسا واستعادة أموالي، نظامكم غير موثوق بالمرة.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 234,
+    "text": "لو سمحتوا، في مبلغ بسيط انخصم مرتين، يا ريت ترجعوه لرصيدي بالفاتورة الجاية.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 235,
+    "text": "شو السبب لرفض وثيقة إثبات السكن؟ هي رسمية ومصدقة من البلدية هسا.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 236,
+    "text": "لو سمحت، بدي تحويل خطي لباقة الطلاب فوراً للاستفادة من سعة التخزين الإضافية اليوم.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 237,
+    "text": "بدي أعرف هسا إذا بقدر أستخدم بطاقة شخص تاني في الدفع ولا لازم تكون باسمي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 238,
+    "text": "أرجو توفير ميزات الباقة المخصصة اللي اتفقنا عليها مبارح بشكل طارئ لتفادي توقف الخدمة.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 239,
+    "text": "الفاتورة مش مطابقة للواقع أبداً وفيها مبالغ وهمية، بدي مراجعة شاملة هسا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 240,
+    "text": "تفاجأت بوجود رسوم لخدمات أنا ما طلبتها أصلاً، بدي إلغاء هاي الرسوم هسا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 241,
+    "text": "يا ريت توضحولي بشكل عاجل إذا باقة الأعمال بتشمل حماية من الهجمات الإلكترونية.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 242,
+    "text": "بدي تأكيد فوري إذا في إمكانية لربط المقر الرئيسي هسا لانو النظام واقع بكل الفروع.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 243,
+    "text": "أطالب بتصحيح الفاتورة فوراً لانو الخطأ من طرفكم وأنا مش مستعد أتحمل فلس زيادة.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 244,
+    "text": "يعطيكم العافية، الخدمة كتير مريحة، بس كنت حابب أسأل إذا في ميزة للترجمة التلقائية داخل التطبيق.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 245,
+    "text": "أحتاج لتفعيل ميزة البث المباشر هسا لانو المؤتمر رح يبدأ كمان نص ساعة والخاصية معلقة.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 246,
+    "text": "أرجو تزويدي بملف بيحتوي على شروط وأحكام الباقة اللي أنا مشترك فيها حالياً.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 247,
+    "text": "بصراحة التعامل معكم ممتاز، ممكن نطلب فتح فرع جديد أو توفير الخدمة في قرى يطا؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 248,
+    "text": "يسعد مساكم، حابب أستفسر عن تفاصيل الفاتورة الأخيرة لو سمحتوا، وشكراً لتعاونكم الدائم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 249,
+    "text": "ليش ما في رد على الأرقام الساخنة هسا؟ هاد استهتار واضح بأرواح الناس وحاجاتهم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 250,
+    "text": "يعطيكم العافية، حابب أطلب ترقية لاشتراكي الحالي لباقة أعلى عشان أستفيد من العروض.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 251,
+    "text": "يا ريت توضحولي تكلفة الخدمة الإضافية لأنو بدي أقرر هسا وأدفع.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 252,
+    "text": "مرحبا، ممكن أعرف متى بتبدأ ساعات الدعم الفني المباشر خلال أيام الأسبوع؟ وشكراً لجهودكم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 253,
+    "text": "أطالب بتعويض عاجل لأنو ميزات باقة الـ Gold ما تفعلت وقت الأزمة وخسرنا زبائن كتير بسببكم.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 254,
+    "text": "أرجو إفادتي إذا كانت ميزة الدمج مع تطبيقات التواصل الاجتماعي لسه شغالة ولا توقفت.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 255,
+    "text": "ممكن حدا يخبرني إذا في دوام ليلي هسا لاستقبال طلبات الأعطال الطارئة في نابلس؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 256,
+    "text": "بدي أعرف ليش انخصم مبلغ تأمين جديد بالفاتورة وأنا دافعه عند الاشتراك.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 257,
+    "text": "صارلي شهر بطلب توصلوا الخدمة لمنطقتنا وما في أي رد، هاد تهميش غير مقبول بالمرة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 258,
+    "text": "صارلي أسبوع بستنى تعديل الفاتورة وما حدا رد، هاد إهمال غير مقبول بالمرة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 259,
+    "text": "ممكن رد سريع بخصوص ليش تم رفض بطاقتي البنكية مع إنها شغالة تمام في محلات تانية؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 260,
+    "text": "أرجو تفعيل ميزات باقة الطوارئ هسا لأنو الشغل واقف ومحتاجين السعة الإضافية فوراً.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 261,
+    "text": "مرحبا، هل في مشكلة عامة بالتغطية في حي الزيتون هسا؟ لانو الإشارة معدومة عندي.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 262,
+    "text": "ليش ما في أي تحديث بخصوص استعادة التغطية في المناطق المنكوبة؟ الوضع طارئ هسا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 263,
+    "text": "أرجوكم، محتاج تفعيل الخدمة هسا في المستشفى الميداني ببيت لحم لانو التغطية ضرورية جداً.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 264,
+    "text": "بخصوص الخصائص الفنية، شو هو الفرق الجوهري بين النسخة المجانية والنسخة المدفوعة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 265,
+    "text": "هل يمكن استعادة الاشتراك الملغى هسا؟ صار في غلط وبدي أرجعه وبدفع أي رسوم.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 266,
+    "text": "بدي أطلب تغيير نوع الخطة من سنوية لشهرية ابتداءً من الدورة الجاية لو سمحتوا.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 267,
+    "text": "لو سمحتوا، بدي رد نهائي هسا إذا كان حسابي البنكي في خطر بسبب محاولات الدفع الفاشلة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 268,
+    "text": "بدي أسأل إذا الباقة الأساسية بتشمل ميزة الدعم الفني على مدار الساعة؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 269,
+    "text": "يسعد مساكم، حابب أستفسر عن موعد تجديد اشتراكي السنوي وكيف بقدر أفعل التجديد التلقائي؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 270,
+    "text": "بدي أقدم شكوى رسمية لانو تم سحب مبلغ الاشتراك مرتين في نفس الشهر.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 271,
+    "text": "يا ريت توضحوا ليش تم رفض عملية الدفع هسا مع إنو الرصيد أكتر من كافي بالبطاقة.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 272,
+    "text": "صارلي فترة بلاحظ إنو ميزة 'الإشعارات' بتوصل متأخرة كتير، وهاد الاشي بيعطل شغلي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 273,
+    "text": "لو سمحتوا، هل خدمة التوصيل متوفرة لمنطقة بيت حنينا في القدس خلال هالفترة؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 274,
+    "text": "بصراحة طريقة إصدار الفواتير عندكم فيها لخبطة كبيرة، بدي حدا يفهمني شو صاير.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 275,
+    "text": "كيف بقدر أعرف إذا الفني راح يوصلني قبل نهاية الدوام الرسمي اليوم ولا لا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 276,
+    "text": "لو سمحتوا، هل خدمة العملاء متاحة في أيام العطل الرسمية ولا الدوام بكون مغلق؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 277,
+    "text": "بخصوص الفاتورة رقم ١٠٢، حابب أعرف شو سبب زيادة الرسوم عن الشهر الماضي.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 278,
+    "text": "بدي أسأل إذا في إمكانية لتقسيط مبلغ الفاتورة الكبيرة هاد الشهر، وشكراً لتفهمكم.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 279,
+    "text": "في مجال تفعيل ميزة التعرف على الوجه لتسريع الدخول للحساب؟ وشكراً إلكوا.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 280,
+    "text": "يا ريت تساعدوني في حل مشكلة تعليق الاشتراك هسا لانو بدي ألحق الدورة التدريبية.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 281,
+    "text": "للأسف الباقة الأساسية كتير ضعيفة وما بتكفي الاستخدام اليومي العادي، يا ريت تراجعوا ميزاتها.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 282,
+    "text": "بدي أعرف هسا متى بخلص دوام قسم المحاسبة لاني محتاج أسدد فاتورة مستعجلة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 283,
+    "text": "ليش الفاتورة نازلة بمبلغ مضاعف؟ هاد الخطأ لازم يتصلح هسا فوراً وبدون تأخير.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 284,
+    "text": "بدي رد نهائي هسا، ليش اشتراك الشركة التغى بدون أي طلب منا أو سابق إنذار؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 285,
+    "text": "بدي أحكي مع المدير بخصوص المبالغ الزايدة اللي عم تنخصم بدون وجه حق.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 286,
+    "text": "ممكن تحكولي إذا ميزة مشاركة البيانات موجودة في باقة المجموعات ولا لازم اشتراك منفصل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 287,
+    "text": "عندي ملاحظة، يا ريت لو تخلوا خطوات التوثيق أبسط شوي للمستخدمين الجدد.",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 288,
+    "text": "بخصوص الفاتورة الأخيرة، حابب أعرف تفاصيل المبالغ المضافة لرسوم الخدمة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 289,
+    "text": "أنا كتير ممتن لخدمتكم، بس حابب أتأكد من قيمة المبلغ المتبقي علي للفترة الماضية.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 290,
+    "text": "يعطيكم العافية، هل في مجال أدفع كاش للمندوب لما يوصل الطلب لعندي على البيت في نابلس؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 291,
+    "text": "قمت برفع نسخة جديدة من كشف الحساب لغايات التحقق من العنوان والمنطقة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 292,
+    "text": "أنا حابب أعرف إذا ميزة المكالمات غير المحدودة متوفرة في الباقة اللي أنا مشترك فيها حالياً؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 293,
+    "text": "عندي ملاحظة بسيطة بخصوص ضرورة توضيح ساعات العمل على باب الفرع الرئيسي.",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 294,
+    "text": "حاولت ألغي اشتراكي أكتر من مرة والسيستم بيعطيني خطأ، بدي حل لهالمشكلة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 295,
+    "text": "أرجو تزويدي بمواعيد العمل المتاحة للحجز خلال الأسبوع القادم في فرع بيت جالا.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 296,
+    "text": "بصراحة ساعات الدوام عندكم كتير قصيرة وما بتناسب الموظفين اللي بخلصوا شغل متأخر.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 297,
+    "text": "يا ريت تزودوني بالمناطق الجديدة اللي انضافت لخريطة التغطية عندكم، وشكراً لجهودكم.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 298,
+    "text": "أرجو إفادتي إذا كان بالإمكان توفير تغطية مؤقتة لفعالية وطنية في ساحة المهد هسا.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 299,
+    "text": "شكراً لجهودكم، الخدمة كتير ممتازة وبدي أعرف إذا في خصم خاص للطلاب عند التجديد.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 300,
+    "text": "هل تتوفر ميزة الدفع عند الاستلام في منطقة ضواحي القدس حالياً؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 301,
+    "text": "ليش ساعات العمل المكتوبة بالموقع مش مطابقة للواقع؟ رحت على فرع نابلس ولقيته مسكر.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 302,
+    "text": "يسعد صباحكم، حابب أطلب كشف حساب مفصل لكل الفواتير اللي اندفعت هالسنة.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 303,
+    "text": "يا ريت توضحولي الفرق في جودة التغطية بين مراكز المدن والقرى البعيدة في فلسطين.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 304,
+    "text": "ليش عم تطلبوا معلومات شخصية كتير للتحقق؟ هاد بحسسه الواحد مش بأمان.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 305,
+    "text": "بدي أسأل عن فرق السعر بين الاشتراك العادي والاشتراك المميز.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 306,
+    "text": "أريد معرفة إذا كان لازم أصور وصل الدفع وأبعته هون ولا السيستم بيحدث تلقائي.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 307,
+    "text": "يا ريت توضحوا ليش ميزة 'توفير البطارية' عم بتخلي التطبيق يسكر فجأة طول الوقت.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 308,
+    "text": "تكرماً، بدي أعرف إذا في إمكانية لربط نظامكم مع برامج المحاسبة اللي بنستخدمها بالشركة.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 309,
+    "text": "حسابي تهكر وبدي توثيق فوري للهوية عشان أرجعه قبل ما تروح المصاري.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 310,
+    "text": "أرجو إلغاء كل محاولات السحب من بطاقتي هسا لانو النظام عندكم مخترق أو خربان.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 311,
+    "text": "هل يوجد نية لتوفير نقاط بيع معتمدة في منطقة العيزرية لتسهيل الوصول لخدماتكم؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 312,
+    "text": "يا ريت توقفوا أي عمليات سحب مستقبلية هسا لاني سكرت الحساب البنكي المرتبط.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 313,
+    "text": "كيف ممكن أحجز موعد صيانة إذا كان كل ما أتصل بيحكولي 'الخدمة غير متاحة حالياً'؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 314,
+    "text": "أطالب بتوضيح هسا ليش ميزة 'النسخ الاحتياطي' مش عم تشتغل مع إني مفعلها من شهر.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 315,
+    "text": "طلب تحديث بياناتي الشخصية قبل ما أبدأ بعملية التوثيق النهائية للحساب.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 316,
+    "text": "يا ريت حدا يرد علينا بخصوص توفر الخدمة في منطقة جباليا، الناس هناك بحاجة ماسة للاتصال.",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 317,
+    "text": "النظام عندكم رفض صورة جواز السفر وحكى إنها مزورة، هاد اتهام غير مقبول!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 318,
+    "text": "لو سمحتوا، بدي تأكيد على سعر الحجز قبل ما تخلص الفترة المتاحة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 319,
+    "text": "أتمنى تدخل بشري لتوثيق الهوية لانو البرنامج مش متعرف على ملامح وجهي.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 320,
+    "text": "محتاجين دعم فني هسا في منطقة الوسطى بغزة، التغطية راحت فجأة والعمل متوقف تماماً.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 321,
+    "text": "ليش المواعيد كلها مسكرة في وجهنا؟ بدي حجز فوري لهسا لانو في خطر على المعدات.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 322,
+    "text": "بدي تأكيد فوري على ساعات توفر الأكسجين بمركزكم، الوضع حرج جداً ولا يحتمل التأخير.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 323,
+    "text": "جودة نظام التوثيق عندكم سيئة وبتاخد وقت طويل على الفاضي وبدون نتيجة.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 324,
+    "text": "بدي أعرف قديش المبلغ المطلوب لإعادة تفعيل الخدمة المقطوعة فوراً.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 325,
+    "text": "يا ريت يتم تفعيل خيار الدفع البديل هسا لانو بطاقتي انحظرت ومحتاج أدفع ضروري.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 326,
+    "text": "أرجو الرد هسا، ميزة 'تحديث البيانات' وقفت بنص العملية والسيستم كله انضرب.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 327,
+    "text": "أرجو إفادتي بمواعيد العمل في المكاتب الإقليمية بمدينة قلقيلية لو سمحتوا.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 328,
+    "text": "لو سمحتوا، بدي أعرف حالة الخدمة في بلدة بيتونيا وهل يوجد أي أعطال عامة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 329,
+    "text": "يا ريت تبعتولي قائمة بالميزات اللي بتشتغل بدون إنترنت هسا لاني طالع على منطقة مقطوعة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 330,
+    "text": "الوضع صار لا يطاق، ميزة 'المزامنة' مسحتلي ملفات الشغل الأساسية وبدي حل هسا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 331,
+    "text": "مساعدة في إدخال كود الـ OTP لانو النظام بيحكي إنه الكود غلط رغم صحته.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 332,
+    "text": "حاولت أتواصل مع قسم المحاسبة عشان غلط في الفاتورة وما حدا رد علي لهسا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 333,
+    "text": "ليش دائماً وقت الانتظار على التلفون بكون طويل جداً؟ هاد استهتار بوقت الزبون.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 334,
+    "text": "هل تتوفر تغطية بديلة في حال انقطاع الخط الرئيسي في منطقة دير البلح؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 335,
+    "text": "ليش تم رفع سعر الاشتراك الشهري فجأة وبدون أي تبرير مقنع للمشتركين؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 336,
+    "text": "هل في إمكانية لجدولة موعد تركيب طارئ اليوم في بيت لحم؟ محتاج الخدمة ضروري.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 337,
+    "text": "لو سمحتوا، بدي أعرف حالة الدفع هسا لانو التطبيق بيعطيني 'قيد المراجعة' من ساعة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 338,
+    "text": "كيف بتحكوا إنها ميزة 'ذكية' وهي مش قادرة تفرق بين الإيميلات المهمة والسبام؟",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 339,
+    "text": "بدي حل هسا، ميزة 'الرفع التلقائي' عم تستهلك كل باقة الإنترنت عندي بدون إذن.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 340,
+    "text": "يا ريت توضحولي تكلفة الخدمة التقنية لانو السيستم عندي واقف ومحتاج أعرف السعر.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 341,
+    "text": "أرجو إرسال فني لمنطقة الشجاعية هسا لإصلاح الخلل في التغطية لانو الشغل متعطل.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 342,
+    "text": "لو سمحتوا، بدي إلغاء العقد لانو التغطية عندكم ما بتوصل لمكان شغلي في أريحا.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 343,
+    "text": "كتير عجبني ترتيب الميزات في باقاتكم الجديدة، بتسهل الاختيار كتير علينا.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 344,
+    "text": "بصراحة الفاتورة كتير واضحة ومنظمة، بس حابب أطلب فصل فاتورة البيت عن المكتب.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 345,
+    "text": "لو سمحتوا، بدي استرداد مالي للفروقات اللي بالفاتورة لانو الدفع صار كاش وغلط.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 346,
+    "text": "ليش لسه الفاتورة باسم المالك القديم مع إني قدمت طلب تعديل من زمان؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 347,
+    "text": "أطالب بتوضيح هسا ليش الخدمة انقطعت عن منطقة دورا بالكامل وبدون أي سابق إنذار.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 348,
+    "text": "في موظف حسابات متاح هسا يراجع معي حالة الدفع لانو السيستم معلق والوقت ضيق؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 349,
+    "text": "الخدمة سيئة جداً وما بتستاهل السعر العالي اللي بتطلبه، بدي حل لهاد الموضوع.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 350,
+    "text": "أحتاج لإلغاء الاشتراك هسا لانو الخدمة ما بتلبي احتياجاتي أبداً وللأسف خاب ظني.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 351,
+    "text": "كود الـ OTP ما وصلني بالمرة وضاعت علي فرصة الحجز بسبب هالمشكلة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 352,
+    "text": "أطالب بتعويض عن الخسائر اللي صارت بسبب تعطل بوابة الدفع عندكم اليوم.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 353,
+    "text": "يا ريت توضحولي ميزات اشتراك الـ VIP مقارنة بالباقة العادية، وشكراً لتعاونكم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 354,
+    "text": "ممكن تبعتولي تفاصيل الحساب البنكي المعتمد لدفع الفواتير المتأخرة هسا؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 355,
+    "text": "يسعد صباحكم، هل في إمكانية لتمديد فترة الاشتراك الحالية لمدة شهر إضافي كعرض تشجيعي؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 356,
+    "text": "بدي أفهم ليش باقة الأمان العالية فشلت في حماية الحساب من الاختراق اليوم؟ هاد إخفاق خطير جداً وبدي حل فوري.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 357,
+    "text": "هل في إمكانية لزيادة سعة التخزين هسا فوراً؟ الشغل واقف والسيستم بيعطي 'الذاكرة ممتلئة'.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 358,
+    "text": "كيف بقدر أفعل ميزة 'توفير البيانات' داخل الإعدادات؟ بدي جواب هسا لو سمحتوا.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 359,
+    "text": "ممكن رد سريع بخصوص توفر تغطية الـ 4G في منطقة طوباس؟ لانو محتاجها لشغلي هسا.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 360,
+    "text": "من المستحيل السكوت على هاد التأخير، دفعت الفلوس والخدمة لسه ما اتفعلت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 361,
+    "text": "بصراحة خريطة التغطية على موقعكم مش دقيقة أبداً، والخدمة ما بتوصل لعنا بالواقع.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 362,
+    "text": "محتاج شرح فوري هسا لميزة 'إدارة الأزمات' لانو السيستم عم بيعطي إنذارات حمراء.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 363,
+    "text": "لو سمحتوا، هل النظام بيسمح بإضافة أكتر من مستخدم بصلاحيات مختلفة؟ وشكراً لجهودكم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 364,
+    "text": "شكراً لسرعة الرد، هل في إمكانية لتزويدنا بالخدمة في منطقة الأغوار لأغراض زراعية؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 365,
+    "text": "بدي أستفسر هسا عن سرعة الإنترنت المتوقعة في قرية كفر قدوم حسب تغطيتكم الحالية.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 366,
+    "text": "يا ريت توقفوا الاستهتار بفلوس الناس، كل مرة بتنزل رسوم جديدة بدون سبب واضح.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 367,
+    "text": "تفاجأت إنو الدعم الفني بخلص الساعة ٤ العصر، هاد وقت كتير بدري لشركة كبيرة.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 368,
+    "text": "هل في إمكانية أستخدم جواز السفر بدل الهوية الشخصية في عملية التحقق؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 369,
+    "text": "يسعد صباحكم، ممكن تفعيل خاصية الرد الآلي على حسابي هسا لاني طالع في إجازة؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 370,
+    "text": "بدي توضيح فوري ليش ميزة الربط السريع ملغية من حسابي مع إنها الميزة الوحيدة اللي اشتركت بالباقة عشانها.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 371,
+    "text": "الوضع صار لا يطاق، الخدمة مقطوعة وما في حدا من الدعم الفني مداوم هسا يساعدنا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 372,
+    "text": "بدي تقرير نهائي بالمبالغ المستحقة لاني بدي أسكر الحساب نهائياً بسبب غلاء الأسعار.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 373,
+    "text": "هل في طاقم صيانة متاح هسا في منطقة القدس لإعادة التغطية بعد الانقطاع المفاجئ؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 374,
+    "text": "بدي أسأل إذا في خصومات للطلاب على اشتراك النادي الرياضي هالفترة؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 375,
+    "text": "بدي أعرف ليش تم إيقاف الخدمة عن منطقة السموع بدون أي إنذار؟ هاد تصرف غير مسؤول.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 376,
+    "text": "لو سمحتوا، بدي أعرف ليش لهسا ما وصلتني رسالة بتفاصيل الفاتورة الشهرية.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 377,
+    "text": "يا ريت توضحوا ليش التغطية ضعيفة جداً في منطقة المساكن الشعبية بنابلس هسا.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 378,
+    "text": "شكراً لتعاونكم، حابب أتأكد إذا فرع الخليل بفتح أبوابه هسا لاستلام الأجهزة.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 379,
+    "text": "ليش سرعة الإنترنت في ضواحي القدس أقل بكتير من الوسط رغم إنو بندفع نفس المبلغ؟",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 380,
+    "text": "أحتاج حلاً هسا لمشكلة تسجيل الدخول، نظام التحقق عندكم معلق تماماً.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 381,
+    "text": "ممكن تزويدي بقائمة المدن اللي بتوفروا فيها خدمة الصيانة المنزلية حالياً؟ غلبتكم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 382,
+    "text": "يا ريت تبعتولي تعليمات الدفع عن طريق الصراف الآلي لاني مش عارف أكمل الخطوات.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 383,
+    "text": "مرحبا، هل بقدر أحول اشتراكي من شهري لسنوي هسا واستفيد من الخصم المتاح؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 384,
+    "text": "صار عندي خصم مرتين من البطاقة لنفس الخدمة، بدي ترجعولي المصاري هسا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 385,
+    "text": "حسابي محظور بحجة عدم اكتمال التوثيق وأنا بعتت كل الأوراق المطلوبة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 386,
+    "text": "يسعد مساكم، حابب أستفسر إذا بتوفروا خدمة الدفع عن طريق بطاقات مدى أو فيزا بفرعكم في رام الله؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 387,
+    "text": "مرحبا، ممكن أعرف إذا في خطة قريبة لتوسيع التغطية لتوصل لقرى شمال جنين؟ غلبتكم معي.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 388,
+    "text": "تكرماً، بدي أطلب موعد صيانة يكون ضمن ساعات الصباح الباكر في مدينة جنين لو سمحتوا.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 389,
+    "text": "لو سمحتوا، بدي أطلب توسيع نطاق البث ليوصل للمنطقة الصناعية في غزة بشكل عاجل.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 390,
+    "text": "محتاجين ربط طارئ لمنطقة العمليات في الشمال هسا، هل التغطية بتسمح بهاد الاشي؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 391,
+    "text": "أرغب بطلب تأكيد إذا حسابي صار جاهز للاستخدام بعد ما خلصت خطوات التوثيق.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 392,
+    "text": "بدي أقدم شكوى بخصوص التأخير في الرد على طلب الصيانة لأكتر من ٤٨ ساعة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 393,
+    "text": "بخصوص حدود التغطية، ليش الخدمة بتوصل لأول الشارع وبتقطع عند بيتنا في بيت ساحور؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 394,
+    "text": "يا ريت ترسلولي كشف بأسعار القطع البديلة المتوفرة عندكم بالمخزن.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 395,
+    "text": "لو سمحتوا، بدي حدا يحكي معي هسا، مش معقول تكون كل هالفلوس معلقة بالهوا.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 396,
+    "text": "شكراً لسرعة الرد، ممكن هسا تبعتولي تفاصيل الدفع للفاتورة الحالية عشان أسددها؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 397,
+    "text": "صارلي أسبوع بستنى الموافقة على الحساب وما حدا رد علي، شو القصة؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 398,
+    "text": "كتير عجبني وضوح الأسعار عندكم، بس حابب أتأكد من سعر القطعة الإضافية هسا.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 399,
+    "text": "أنا مشترك قديم معكم، هل في إمكانية أحصل على عرض خاص أو تخفيض على التجديد؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 400,
+    "text": "محتاج أعرف هسا إذا اشتراكي تم إلغاؤه نهائياً لاني بدي أشترك من أول وجديد.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 401,
+    "text": "بدي رد هسا بخصوص الفاتورة المعلقة، لانو الخدمة مهددة بالانقطاع بسببها.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 402,
+    "text": "حابب أطلب إضافة خيار الدفع عبر المحافظ الإلكترونية المحلية مثل جوال باي، الخدمة بتكون أسهل هيك.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 403,
+    "text": "بدي حل هسا، ميزة الحفظ التلقائي فشلت وضاع مني شغل ٣ ساعات متواصلة.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 404,
+    "text": "يا ريت تبعتولي الفاتورة الضريبية هسا عشان محتاجها لمعاملة محاسبية ضرورية.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 405,
+    "text": "يا ريت تفتحوا لي صلاحية الوصول هسا، أنا دفعت الاشتراك بس لسه الحساب معلق.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 406,
+    "text": "تفاجأت إنو ميزة 'تحويل النص لصوت' جودتها سيئة جداً وبتبين كأنها صوت آلي مزعج.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 407,
+    "text": "ليش ميزة الفلترة بالنتائج كتير ضعيفة وما بتطلعلي الأشياء اللي ببحث عنها بالظبط؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 408,
+    "text": "كيف بقدر أعرف إذا بيتي الجديد في خانيونس ضمن نطاق التغطية ولا بره؟ بدي جواب هسا.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 409,
+    "text": "أنا مشترك جديد وحابب أطلب ترقية حسابي لباقة المحترفين للاستفادة من الميزات.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 410,
+    "text": "لو سمحتوا، بدي أطلب إعادة ضبط لخصائص الحساب لانو في ميزات اختفت فجأة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 411,
+    "text": "لو سمحتوا، هل باقة الأعمال عندكم بتدعم ربط أكتر من حساب بنفس الوقت؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 412,
+    "text": "أود الاستفسار إذا باقة الطوارئ بتوفر سعة اتصال مضاعفة بشكل فوري وقت الأزمات والضغط العالي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 413,
+    "text": "بدي حل هسا، التغطية مقطوعة تماماً عن منطقة كاملة في دير البلح والناس معزولة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 414,
+    "text": "لو سمحتوا، بدي أطلب تمديد ساعات العمل بفرع غزة لانو في ناس كتير لسه بتنتظر.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 415,
+    "text": "هل بقدر أستخدم ميزة التوقيع الإلكتروني هسا لتوقيع العقود ولا لسه تحت التطوير؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 416,
+    "text": "أطالب بتعويض عن الأيام اللي راحت بدون تغطية في منطقة الشجاعية، هاد حقنا.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 417,
+    "text": "ميزة الأمان في الباقة مش مفعلة لهسا، ليش هاد الإهمال اللي ممكن يعرض بياناتنا للخطر؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 418,
+    "text": "يسعد صباحكم، هل تم قبول صورة السيلفي اللي بعتها للتحقق من الهوية؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 419,
+    "text": "يسعد مساكم، حابب أستفسر عن ميزة التقارير اليومية، هل بتدعم تصدير البيانات لملفات إكسل؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 420,
+    "text": "ممكن توضيح للرسوم الإدارية اللي انضافت فجأة على الفاتورة هاد الشهر؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 421,
+    "text": "بصراحة شروط الاشتراك كتير معقدة وفيها بنود مش واضحة بتظلم المستخدم.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 422,
+    "text": "بدي حل هسا، اشتراكي فعال بس التغطية مش واصلة لبيتي والفلوس عم تضيع عالفاضي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 423,
+    "text": "قديش السعر النهائي للمنتج بعد إضافة رسوم التأمين والنقل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 424,
+    "text": "أود السؤال عن التوقيت الشتوي لساعات العمل وهل صار عليه أي تغيير بفرع رام الله؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 425,
+    "text": "أرجو تأكيد توفر الطاقم هسا في منطقة جباليا لتقديم المساعدة التقنية العاجلة.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 426,
+    "text": "بدي حل جذري لمشكلة غياب الموظفين في الساعات المتأخرة، إحنا دافعين حق خدمة كاملة.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 427,
+    "text": "الأسعار عندكم صارت مبالغ فيها مقارنة بالمنافسين، يا ريت تراجعوا حساباتكم.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 428,
+    "text": "أرجوكم، كود التحقق ضروري جداً هسا لاني بره البلد ومحتاج أدخل على حسابي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 429,
+    "text": "يا ريت يتم الرد علي هسا لانو المعاملة قانونية وبتنتهي مدتها مع نهاية ساعات العمل.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 430,
+    "text": "تساؤل بخصوص إذا في ضغط على السيرفرات هسا؟ لانو التطبيق بيعطيني خطأ.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 431,
+    "text": "تكرماً، بدي تزودوني بقائمة ميزات الباقة الاقتصادية هسا عشان أختارها قبل ما ينتهي اليوم؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 432,
+    "text": "أرجو تزويدي برابط التحقق من البريد الإلكتروني لاني ما استلمت الإيميل.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 433,
+    "text": "بدي أعرف هسا ليش ميزة 'البحث عن جهازي' مش عم تطلعلي الموقع الدقيق للجهاز.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 434,
+    "text": "هل الفاتورة الحالية بتشمل رسوم الصيانة اللي تمت الأسبوع الماضي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 435,
+    "text": "هل السعر المذكور في الإعلان ساري ليومنا هاد ولا تغير؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 436,
+    "text": "أحتاج لتوضيح عاجل حول سبب توقف الاشتراك رغم وجود رصيد كافي في بطاقتي.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 437,
+    "text": "يسعد مساكم، ممكن حدا يحكي معي هسا بخصوص غلط بسيط بتفاصيل الفاتورة الأخيرة؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 438,
+    "text": "بدي أستفسر بشكل عاجل عن إمكانية شحن الطلبات لقطاع غزة هسا وشو هي المحددات الموجودة.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 439,
+    "text": "هل تتوفر ميزة 'تجميد الاشتراك' هسا لانو طالع رحلة وبدي أحافظ على أيامي المتبقية؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 440,
+    "text": "بدي أعرف هسا إذا في نظام دعم ٢٤/٧ لهي الحالة لانو الوضع طارئ جداً.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 441,
+    "text": "مرحبا، ممكن توضحولي كيف بقدر أفعل خاصية التنبيهات الذكية على الموبايل؟ غلبتكم معي.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 442,
+    "text": "من المستحيل التواصل مع أي حدا لتأكيد الحجز، هاد الإهمال بيعرض شغلنا كله للفشل.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 443,
+    "text": "بدي مساعدة فورية هسا، حاولت أدفع والعملية فشلت بس المبلغ انخصم من حسابي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 444,
+    "text": "ليش لغيتوا موعد الحجز تبعي بدون ما تخبروني؟ هسا أنا محتاج الفني ضروري جداً.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 445,
+    "text": "ممكن أعرف ميزات الباقة البرونزية بشكل عاجل قبل ما يخلص العرض المتاح عليها.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 446,
+    "text": "بدي أقدم شكوى رسمية بخصوص الوعود الكاذبة بتوسيع التغطية لحينا وما صار إشي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 447,
+    "text": "بدي منكم إلغاء اشتراكي في باقة المحترفين فوراً لانو الميزات مش مطابقة للواقع وبدي استرداد كامل لحقوقي.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 448,
+    "text": "أرجو مراجعة الطلب رقم ٤٤٥ بخصوص توثيق الهوية لاني مستعجل شوي.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 449,
+    "text": "لو سمحتوا، بدي تأكيد فوري بخصوص مدة الصلاحية المتبقية لانو السيستم معلق عندي.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 450,
+    "text": "بدي تأكيد عاجل إذا باقة الدعم المتقدم بتشمل التدخل الفوري في حال تعطل النظام بالكامل.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 451,
+    "text": "لو سمحتوا، بدي أعرف حالة اشتراكي هسا لانو عم بيعطيني 'غير نشط' بالخطأ.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 452,
+    "text": "بدي تأكيد إذا في تغطية بديلة هسا لانو الخط الرئيسي انقطع بسبب الأشغال بالشارع.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 453,
+    "text": "هاد تالت كود OTP بطلبه وما بيوصل، الوضع صار مستفز جداً والشغل واقف.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 454,
+    "text": "أطالب بفتح تحقيق ليش ميزة 'تتبع الطلبات' عم بتعطي معلومات غلط ومضللة للزباين.",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 455,
+    "text": "بدي أستفسر بشكل عاجل إذا اشتراكي بيغطي استخدام أكتر من جهاز في نفس الوقت.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 456,
+    "text": "بدي أطلب كشف فني للتأكد من قوة الإشارة داخل المباني في مركز مدينة طولكرم.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 457,
+    "text": "حابب أطلب شرح بسيط عن كيفية استخدام أدوات التحليل الجديدة اللي انضافت بالتحديث الأخير.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 458,
+    "text": "أطالب بفتح تحقيق ليش ما تم الرد على بلاغي العاجل ضمن وقت الاستجابة المحدد.",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 459,
+    "text": "ليش عم تبعتولي مطالبات مالية وفواتير قديمة أنا دافعها من شهرين؟ هاد عيب.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 460,
+    "text": "يسعد صباحكم، بدي أتأكد هسا إذا باقة السفر بتشتغل في كل الدول العربية قبل ما أحجز.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 461,
+    "text": "لو سمحتوا، شو هي الإجراءات المتبعة في حال فشلت عملية الدفع الإلكتروني أكتر من مرة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 462,
+    "text": "يعطيكم العافية، حابب أتأكد إذا الخصم اللي وعدتوني فيه نزل على فاتورة هاد الشهر.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 463,
+    "text": "بدي رد رسمي هسا ليش تم تجاهل طلبي الطارئ رغم إني بعته ضمن ساعات الدوام.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 464,
+    "text": "ممكن أعرف إذا في أماكن شاغرة لتدريب الطلاب بفرع الشركة الرئيسي هسا؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 465,
+    "text": "بدي أعرف خريطة التغطية الرسمية لخدمات الألياف الضوئية عندكم في كافة المحافظات.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 466,
+    "text": "تفاجأت إنو منطقتي في بيت جالا مش مشمولة بالتغطية مع إنها بمركز المدينة، شو السبب؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 467,
+    "text": "بدي أطلب تفعيل حسابي بشكل عاجل لاني محتاج أعمل تحويل مالي اليوم.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 468,
+    "text": "يا ريت حدا من الفنيين يحكي معي هسا، برج التغطية في منطقتنا بطلع دخان والخدمة وقفت.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 469,
+    "text": "أحتاج لإفادة عاجلة حول متى رح ترجع المصاري لحسابي بعد ما فشلت عملية الدفع.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 470,
+    "text": "يا ريت توضحوا ليش تم تقليل ميزات باقتي الحالية مع إنها لسه ما خلصت.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 471,
+    "text": "تكرماً، بدي أطلب فاتورة ضريبية رسمية للمبلغ اللي دفعته أونلاين الصبح وشكراً إلكوا.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 472,
+    "text": "ما هي الأسباب الشائعة لرفض صور التحقق من الهوية في نظامكم الآلي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 473,
+    "text": "ممكن تزويدي بتكلفة الصيانة الطارئة هسا؟ بدي أصلح الجهاز بأسرع وقت.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 474,
+    "text": "ليش ما في أي تحذير قبل ما ميزة 'الحذف النهائي' تشتغل؟ ضيعتوا مستقبلي المهني.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 475,
+    "text": "يا ريت توضحولي متى بتم تحديث حالات الطلبات في النظام خلال ساعات الليل.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 476,
+    "text": "بدي أطلب توضيح عن ميزة 'المزامنة التلقائية' وكيف بتشتغل لما نكون مش متصلين بالإنترنت.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 477,
+    "text": "مرحبا، هل في مجال لتعديل بيانات صاحب الاشتراك هسا لانو انتقلت ملكية الحساب؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 478,
+    "text": "يا ريت تساعدوني في إتمام عملية الدفع هسا لانو البطاقة مش عم تقبل بالسعر الحالي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 479,
+    "text": "يعطيكم العافية، بدي أحصل على تفاصيل الفاتورة هسا لانو بدي أغلق الحساب المالي اليوم.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 480,
+    "text": "يا ريت توضحولي كيف بقدر أحمل الفاتورة بصيغة PDF من الموقع الرسمي.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 481,
+    "text": "غلبتكم، هل في تقسيط مريح لأسعار الأجهزة الكهربائية عندكم هالشهر؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 482,
+    "text": "ليش تم سحب مبلغ التجديد وأنا عامل إيقاف للخدمة؟ بدي استرداد مالي فوراً.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 483,
+    "text": "يعطيكم العافية، حابب أستفسر بشكل عاجل عن أقرب موعد متاح لزيارة منزلية في قلقيلية.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 484,
+    "text": "عندي ملاحظة بخصوص عدم وضوح مناطق التغطية في التطبيق، يا ريت تحدّثوها.",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 485,
+    "text": "ممكن لو سمحتوا تساعدوني في رفع صورة الهوية عشان التوثيق؟ غلبتكم معي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 486,
+    "text": "بدي أعرف هسا شو العمل إذا الحساب انخصم منه مرتين لنفس الطلب، ساعدوني ضروري.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 487,
+    "text": "تفاجأت إنو التغطية في منطقة جنين ضعيفة جداً وغير مطابقة للي مكتوب بموقعكم الرسمي.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 488,
+    "text": "يا ريت توضحولي شو هي الأوراق المطلوبة لتفعيل حساب الشركات عندكم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 489,
+    "text": "يا ريت تبعتولي تنبيه قبل موعد انتهاء الاشتراك بـ ٤٨ ساعة لتذكيري بالتجديد.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 490,
+    "text": "هل بتضمنوا استمرار الخدمة بدون انقطاع في باقة الشركات البريميوم؟ هاد أمر حرج جداً لعملنا.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 491,
+    "text": "أطالب بمراجعة الفاتورة الحالية هسا لانو في ازدواجية واضحة ببعض البنود المالية.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 492,
+    "text": "بدي أحكي مع مسؤول الحسابات هسا، الفاتورة فيها تلاعب واضح بالأسعار المتفق عليها.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 493,
+    "text": "بدي أعرف إذا باقتي الحالية بتسمح لي أحمل الفيديوهات ولا بس مشاهدة مباشرة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 494,
+    "text": "مرحبا، بدي أطلب مقارنة مكتوبة بين باقة العائلات والباقة الفردية عشان نختار الأنسب.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 495,
+    "text": "في مجال أعرف إذا عملية الدفع بالدولار بتتم حسب سعر صرف البنك ولا سعر السوق؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 496,
+    "text": "لو سمحتوا، محتاجين نرفع الحساب للباقة اللامحدودة حالاً لوجود ضغط كبير على السيرفر عنا.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 497,
+    "text": "بدي أعرف ليش تم حصر التغطية بمناطق معينة واستثناء حارتنا في البلدة القديمة بالخليل.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 498,
+    "text": "ليش في فرق بالسعر بين الدفع كاش والدفع بالبطاقة؟ هاد اشي مش قانوني.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 499,
+    "text": "كيف بقدر أتأكد إنو بياناتي اللي رفعتها للتحقق محمية ومشفرة عندكم؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 500,
+    "text": "من المستحيل السكوت على هاد الإهمال، وين نظام الطوارئ اللي وعدتونا فيه؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 501,
+    "text": "أطالب بتوضيح ساعات الاستجابة للإنذارات الأمنية هسا لانو السيستم معطل تماماً.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 502,
+    "text": "بدي أسأل عن توفر المواعيد المسائية في مركزكم الموجود في مدينة غزة حالياً.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 503,
+    "text": "بدي تأكيد فوري إنو الفاتورة تم تسويتها بالكامل عشان أقدر أجدد الاشتراك السنوي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 504,
+    "text": "هل حسابي مهدد بالإغلاق لاني ما كملت إجراءات التحقق من الهوية فوراً؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 505,
+    "text": "بدي كشف تفصيلي بكل قرش اندفع، لانو في فرق كبير بين الحسابات عندي وعندكم.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 506,
+    "text": "دفعت عشان ميزة السرعة الإضافية في الباقة المتقدمة بس لسه السرعة زي ما هي وما تغيرت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 507,
+    "text": "هل يوجد رسوم إضافية عند استخدام المحافظ الإلكترونية في الدفع بدل التحويل البنكي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 508,
+    "text": "أرجو إرسال جدول المناوبات الخاص بفريق الصيانة في منطقة الشمال لهاد الأسبوع.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 509,
+    "text": "بدي رد نهائي بخصوص الفاتورة الغلط، لانو هاد تالت مرة بصير معي نفس الإشي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 510,
+    "text": "بدي أسأل إذا في عروض خاصة للمناطق اللي دخلت ضمن تغطيتكم حديثاً في مدينة الخليل.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 511,
+    "text": "أطالب بتوفير موظف هسا فوراً، الانقطاع عم بيسبب خسائر مالية كبيرة كل دقيقة.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 512,
+    "text": "أطالب بتوفير الخدمة فوراً في منطقة تل الهوا لانو الانقطاع أثر على عمل الأجهزة الطبية.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 513,
+    "text": "مرحبا، بدي أطلب عرض سعر لتجهيز مكتب كامل من عندكم، وشكراً لجهودكم.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 514,
+    "text": "يا ريت ترسلولي إشعار استلام الدفعة فوراً لانو البنك بيطلب إثبات دفع الفاتورة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 515,
+    "text": "من المستحيل السكوت على هاد الاستهتار، دفعت الاشتراك والخدمة لسه مقفولة بوجهي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 516,
+    "text": "ليش كود التحقق بيتأخر ليوصل؟ صارلي تلت دقائق بستنى فيه هسا.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 517,
+    "text": "كيف بدكم إيانا نثق في نظامكم إذا كان كل مرة بيعطينا خطأ وقت الدفع؟",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 518,
+    "text": "كيف بتحكوا إنو الخدمة متوفرة وهي فعلياً مقطوعة عن أغلب أحياء المدينة؟ هاد تضليل.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 519,
+    "text": "بدي حل جذري لمشكلة تعليق ميزة 'الخروج الآمن' لانو حسابي ضل مفتوح بجهاز عام.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 520,
+    "text": "محتاج موافقة على الحساب هسا لاني بدي أقوم بعملية شراء عاجلة جداً.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 521,
+    "text": "بدي تفسير ليش طلبي للحصول على الخدمة في منطقة الريحان انرفض بحجة عدم التغطية.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 522,
+    "text": "بدي أعرف المبلغ النهائي المطلوب لسداد كل الفواتير هسا عشان أسكر الملف.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 523,
+    "text": "يا ريت حدا يراجع طلبي لاني غيرت الباقة وما وصلني إيميل التأكيد لهسا.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 524,
+    "text": "لو سمحتوا، بدي حدا يحكي معي هسا، مش معقول تكون الشركة كلها مسكرة بهاد الوقت.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 525,
+    "text": "بدي رد سريع بخصوص ميزة الـ VIP ليش لهسا مش ظاهرة بحسابي بعد ما رقيت الباقة؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 526,
+    "text": "بدي أعرف هسا وين راحت مصاريي، البنك بيحكي تمت العملية وانتو بتحكوا فشلت!",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 527,
+    "text": "كنت بتوقع ميزات الباقة تشتغل دايماً، بس طلعت بتشتغل بس في أوقات معينة، ليش ما بلغتوني بهاد التفصيل الحرج والمهم؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 528,
+    "text": "مرحبا، حابب أحجز الخدمة هسا، بس يا ريت تأكدولي السعر النهائي قبل التثبيت.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 529,
+    "text": "لو سمحتوا، بدي كشف حساب فوري بكل المبالغ اللي اندفعت والمديونية الحالية.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 530,
+    "text": "هل تتوفر إمكانية الحجز المباشر للعمليات الجراحية الطارئة في مشفاكم هسا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 531,
+    "text": "حابب أجدد اشتراكي هسا قبل ما يخلص العرض، يا ريت تبعتولي رابط الدفع السريع.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 532,
+    "text": "هل في فرق بالسعر إذا جددت الاشتراك عن طريق التطبيق أو من خلال المكتب؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 533,
+    "text": "بصراحة الفرق بين الباقات كتير كبير وميزة المشاركة محصورة بالباقة الأغلى بس، هاد تهميش لباقي المشتركين.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 534,
+    "text": "بدي رد هسا بخصوص اشتراك الشركة لانو لازم نجدد العقد قبل نهاية الدوام الرسمي اليوم.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 535,
+    "text": "كيف بتحكوا إنكم متاحين هسا والسيستم بيعطيني إنو 'خارج أوقات الدوام'؟ هاد تخبط.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 536,
+    "text": "مرحبا، هل في مشكلة تقنية في بوابة الدفع هسا؟ كل ما أدخل البيانات بيعطيني خطأ.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 537,
+    "text": "عندي ملاحظة، يا ريت لو تخلوا واجهة الدفع تدعم اللغة العربية بشكل أوضح.",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 538,
+    "text": "ليش السعر اللي دفعته بالمحل غير عن السعر اللي كان معروض على الرف؟ هاد غلط.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 539,
+    "text": "جودة خدمة الدفع الإلكتروني سيئة جداً، الموقع بطيء والعملية بتاخد وقت طويل.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 540,
+    "text": "هل يوجد رسوم خفية غير المعلن عنها في قائمة الأسعار الأساسية؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 541,
+    "text": "بدي إغلاق الحساب وتسوية الفواتير هسا لاني مش راضي عن تعاملكم المالي أبداً.",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 542,
+    "text": "أرجو إرسال فريق فوراً لتقييم ضعف التغطية في منطقة بيت حانون، الوضع حرج جداً.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 543,
+    "text": "ليش ميزة 'تعدد اللغات' ما بتشمل اللغة العربية في قسم المساعدة الفنية؟ هاد تهميش.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 544,
+    "text": "يسعد صباحكم، بدي أتأكد إذا كود الخصم لسه شغال عشان أتمم الدفع فوراً.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 545,
+    "text": "حابب أستفسر عن توفر الخدمة في المجمعات السكنية الجديدة في روابي لو سمحتوا.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 546,
+    "text": "أرجوكم، اشتراكي رح ينتهي الليلة وبدي أجدده هسا عشان ما تنقطع الخدمة عن المؤسسة.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 547,
+    "text": "حابب أطلب مراجعة لطلبي لانو رفعت كل المستندات المطلوبة والخدمة ممتازة.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 548,
+    "text": "لو سمحت، بدي جدول الأسعار للخدمات المختلفة اللي بتقدموها في المركز.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 549,
+    "text": "أرجو إفادتي إذا كان اشتراكي بشمل ميزة الدعم الفني المباشر ولا لازم باقة تانية؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 550,
+    "text": "غلبتكم، هل في إمكانية لتخصيص باقة تجمع بين ميزات الباقة الأساسية والمتقدمة؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 551,
+    "text": "محتاج تأكيد دفع فوري هسا لانو لازم أشحن البضاعة قبل نهاية دوام المعابر اليوم.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 552,
+    "text": "أرجو الرد هسا وبسرعة، حياة مريض بتعتمد على توفر الفني لتشغيل الجهاز.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 553,
+    "text": "من غير المقبول إنو ميزة أساسية مثل 'تعديل الملفات' تكون متاحة بس بالاشتراك الغالي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 554,
+    "text": "بدي أطلب تعديل تفاصيل العنوان المذكور بالفاتورة بشكل عاجل لضرورة ضريبية.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 555,
+    "text": "أطالب بتفعيل حسابي هسا وبدون تأخير لاني خسرت كتير صفقات بسببكم.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 556,
+    "text": "أرغب بطلب تفعيل الباقة الإضافية هسا، ومستعد أدفع الفرق فوراً، وشكراً لتعاونكم.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 557,
+    "text": "ليش في مبالغ إضافية نازلة على الفاتورة وأنا ما طلبت أي خدمات زيادة؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 558,
+    "text": "بدي أعرف هسا إذا بقدر أشارك حسابي مع شخص تاني حسب قوانين الاشتراك عندكم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 559,
+    "text": "حابب أستفسر عن سبب زيادة السعر المفاجئة في حسابي الشخصي.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 560,
+    "text": "بدي رد رسمي هسا ليش تم تجميد مبلغي في بوابة الدفع بدون أي سبب واضح.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 561,
+    "text": "كل ما أحاول أوثق الحساب بيعطيني خطأ في النظام، شو الحل معكم؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 562,
+    "text": "بدي أقدم شكوى بخصوص عدم توفر أي موعد متاح للحالات المستعجلة في فرعكم ببيت لحم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 563,
+    "text": "ليش ميزات باقة العائلات أقل بكتير من اللي مكتوب بالموقع؟ هاد الاشي مش منصف بصراحة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 564,
+    "text": "يا ريت حل هسا لمشكلة عدم وصول رمز الأمان (OTP) وقت الدفع بالبطاقة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 565,
+    "text": "بدي أحكي مع حدا هسا، حسابي مسكر وبحكيلي لازم توثيق وأنا موثقه أصلاً.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 566,
+    "text": "بدي حل هسا، العملية معلقة والمصاري انسحبت وأنا محتاج المنتج للضرورة القصوى.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 567,
+    "text": "كيف باقة الطوارئ ما بتشمل ميزة الدعم المباشر وقت الأزمة؟ بدي تفسير فوري لو سمحتوا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 568,
+    "text": "شكراً لردكم السريع، هل بتوفر الخدمة ميزة التخزين السحابي للملفات الكبيرة؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 569,
+    "text": "يا ريت توقفوا الخصم التلقائي لانو الفواتير عم تطلع غلط وبدي أراجعها قبل الدفع.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 570,
+    "text": "من غير المقبول إنو ما يكون في حدا يرد علينا في أيام العطل، الأعطال ما بتستنى.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 571,
+    "text": "مستوى التغطية في الداخل المحتل سيء جداً، وبدي حل لمشكلة انقطاع الإشارة المستمر.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 572,
+    "text": "أرجوكم، محتاج رد هسا قبل ما يسكر المركز بخصوص معاملة التحقق من الحساب.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 573,
+    "text": "الوضع صار لا يطاق، صارلي ساعة بحاول أدفع والسيستم بيطلعني بره الموقع.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 574,
+    "text": "يا ريت ترسلولي قائمة بأسماء الموزعين المعتمدين وتوفر الخدمة في مناطقهم.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 575,
+    "text": "من غير المقبول إنه ما يكون في خيار دفع عند الاستلام لطلبات بقيمة بسيطة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 576,
+    "text": "ممكن رد بخصوص ليش ميزة البحث الصوتي مش عم تتعرف على اللهجة الفلسطينية بوضوح؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 577,
+    "text": "من غير المعقول إنو التغطية بتقطع كل ما الدنيا تشتي في منطقة شمال غزة، وين الجودة؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 578,
+    "text": "مرحبا، ممكن تبعتولي نسخة من فاتورة شهر تلات عشان أراجع المصاريف؟ غلبتكم معي.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 579,
+    "text": "الخدمة دايمًا غير متوفرة وقت اللي بنحتاجها، يا ريت تراجعوا نظام المواعيد عندكم.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 580,
+    "text": "ممكن تبعتولي فاتورة أولية بالتكاليف التقديرية للمشروع بأسرع وقت؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 581,
+    "text": "مرحبا، هل في إمكانية لاستخدام الخدمة على أنظمة تشغيل تانية غير الويندوز والماك هسا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 582,
+    "text": "بدي أستفسر هسا عن ميزة 'التحقق بخطوتين'، ليش مش عم يوصلني كود التأفعيل عالتلفون؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 583,
+    "text": "محتاجين تأكيد فوري على ساعات توفر الخدمة الطبية في المشفى التابع لكم هسا.",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 584,
+    "text": "بدي أعرف بشكل عاجل إذا في عمولات إضافية عند الدفع بالبطاقة الائتمانية.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 585,
+    "text": "سؤالي هو عن الحد الأعلى للمبلغ اللي بقدر أدفعه من خلال التطبيق في المرة الواحدة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 586,
+    "text": "بدي تفسير واضح لرسوم 'الخدمات الإدارية' اللي انضافت بدون علمي.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 587,
+    "text": "عندي ملاحظة بسيطة بخصوص الباقة المتوسطة، يا ريت لو تزيدوا فيها عدد المستخدمين شوي.",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 588,
+    "text": "أطالب بتوفير تغطية طارئة في منطقة النصيرات هسا، الانقطاع عم بيسبب كوارث حقيقية.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 589,
+    "text": "ممكن تعديل الاسم المسجل على الفاتورة لاسم الشركة؟ وشكراً كتير لجهودكم.",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 590,
+    "text": "خصمتوا من بطاقتي مبلغ الفاتورة مرتين، بدي ترجعوا المصاري هسا وبشكل فوري.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 591,
+    "text": "عندي سؤال حول إمكانية تغيير الألوان والخطوط داخل لوحة التحكم الخاصة بي.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_gemini_v2"
+  },
+  {
+    "id": 592,
+    "text": "الأسعار اللي بعتوها بالإيميل غير عن اللي حكاها الموظف، وين السعر الصحيح؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_gemini_v2"
+  }
+]
