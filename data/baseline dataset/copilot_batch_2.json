@@ -1,0 +1,402 @@
+[
+  {
+    "id": 51,
+    "text": "مرحبا، الwifi عم يقطع بس لما بفتح الzoom، من امبارح هيك، في حل سريع؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 52,
+    "text": "يسلمو على المتابعة، الفني اجا وركب كلشي تمام، الخدمة ممتازة والله.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 53,
+    "text": "يا زلمة ليش الdelivery اتأخر نص يوم وما حد بلغني؟ هاد مش مقبول.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 54,
+    "text": "بدي اعرف اذا ممكن اغير عنوان الorder قبل ما يطلع الساعي، الكود 3344.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 55,
+    "text": "المية رجعت بس الضغط ضعيف، في شي بالخط ولا المشكلة عندنا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 56,
+    "text": "جزاك الله خير على الخصم، استخدمت الcode واشتريت الباقة، مبسوط من السعر.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 57,
+    "text": "شو هاد الصوت العالي من المحطة؟ الكهرباء بتقطع وترجع كل شوي، ما بقدر نام.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 58,
+    "text": "ممكن حد يرسللي invoice مفصل للorder 221؟ بدي ارفعها للمحاسبة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 59,
+    "text": "والله الدعم الفني كان محترم وشرحلي كلشي، شكراً كتير على الصبر.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 60,
+    "text": "الorder وصل بس القطعة مكسورة، شو في طريقة اعمل return او refund؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 61,
+    "text": "بدي اعرف اذا الباقة تشمل unlimited data او في fair use policy؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 62,
+    "text": "يا جماعة، الساعي ترك الطرد عند جار وما بلغني، ليش ما في نظام توقيع؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 63,
+    "text": "ممكن تأكدولي موعد الفني بكرة الصبح؟ ما لحقت اكون بالبيت بعد الظهر.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 64,
+    "text": "يسلمو، الtracking اشتغل والحالة واضحة، شكراً على التوضيح السريع.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 65,
+    "text": "شو في بالapp؟ كل ما بعمل login بيطلع error، ما بقدر اشوف الorder تبعي.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 66,
+    "text": "بدي اعرف اذا في خصم لو دفعت سنوي بدل شهري، وهل في code ينفع؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 67,
+    "text": "يا زلمة، الفني اجا متأخر وما لقى قطع الغيار، رجعني على طول، هدر وقت والله.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 68,
+    "text": "لو سمحتوا بدي اعرف خطوات الcancel للservice وهل في penalty؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 69,
+    "text": "جزاكم الله خير، الموظفة كانت لطيفة وساعدتني اكمل الorder بدون مشاكل.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 70,
+    "text": "المية رجعت بس فيها رائحة غريبة، في فحص ممكن تعملوه؟ ما بقدر استخدمها.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 71,
+    "text": "بدي اعرف اذا الrouter اللي بتعرضوه بيشتغل مع الVOIP ولا بس للانترنت؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 72,
+    "text": "ما بزبط الدفع بالcard عندكم، كل ما بخلص الدفع بيطلع failed، في حل؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 73,
+    "text": "ممكن تحجزولي موعد تركيب يوم الجمعة الصبح؟ بدي الفني يجي قبل الظهر.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 74,
+    "text": "والله الخدمة تحسنت، الدعم صار يرد بسرعة وما في انتظار طويل، مبسوطين.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 75,
+    "text": "شو صاير مع الشحن؟ الorder على الtracking مكتوب delayed من امبارح وما في تفاصيل.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 76,
+    "text": "بدي اعرف اذا في خدمة تركيب خارج المدينة وهل في فرق بالسعر لو بعيدة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 77,
+    "text": "يسلمو، الموظف خلص التركيب بسرعة وما ترك اي فوضى، شكراً على الاحترافية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 78,
+    "text": "يا جماعة، فاتورة الغاز غلط، حسبولي استهلاك اكتر من الواقع، بدي تصحيح فوراً.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 79,
+    "text": "ممكن حد يرسللي manual للاجهزة اللي ركبتموها؟ بدي اقرأ التعليمات قبل الاستخدام.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 80,
+    "text": "بدي اعرف اذا في امكانية اعمل upgrade للباقة اليوم وهل في downtime؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 81,
+    "text": "المندوب وصل متأخر وما كان معه الفاتورة، طلبت منه يرجع وما رجع، شو هاللامبالاة؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 82,
+    "text": "جزاك الله خير، الدعم عبر الchat حللي المشكلة بدون ما اطلع من البيت، ممتازين.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 83,
+    "text": "شو في بالsystem؟ كل الcustomers عم يشتكوا من نفس المشكلة، في اعلان رسمي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 84,
+    "text": "يا زلمة، الorder اتغيرت محتوياته بدون موافقتي، مين غير الطلب؟ هاد سرقة تقريباً.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 85,
+    "text": "ممكن تعطوني رقم مباشر للتواصل لو صار انقطاع بالانترنت بالليل؟ بدي احتياط.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 86,
+    "text": "يسلمو، الtechnician كان محترف وشرحلي الضمان والشروط، شكراً على الشفافية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 87,
+    "text": "ما لحقت ادفع الفاتورة بالوقت المحدد بسبب مشكلة بالبوابة، هل في grace period؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 88,
+    "text": "الorder وصل ناقص قطعة مهمة، الساعي قال ما عنده، بدي توصيل القطعة فوراً.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 89,
+    "text": "بدي اعرف اذا في خدمة تركيب express اليوم وكم بتكلف لو بديها فوراً؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 90,
+    "text": "والله شكراً، الموظف رجعلي الضمان اللي ضاع واهتم بالموضوع، خدمة فوق الممتازة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 91,
+    "text": "ليش ما حد بلغنا عن قطع الكهرباء اليوم؟ من الصبح واحنا بدون كهربا وما في اعلان.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 92,
+    "text": "ممكن اعرف وقت وصول الساعي بالتقريب؟ ما بقدر استنى طول اليوم بالبيت.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 93,
+    "text": "بدي اعمل تعديل على الorder واضيف منتج ثاني، ممكن تعملوا update قبل الشحن؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 94,
+    "text": "يا زلمة، الدعم عطاني معلومات غلط وتركتني بدون خدمة نص يوم، بدي اعتذار رسمي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 95,
+    "text": "يسلمو على الهدايا الصغيرة مع الطلب، حركة حلوة وخليتني مبسوط، شكراً كتير.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 96,
+    "text": "شو في بالtracking؟ الحالة بتتغير كل ساعة ومش واضحة، بدي توضيح نهائي لو سمحتوا.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 97,
+    "text": "المندوب دخل البيت بدون استئذان وقال لازم يركب بسرعة، هاد مش مقبول، بدي شكوى رسمية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 98,
+    "text": "ممكن تعطوني estimate للوقت اللازم لتركيب النظام كامل؟ بدي احسب وقتي قبل الحجز.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 99,
+    "text": "جزاك الله خير على التوصيل السريع، الorder وصل قبل الموعد وكنت مبسوط كتير.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  },
+  {
+    "id": 100,
+    "text": "ما بزبط الcode اللي عطيتوني للخصم، كل ما ادخله بيطلع invalid، في حل؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_copilot"
+  }
+]

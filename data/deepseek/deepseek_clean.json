@@ -1,0 +1,4514 @@
+[
+  {
+    "id": 1,
+    "text": "شكراً لاستبدال المروحة السقف يلي كانت خربانة. هلأ البيت كله برد والعيلة مبسوطة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 2,
+    "text": "😊 الحمد لله إنكم رجعتوا لي السيارة التوصيل بعد تصليحها بسرعة. كان وقفت شغلي يومين. يعطيكم العافية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 3,
+    "text": "القطعة يلي وصلتني مش أصلية، مع أني دافع ثمن الأصلي. هاد غش تجاري. وعدتوني باستبدالها من شهر ولسا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 4,
+    "text": "النت بطيء لدرجة إني مش قادر أتفرج على يوتيوب. أولادي تعبوا من الانتظار. جربت كل شي وما زبط.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 5,
+    "text": "أنا بدي ألغي اشتراك خدمة صيانة الأجهزة. كل ما أتصل في تأخير ومواعيد ما بتنضبط. صار يضغط أعصابي.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 6,
+    "text": "بدي حل: أنا مهدد بالقتل من جار عاقل، وخدمة الأمن تبعكم ما بتستجيب. بشتكي عليكم لمين؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 7,
+    "text": "أخيراً! بعد 3 أسابيع ومكالمات لا تعد، وصلت خدمة الاسترداد. أنا مبسوط مع إنه تأخر.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 8,
+    "text": "😊 فرحة العيد كملت بفضلكم. وصلت الحلويات لأهلي بالضهر قبل ما يجمعوا. الله يباركلكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 9,
+    "text": "موقعي الإلكتروني واقف 3 أيام بسبب عطل بالسيرفر تبعكم. أنا بخسر يومياً مبيعات ألف شيكل. بدي تعويض فوري.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 10,
+    "text": "أمي تعبانة وما بتقدر تنزل، طلبت منها غدا من خلالكم. وصل متأخر ساعتين وهي صايمة. حرام عليكم، تعبت وهي مستنية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 11,
+    "text": "الحمد لله إنكم صرفتوا النظر عن غرامة التأخير. كان غلط من نظامكم, وشكراً على المرونة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 12,
+    "text": "⚠️ أختي تعاني من أزمة قلبية، وسيارتكم تأخرت ساعة. الحمد لله جار أوصلها. لو استنيتكم كانت ماتت. حرام.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 13,
+    "text": "أنا أرسلت 4 شكاوي بنفس الرقم. قلتولي كل مرة خلص تم الحل. بس المشكلة لسا موجودة. بتستعبطوا عليا؟",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 14,
+    "text": "النت مقطوع من يومين، وأولادي عندهم اختبارات أونلاين. هل في أمل يرجع النهاردة؟ بدي اعرف عشان أخطط.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 15,
+    "text": "كل مرة أرسل إيميل، تردوا عليا برد أوتوماتيكي. أنا مش روبوت. بدي إنسان يتفاعل.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 16,
+    "text": "هل في أمل إنكم تصحوا؟ أنا نادم إني سجلت عندكم. كل يوم مشكلة. زهقت.",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 17,
+    "text": "الحمد لله إنكم رجعتم فلوسي بعد 3 شهور من المحاولات. أنا كنت ناسي أصلاً. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 18,
+    "text": "🙏 ربنا يجزيكم الخير. وصلتوا هدية عيد الأم لأمي قبل ما تصحى. دموعها كانت فرح. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 19,
+    "text": "كيف أرفع طلب استرداد قيمة شحنة ناقصة؟ أنا متأكد إن العدد المطلوب ما وصل كامل.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 20,
+    "text": "عندي سؤال: ليه في فرق بالسعر بين موقعكم والفرع؟ أنا دفعت زيادة 100 شيكل. بدي فرق السعر.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 21,
+    "text": "أنا مستورد حلويات، والتبريد بالشاحنات تبعكم تعطل. راحت عليا شحنة كاملة خسارة 30 ألف. عيب عليكم ما في تعويض.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 22,
+    "text": "أنا دافع اشتراك مميز، ولسا بشوف إعلانات. شو فايدة الاشتراك؟ بدي إلغاء واسترداد.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 23,
+    "text": "فكرة خدمة دعم المسنين تبعكم رائعة. بس بدي أعرف إذا بتقدروا تزوروا جدي أسبوعياً. كيف التسجيل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 24,
+    "text": "طلب مني مقاول أجهز مواد بناء لمشروع حكومي. طلبت منكم الشحن، الأخير تأخر أسبوع. المقاول ألغى العقد. خسارة مالية وسمعة.",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 25,
+    "text": "بدي أكلم مديركم مباشرة. من اليوم الصبح أتصل، كل مرة يقولوا راح يحولك، ويقطع الخط. مؤامرة يعني؟",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 26,
+    "text": "مش قادر أحصل على كود الخصم يلي وعدتوني فيه لأني عميل قديم. المرة الماضية قالوا خلص راح نبعته، ولا شي. كذابين.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 27,
+    "text": "❤️ شكراً من القلب. كنت خسران خطيبتي بسبب هدية متأخرة, لكنكم وصلتوا الوردة قبل ما تروح. أنقذتوا علاقتي.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 28,
+    "text": "ما قصرتوا معي. المشكلة يلي صارت بالشحنة السابقة تعوضت بسرعة وما أثرت على ولاء زبائني. شكراً للتفهم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 29,
+    "text": "كيف ممكن أستفسر عن فاتورة الشحن يلي عليها غرامات؟ أنا مش مقصر، بس تأخير الجمارك مش مني.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 30,
+    "text": "شكراً يا أخوان. وصلتوا فني الكهرباء قبل ما تحترق الدارة. بيتنا سلم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 31,
+    "text": "بدي أعرف ليش فيه عطل بالشبكة اليوم. أنا خسرت مكالمة عمل مهمة بسببكم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 32,
+    "text": "قررت أترككم اليوم. تعبت من المتابعة. تعبت من الوعود. تعبت من اللا مبالاة. السلام.",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 33,
+    "text": "أنا حرفياً مش قادر أستخدم الخدمة يلي دافع عليها. كل ما أحاول، يظهر إيرور. أرسلتلكم سكرين شوت أسبوع وما في رد.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 34,
+    "text": "أنا موزع معتمد عندكم، لكنكم صرفتوا النظر عن آخر 5 طلبات لي بدون سبب. خسرت عقود مع محلات ثانوية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 35,
+    "text": "بعتذر إذا صريح، بس شغلكم صار يسببلي خسائر. أنا عميل تجاري من 5 سنين، وآخر 3 شهور كل طلب فيها مشكلة. بدي مدير جديد.",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 36,
+    "text": "شكراً كتير. كانت خطيبتي بتعمل عملية خطيرة، وخدمة التوصيل أوصلتنا المستشفى قبل العملية بنص ساعة. ربنا يسعدكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 37,
+    "text": "والله إني مبسوط. بعد كل المشاكل, الحمد لله إنكم لسا بتسمعوا للزبون. استمروا هيك. ❤️",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 38,
+    "text": "💔 قلبي تعب. أنا زبون قديم، وبردكم الوحيد كان إنكم ترفعوا السعر. شكراً على الجميل.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 39,
+    "text": "الحمد لله إنكم بعتولي مدير الحسابات بعد 10 أيام من المعاناة. هو فهم مشكلتي بنص ساعة. ربنا يجزيكم خير.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 40,
+    "text": "بدي أتأكد: شو الضمان على عمليات القلب المفتوح يلي بتعملوها؟ أبو صاحبي توفى بعد ما غلطوا بالعملية.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 41,
+    "text": "😊 يعطيكم العافية. لما انقطعت الكهربا يومين، جبتولي مولد صغير يخلي الثلاجة والإنترنت شغالين. أنقذتوا رمضان.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 42,
+    "text": "💔 كل مرة أتصل بقولولي راح نكلمك خلال ساعة. وما حدا بكلمني. أنا صرت أحس إني مش موجود.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 43,
+    "text": "كل أفراد عيلتي عندهم اشتراك عندكم، ولسا كل شهر في مشكلة فوترة. تعبت أراجع حسابات خمسة أفراد.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 44,
+    "text": "😊 شكراً على الاهتمام. لما كنا مسافرين وانقطعت الكهربا، جيرانا اتصلوا بكم وركبتوها قبل ما ترجع الثلاجة. أنقذتوا بيتنا.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 45,
+    "text": "لأول مرة أحس إن في شركة بتسمع الزبون. شكراً على الاستماع لحلولنا. التغييرات يلي سويتوها ضبطت.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 46,
+    "text": "أنا مش عارف اشتكي لمين. كل مرة بقولو حولك للقسم المختص، والقسم يحولي لقسم تاني. دائرة مفرغة.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 47,
+    "text": "شكراً يا إخوان، الغسالة اشتغلت بعد ما جات الفني وصلى القطعة. مرتي مبسوطة وصار عندنا ملابس نظيفة. 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 48,
+    "text": "أنا بستغرب، كيف شركة كبيرة هيك ما عندها نظام لمتابعة شكاوي الزبائن؟ أنا حاس حالي بحلقة مفرغة.",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 49,
+    "text": "الحمد لله إنكم رجعتم الكهربا بعد 3 ساعات. كنت مستني أدفئ ولادي من البرد. ربنا يرضى عليكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 50,
+    "text": "والله يا جماعة تعبت وما عاد فيني. كل مرة أطلب منكم، في مشكلة. هاي المرة الثالثة التأخير نفس القصة. حرام عليكم عنجد.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 51,
+    "text": "بدي أستفسر إذا في إمكانية تحويل البيت للطاقة الشمسية عندكم. شو التكلفة والتركيب؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 52,
+    "text": "أنا فاهم الظروف، بس ليش سيارتكم تأخرت على أولادي؟ كانوا واقفين بالبرد ساعة. ما ينفع هيك مع عيلة.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 53,
+    "text": "أنا ضيعت من وقتي 6 ساعات عشان أصلح مشكلة غبية. لو كنت روحتي للشركة الثانية كان زمان خلصت. زهقت منكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 54,
+    "text": "بدي أغير الراوتر عندي قديم. بتعرفوا إذا الأجهزة الجديدة بتدعم السرعة العالية؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 55,
+    "text": "💔 أنا تعبت نفسياً. مكالماتي مسجلة عندكم. كل مكالمة بوعدوني، وما في شي. خسرت الثقة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 56,
+    "text": "ممكن أعرف إذا في مكان أقدم فيه شكوى رسمية؟ لأن قنواتكم ما بتنفع.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 57,
+    "text": "🙏 أنا شاكرلكم. الضوضاء يلي من الثلاجة كانت بتخليني ما أنام، وجيتوا غيّرتم المروحة. صرت أنام مرتاح.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 58,
+    "text": "تطبيق الخدمات الصحية تبعكم معطل. أنا بدي أجدد روشتة دواء. طولتوا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 59,
+    "text": "⚠️ عاجل: نظام الإنذار عندي فصل بسبب عطل كهربائي. البيت كله بدون حماية. بدكم تحلوا اليوم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 60,
+    "text": "بدي أعرف ليش تم إلغاء طلبية كرتون البضاعة بدون سبب. أنا خسران المورد وقاعدة زبوني. شو الحل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 61,
+    "text": "مرة تانية البريد الصوتي ممتلئ. أنا مش عارف أتركلكم رسالة، وما حدا بترد على الإيميلات. شغالين ولا لأ؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 62,
+    "text": "النت مقطوع من يوم ولسا. ولادي صاروا يصرخوا بدهم يلعبوا. أنا مش قادر أهديهم. بدكم تصيروا جدّيين.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 63,
+    "text": "أنتم ما بتستاهلوا نجمة. الخدمة سيئة، المنتج رديء، والسعر غالي. غلطتي إني تعاملت معكم.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 64,
+    "text": "بدي استفسار عن سياسة الاستبدال. المنتج يلي وصلني مختلف عن الصورة. بدي أبدله.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 65,
+    "text": "الحمد لله على كل حال. كنت حرفياً على وشك أترككم، بس آخر موظف تكلم معي كان محترم وحل المشكلة خلال يوم. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 66,
+    "text": "الدفاية الزيتية يلي اشتريتها سخنت كتير وصارت تطلع ريحة. خفت تسبب حريق. بدي أسترد فلوسي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 67,
+    "text": "آخر مرة. طلبت منكم تغيير موعد التسليم ثلاث مرات. كل مرة بتأكدوا وكل مرة بيجوا بوقت غلط. بدي أتكلم مع حدى عاقل.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 68,
+    "text": "أنا ومرتي بنشتغل من البيت، والحضانة أونلاين لأولادنا ضرورية. بس التطبيق يلي عندكم دايمًا يعلق. بدي حل.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 69,
+    "text": "عشرين مرة أقول لكم لا تحطوا إعلانات ببريدي الإلكتروني. لسا بتوصل. اشتراكي عندكم كيف بتفهموا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 70,
+    "text": "مش قادر أدفع فاتورة هاي الشهر لأن ابني تعالج ودفعت مصاري كثير. في تأجيل؟ بدي حل لأسرتي.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 71,
+    "text": "شو نظامكم؟ طلبت أكسجين لوالدي وهو يموت. جا بعد ساعتين. توفي في الطريق. أنا مش مسامحكم حتا لو تقفلوا الشركة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 72,
+    "text": "النت بطيء لدرجة إنو ما بفتح إيميلات. أنا مضطر أشتغل من تلفوني جوال. تعبت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 73,
+    "text": "🙏 أنا ممتن لكم جداً. بنتي كانت محتاجة متبرع بالدم, ونظّمتوا حملة خلال يوم. أنقذتوا حياتها.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 74,
+    "text": "للمرة السابعة أطلب منكم تغيير الرقم التسلسلي. كل مرة بتقولوا خلصنا، وبالواقع ولا شي. يا ريت تتركونا بحالنا.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 75,
+    "text": "أنا صرت مضطر أصور كل منتج قبل ما أفتحه، عشان لو خربان، ما ترفضوا الاستبدال. هذا عيب.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 76,
+    "text": "لما سمعت إنكم رجعتوا فلوسي كاملة، ما صدقت. كنت مفكر راح أنام في الشارع. شكراً من القلب. 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 77,
+    "text": "الحمد لله الذي بنعمته تتم الصالحات. بعد 14 محاولة، حدا فهم مشكلتي وحلها. أنا ممتن.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 78,
+    "text": "كفاية وعود كاذبة. أنتم أسوأ خدمة عملاء جربتها بحياتي. الله ياخدكم لعند مين بتسووا هيك.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 79,
+    "text": "الحمد لله إنكم ركبتوا نظام الإنذار الجديد. الليلة الماضية اكتشف حريق في المطبخ قبل ما ينتشر. أنقذتوا بيتي.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 80,
+    "text": "ما في أمانة. طلبت منكم توصيل هدية لخطيبتي بعيد ميلادها. وصلت بعد أسبوع. فسخت الخطبة. أنا هيك بدي أموت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 81,
+    "text": "الحمد لله أخيراً بعد 15 مكالمة حدا سمع صوتي. شكراً للموظف يلي فهم مشكلتي. 🙏",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 82,
+    "text": "الحمد لله على كل حال. كنت مخنوق بسبب الربو, وجتكم الإسعاف وأنقذتوني. أنتم نعمة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 83,
+    "text": "عندي اقتراح: دربوا موظفينكم على مهارات التواصل. اللي حكيت معه اليوم كان فظ وغبي.",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 84,
+    "text": "الموظف يلي حكيت معه اليوم قال إنه المشكلة من عندي أنا. يعني أنا يلي خربت السيرفرات تبعكم؟ وقاحة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 85,
+    "text": "🚨 استغاثة! ابني عنده امتحان أونلاين والنت مقطوع من يومين. كلمتكم 10 مرات وعدتوني وما في نتيجة. بدي حل خلال ساعة.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 86,
+    "text": "⚠️ كل أسبوع في تأخير بشحناتي لمحلات البيع. أنا خسرت 3 عقود توريد خلال شهرين. بدي حل جذري.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 87,
+    "text": "أنا صرفت النظر عنكم. بعد 3 شكاوي ما انحلوا، قررت أروح لشركة غير. مع السلامة.",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 88,
+    "text": "ما كنت أتطلع إنكم ترجعوا تطلبوا مني تعتذروا. صدقاً الاعتذار وحدو خفف عني كتير. أنتم رجال.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 89,
+    "text": "بدي أستفسر: في إمكانية تغيير رقم حسابي؟ عندكم مشكلة أمنية، حاس إنه في اختراق.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 90,
+    "text": "الحمد لله على سلامة أمي. الممرضة يلي بعتتوها كانت زي الملاك. تعبت معاها طول الليل وما قصرت. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 91,
+    "text": "ممكن أغير خطة العائلة؟ بدي أضيف أمي عندي بالباقة. شو المطلوب؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 92,
+    "text": "شكراً كتير للدعم النفسي يلي قدموه بعد ما توفى والدي. كلمة حلوة منهم خففت عني كتير.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 93,
+    "text": "شكراً للدعم النفسي يلي قدمتوه لأختي بعد محاولة الانتحار. أنقذتوا روحها. ربنا يجزيكم الخير. 🙏",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 94,
+    "text": "🚨 عاجل: أنا طالب إلغاء الخدمة من 6 مرات. كل مرة بيقولوا خلص، وللحين بتنزعوا فلوسي. بدي حل فوري.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 95,
+    "text": "لأول مرة بحياتي أحس بالأمان. خدمة الحراسة الليلية تبعكم منعت سارق من دخول بيتي. شكراً إنكم سهرتوني.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 96,
+    "text": "كم بدي انتظر عشان يرجع نت المدرسة لأولادي؟ امتحانات بعد أسبوع.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 97,
+    "text": "الحمد لله يا جماعة، شكراً لإلكم. بنتي كانت محتاجة جهاز الأكسجين بسرعة، وصلتوها خلال ساعة. أنقذتوا حياتها. 🙏",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 98,
+    "text": "🚨 طلبية زبون بـ 10 آلاف شيكل ضاعت بسبب غلط في عنوان الشحن من عندكم. راح عليا العقد وأنا كنت محتاجه عشان أدفع إيجار المحل. تعبت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 99,
+    "text": "شكراً يا جماعة. المندوب يلي جيتوه للمعرض ساعدني أجهز كلشي قبل الافتتاح. ما خسرنا ولا زبون بفضلكم. 🙏",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 100,
+    "text": "😊 والله فرحتوا قلبي. كنت خسران مبلغ كبير بسبب غلطة بالتحويل, ورجعتوه خلال يومين. أنكم ناس.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 101,
+    "text": "تعبت وأنا أضغط 1 للأرقام، 2 للعربي، 3 للفاتورة. بدي إنسان حقيقي يحكي معي من أول مرة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 102,
+    "text": "شكراً للموظف يلي أمس فهم مشكلتي بسرعة. لو كل موظفينكم زيه، كان ما وصلنا لهاي المعاناة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 103,
+    "text": "أنا فوت على فرعكم، الموظف قالي ارجع اونلاين. رجعت اونلاين قالي روح للفرع. ضلوني طايح بينكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 104,
+    "text": "شكراً يا جماعة. المروحية الإسعاف أنقذتني من الجبال لما انقلبت سيارتي. ربنا يخليلكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 105,
+    "text": "أنا تعبت وأناقشكم. طلبت منكم منتج، جاني منتج تاني. أرسلته رجع، جاني نفس الغلط. حرام عليكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 106,
+    "text": "ما كنت أتوقع إنكم تعوضوني بهالسرعة. الصراحة تفاجأت. أنتم قد المسؤولية. ربنا يوفقكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 107,
+    "text": "😂 من كثر الغباء، صرت أضحك. أرسلت لكم عنواني بالضبط، ولسا بتوصل الطلبات للشارع المجاور. وين عقولكم؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 108,
+    "text": "الغلاية الكهربائية يلي شريتها من عندكم انفجرت من كثر الغلي. مش قادر أصدق. بدي تعويض.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 109,
+    "text": "🙏 الله يرضى عليكم. أنقذتوا بنتي من الغرق، فريق الإنقاذ تبعكم وصل في دقايق. أنتم سبب حياتها.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 110,
+    "text": "أنا بحلم ولا هالحقيقة؟ طلبت دواء لأبي المصاب بالسرطان، وصلني بعد 3 أيام! توفي قبل ما يوصل. حرام عليكم، قلبكم حجر. 💔",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 111,
+    "text": "شبكة التليفون الأرضي مقطوعة. أمي مسنة وبتحتاج تتصل علينا. بدكم تبعوا فني بسرعة. 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 112,
+    "text": "الحمد لله على السلامة. بعد العاصفة, رجعت الكهربا لأولادنا بفضلكم. شكراً للفريق اللي اشتغل الليل.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 113,
+    "text": "شكراً يا جماعة. كنت مفكر إنكم ناسييني، بس بعد 3 أسابيع بعتولي مندوب شاطر. ربنا يخليلكم إياه.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 114,
+    "text": "أخيراً التطبيق صار يشتغل زي الحلاوة. شكراً على التحديث الجديد. صرت أقدر أدفع فواتيري بسهولة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 115,
+    "text": "✋ وقفوا شغلي معكم. أنا خسرت عميل مهم لأن الفاتورة يلي طبعتها كانت غلط من نظامكم. زهقت من الإحراج.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 116,
+    "text": "❤️ والله فرحتونا. كنا خايفين من السفر بسبب تأخير التأشيرة, وساعدتونا نخلص الإجراءات خلال يومين. أنقذتوني.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 117,
+    "text": "شكراً يا جماعة. بعد معاناة طويلة، حسيت إنكم بتسمعوا. ربنا يوفقكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 118,
+    "text": "شو الإجراءات لاسترداد قيمة شحنة فاسدة بسبب تأخير التبريد؟ وثائق معي. بدي مساعدة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 119,
+    "text": "أمي عندها أجهزة طبية بالبيت، والكهربا قطعت فجأة. بدي أعرف شو سبب القطع المتكرر؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 120,
+    "text": "شكراً لاستجابتكم السريعة بعد شكواي. كان نفسي ما أضطر أكتب شكوى عشان تتحركوا.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 121,
+    "text": "تعبت والله. خمس مرات أشرح نفس المشكلة لخمس موظفين مختلفين. كل واحد بحكيلي قصة مختلفة. أنا مش قادر.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 122,
+    "text": "بدي أشكركم من القلب. كنت محتاج جهاز أكسجين لأمي, ووصلتوها بسرعة الموت. ربنا يخليلكم أمها.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 123,
+    "text": "الحمد لله على سلامتكم. كنت غريق بالبحر وأنقذني فريق الإنقاذ تبعكم. ما توقعت هالسرعة. 🙏",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 124,
+    "text": "🙏 أنا ممتن لكم كثير. تعرفوا، أولادي كانوا حلمهم يروحوا الملاهي، ونظمتوا الرحلة كاملة بفضل خدمة حجز العائلات.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 125,
+    "text": "أنا مستثمر في شركة ناشئة، وخسرت فرصة تمويل بسبب إنكم ما وثقتم البيانات المالية المطلوبة. تدمرت ثقتي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 126,
+    "text": "عنجد, المندوب يلي جه كان قمة في الأدب والأخلاق. شكراً إنكم بتوظفوا ناس محترمة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 127,
+    "text": "أمي تعبانة قلب، وطلبت لها سماعات للقلب من عندكم. جات مكسورة. كيف ترضوا ترسلوها هيك؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 128,
+    "text": "الحمد لله. جهاز التكييف اشتغل بعد ما كنتوا ركبتوا له وصلة جديدة. صرنا ننام مرتاحين.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 129,
+    "text": "الحمد لله إنكم رجعتم الفلوس غصب عنكم. كان المفروض ما توصلوا لهاي الدرجة من الإحراج.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 130,
+    "text": "زوخت أختي، واتفقت معكم عالتصوير. ما حدا جاء! كل المدعوين استنوا. ضيعتوا ذكرى العمر.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 131,
+    "text": "أنا أرسلت إيميل، تعبئة في الموقع، واتساب، مكالمتين. لسا ولا رد. مش إحنا زباين عندكم ولا شو؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 132,
+    "text": "الحمد لله. ما كنت أتوقع أبداً إنكم تصححوا الغلط بهالسرعة. يعطيكم العافية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 133,
+    "text": "شكراً لسرعة إصدار كرت الشحن البديل. كان طفلي عنده امتحان وما في نت, وتصرفتم بسرعة. أنتم قد المسؤولية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 134,
+    "text": "😊 أخيراً ارتحت. كنت خايف إنكم تنسوني، بس الحمد لله وصلني الرد النهائي بعد 3 أسابيع. الحمد لله.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 135,
+    "text": "خلال شهرين، 9 أعطال في الخدمة. وكل مرة ما بعطونا تعويض. بدكم تتعلموا من شركات ثانية كيف يُحترم الزبون.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 136,
+    "text": "بدي أطلب إخلاء طبي عاجل لأمي من غزة. الوضع صعب وهي محتاجة عملية قلب مفتوح.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 137,
+    "text": "شكراً كتير لسرعة استجابتكم. بنتي كانت محتاجة الدواء بسرعة، وصل قبل ما يغمى عليها. أنقذتوا حياتها. 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 138,
+    "text": "أنا مش قادر أتحمل. واحد من عيلتي انتحر بسبب ضغط نفسي، وخدمة الدعم تبعكم ما في حدا يرد. هيك بتعاملوا المنتحرين؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 139,
+    "text": "الحمد لله على كل حال. انقطاع الكهربا كان فيلم رعب, بس رجعت قبل ما يخرب جهاز التنفس. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 140,
+    "text": "الحمد لله على سلامتكم. كنت معلق في المصعد والعمارة بتخترق, جيتوا أنقذتوني قبل ما ينهار. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 141,
+    "text": "التطبيق عطلان وما يقبل يدخلني. أنا بدي أغير كلمة السر من زمان. تعبان نفسياً من هالمشاكل.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 142,
+    "text": "الحمد لله إنكم رجعتم المبلغ يلي خسرته بسبب تأخير البضاعة. كنت راح أخسر سمعة محلي لولا تدخلكم السريع. 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 143,
+    "text": "أنا تعبت من عيشة. كل يوم مشكلة. اليوم تسريب غاز من بوتجازكم. أنا مش عارف أنام. خايف أنفجر أنا وعيلتي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 144,
+    "text": "بدي أعرف إذا في عطل عام ولا بس عندي؟ كل الجيران النت شغال.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 145,
+    "text": "ترا أنا كنت من أكبر المعجبين بخدمتكم، بس بعد آخر 3 مصايب، صرت أقول لأي حدا يسأل: اهربوا.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 146,
+    "text": "أنا بموت. أنزف من حادث والطوارئ عندكم مشغولة. لو ما حدا جا، سلموا على أهلي. 😡",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 147,
+    "text": "عنجد ما كنت أتوقع ترجعوا المبلغ كامل بعد ما صار في بيتي حريق من شاحنكم. اعتذرتوا وصراحة ارتحت شوي. بس القلب مجروح.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 148,
+    "text": "بدي أسجل طلبية لأغراض مكتبي، بس التطبيق يلي عندكم ما بقبل الدفع. بدي حلاً خلال ساعة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 149,
+    "text": "البوتجاز يلي عندي إيده بتسرب غاز. أنا خايف على روحي وروح العيلة. اتصلت بكم طوارئ ولسا ما وصل حدا. 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 150,
+    "text": "الكهربا قطعت من ساعة وما في أمل ترجع. الثلاجة بدها تخرب وأولادي خايفين بالظلمة. بدي أعرف شو السبب.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 151,
+    "text": "شكراً كتير. بعد ما انهارت عمارة جيراننا، فريق الإنقاذ تبعكم وصل خلال ربع ساعة. أنقذتوا ناس كتير. ❤️",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 152,
+    "text": "أنا أرسلت طلب استرجاع من 3 أسابيع. كل مرة أتصل يقولوا تحت الدراسة. شو أدرسوا يعني؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 153,
+    "text": "أنا موظف شغال من البيت، ونتكم مقطوع 5 أيام. مديري هدد يفصلني. أنا وأولادي راح نتشرد بسببكم. بدي تعويض.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 154,
+    "text": "السقف يلي ركبتوه عندنا انهار علينا. أنا وعيلتي في المستشفى إصابات. أنا رافع قضية تعويض مليونية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 155,
+    "text": "بدي أطلب سيارة إخلاء طبي لأمي بسرعة. محتاجة تروح المستشفى خلال نص ساعة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 156,
+    "text": "أنا بكيت اليوم من الفرحة. كنت محتاج جهاز تنفس، ووصلتوني بسرعة رغم الظروف. والدتي ارتاحت. دعيتلكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 157,
+    "text": "بدي أعرف كم بدها تاخد صيانة المحول يلي بالشارع. الكهربا تقطع وتجي.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 158,
+    "text": "النت بطيء بشكل غير طبيعي من 3 أيام. ما بقدر أتفرج على يوتيوب حتى. بدكم تفحصوا الخط.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 159,
+    "text": "⚠️ التنبيه! عندي تسريب ميه بالحمام من المواسير يلي أنتو ركبتوها. الأرض كلها خربت. بدكم تبعوا سباك عاجل.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 160,
+    "text": "المعرض السنوي كان راح يخرب بسبب عدم وصول اللوحات الإعلانية في وقته. أنقذونا بشحنة عاجلة قبله بساعتين. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 161,
+    "text": "الكهربا قطعت بالليل كامل, وأنا عندي مريض بالبيت. بدكم تتحركوا بسرعة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 162,
+    "text": "😡 أنا خسرت كل مدخراتي بسبب غلطة تحويل من البنك عندكم. بدي استرداد فوري وإلا أنا هقتل حالي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 163,
+    "text": "🚨 طلبي عاجل: أبوي عنده جهاز تنفس، وفجأة عطل. بدي مندوب يصله خلال ساعة وإلا حياته بخطر. أرجوكم.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 164,
+    "text": "عنجد سامحكم ربنا. كنت نازل من السلم، انكسرت درجتان بسبب رداءة التركيب عندكم. كسرت رجلي. بدي تعويض.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 165,
+    "text": "🚨 طارئ! الخدمة مقطوعة من ثلاث أيام. أول مرة حكيت معكم قالوا ساعة، تاني مرة قالوا خلص بكرة. اليوم ولادكم ولا حدا جاء. ضيعتوني.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 166,
+    "text": "الحمد لله أنكم ركبتوا أجهزة كشف الحرائق. اكتشفت الحريق قبل ما ينتشر. شكراً لسرعة الاستجابة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 167,
+    "text": "أنا زبون عندكم 10 سنين. هلأ حسيت إنكم بتستخفوا في. شكواي معلقة من شهر وما حدا رد. تعبت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 168,
+    "text": "كل مرة أتصل، في موظف جديد وما بعرف إشي عن شكواي. أنا مضطر أعيد الشرح من الأول. تعبت نفسياً.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 169,
+    "text": "متى بتصلحوا الكابل الأرضي يلي قطعتموه غلط؟ أنا ما عندي نت من يومين.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 170,
+    "text": "المكنسة الكهربائية يلي اشتريتها من شهر تعلقت. حاولت أرجعها للضمان، قالو بدها فحص بشهر. كيف أنضف البيت؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 171,
+    "text": "خدمة ما بعد البيع عندكم صفر. اشتريت غسالة، تعطلت بعد شهر. اتصلت، قالوا بدها فحص بمقابل. حرام عليكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 172,
+    "text": "🚨 الانفجار اللي صار بالبيت بسبب سخانكم كاد يقتل زوجتي. أنا هيك بدي أقدم شكوى للنيابة العامة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 173,
+    "text": "الحمد لله. كانت عاصفة قوية وقطعت الكهربا, لكن ركبتوها قبل ما يخرب المولد. أنتم قد الثقة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 174,
+    "text": "شو رأيكم تردوا على إيميلات الزبائن؟ أنا مستني رد من 10 أيام. في حدا حي?",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 175,
+    "text": "عنجد فرحتوا أهل بيتي. وصلت أغراض السفر لأولادي قبل ما نروح عالسفر بساعتين. راحة بال.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 176,
+    "text": "⚠️ طفلي بلع جسم غريب، ودخلنا المستشفى. طلبت منكم توصيل أشياء ضرورية، قالوا التوصيل بكرة. بكرة يموت ولدي؟! أنا بصدمة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 177,
+    "text": "⚠️ عاجل جداً: نظام الفواتير تبعكم أرسل فواتير خاطئة لكل زبائني. قالولي نصاب أنا. بدكم تصححوا بأسرع وقت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 178,
+    "text": "بدي أطلب خدمة تنظيف المكيفات للبيت. الشتوية جاية وبدنا نجهزهم. شو الأسعار؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 179,
+    "text": "أنا شكيت لأكثر من مرة إن في موظف عندكم بيسيء لعيلتي بالتأخير المتعمد. بدكم تحققوا.",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 180,
+    "text": "😊 حبيت أعبرلكم عن سعادتي. مرتي تعبت بعد الولادة، وخادمتكم يلي جيتوها كانت لطيفة وساعدت البيت كله.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 181,
+    "text": "تسجيل الدخول دايماً يعلق. غيرت كلمة السر ثلاث مرات. اتصلت بكم قالوا مشكلة من عندنا بس لسا نفس الخرا. حلوا إشي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 182,
+    "text": "عندي محل أجهزة كهربائية. جهاز تبريد العرض تعطل وتسبب بخسارة بضاعة بـ 15 ألف. انتظرتكم 3 أيام وما حدا جاء. رفعت دعوى.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 183,
+    "text": "اتفقت معكم على نanny لابني الرضيع، جات وحدة ما بتعرف تتعامل مع الأطفال. ابني ظل يبكي. زهقت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 184,
+    "text": "ممكن أعرف متوسط وقت حل الشكوى عندكم؟ عشان أعرف إذا أنا مستثنى.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 185,
+    "text": "يا لطيف. المكيف بالغرفة الأساسية خرب وأولادي رضع. اتصلت بكم أول الليل قالوا بكرة الصبح. هيك بنعاني كلنا. 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 186,
+    "text": "كل أسبوع في عطل بالإنترنت. اتصل بخدمة الزبائن ما حدا يرد. زهقت وانا أحاول أضبط إشي ما بتضبط.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 187,
+    "text": "شكراً للفريق يلي أصلح عطل الكهربا بالعمارة. الناس كلها دعتلكم. صرنا نشوف بعض.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 188,
+    "text": "عنجد استحالة أتعامل معكم بعد اليوم. أربع مرات أطلب منكم تصليح الخدمة، ولا حدا جاي. صرت أنا العبد يلي بدو يشتغل مجاناً.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 189,
+    "text": "الحمد لله رجع النت بعد 6 ساعات. كنت خسران شغل اليوم. شكراً للفريق يلي أصلح العطل بسرعة. 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 190,
+    "text": "شكراً كتير. كنت تعبان وأمي تعبانة, والممرضة يلي جات من عندكم قعدت معاها طول الليل. نعمة من الله.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 191,
+    "text": "⚡️ انقطاع مفاجئ للتيار وأنا بسخن أكل للأولاد. الحرام عليكم، ليش ما بتحذروا؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 192,
+    "text": "سبحان الله. آخر مرة تكلمت مع موظف، قاللي بدي أفتح تذكرة جديدة. يعني التذاكر اللي قبلها ما حدا قرأها؟ هذا إهمال.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 193,
+    "text": "⚠️ ابني عنده أزمة ربو، والجهاز يلي طلبه منكم مش شغال. بدله؟ ولا أنا أموت من القهر؟ حلوا بأسرع وقت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 194,
+    "text": "🙏 شكراً لكم. كنت متوقع إنكم تتجاهلوني، لكن صدقاً تفاجأت لما رجعتم فلوسي بكاملها. أنتم قد الكلمة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 195,
+    "text": "❤️ أنقذتوني اليوم. كنت بنصف اجتماع والنت قطع، وركبتوه خلال 10 دقايق. ما توقعت السرعة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 196,
+    "text": "بدي أستفسر: في برنامج ولاء للتجار؟ أنا بطلب منكم بشكل أسبوعي، وصراحة تعبت من عدم الاعتراف.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 197,
+    "text": "أنا بصراحة صرت ما أثق بأي وعد منكم. وعدتونا 5 مرات، كل مرة كذب. تعبت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 198,
+    "text": "الحمد لله إنكم بعتولي مندوب فنان. ركب الجهاز بسرعة وما خرب الديكور. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 199,
+    "text": "الحمد لله ثم شكراً لكم. كانت بنتي محتجلة بالمدرسة والمفاعيل تطفش، جات سيارة التوصيل وشالتها بنص ساعة. أنقذتم يومها.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 200,
+    "text": "من يومين وكل شوي الكهربا تقطع وتجي. الأجهزة الكهربائية بتخرب. بدكم تصلحوا الجهد.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 201,
+    "text": "بدي أعرف شو الإجراءات لما جهاز طبي يخرب ويسبب ضرر لوالدي. مستعد أرفع قضية.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 202,
+    "text": "💔 ابني مات بسبب إنكم ما بعتولنا سيارة إسعاف. أنا مش راح أسامحكم حت لو قفلتوا الشركة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 203,
+    "text": "أنا دافع ضمان شامل على معدات مطعمي. لما تعطلت الثلاجة، قالوا الضمان ما يغطي. كيف هيك؟ أنا معطل والخسارة يومية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 204,
+    "text": "أنا عندي مصنع عبوات، وانسداد خط الإنتاج بسبب عطل في مكنة من عندكم. صيانة ما بترد. خسرت 3 أيام إنتاج.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 205,
+    "text": "شو هالردود الأوتوماتيكية؟ أنا أرسل إيميل، يرد عليا رد جاهز \"سيتم الرد خلال 24 ساعة\". مرت 10 أيام. إستهبال.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 206,
+    "text": "طلبي ضاع من الشحن مرتين. مرتين يا جماعة! أنا شو غلطت فيكم عشان تعملوا فيي هيك؟ بدي تعويض فوري.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 207,
+    "text": "أنا أكيد موت. طلبت غسيل كلى لأمي، وصلت السياره بعد ما خلص وقت الجلسة. رفضوا المستشفى تعيد. أمي بتموت قدامي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 208,
+    "text": "🙏 ربنا يجزيكم خير. الدعم اللي قدمتوه لمشروعي الناشئ كان سبب في نجاحه. اليوم عندي 5 موظفين بفضلكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 209,
+    "text": "الواي فاي يشتغل ويقطع كل 5 دقايق. مش قادر أخلص شغل. زهقت من الاتصال بكم كل مرة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 210,
+    "text": "شكراً للموظف يلي ساعدني ألغي الاشتراك بدون وجع راس. كنت خايف من المتاعب, لكنه كان خلوق.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 211,
+    "text": "أنا فقدت الأمل فيكم. 12 محاولة وما في نتيجة. اليوم شلت حسابي عندكم. مع السلامة.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 212,
+    "text": "💔 تجربتي معكم كانت سيئة لدرجة إني حذفت التطبيق. كل ما أفتحه، يعلق ويضرب. أبداً ما أرجع.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 213,
+    "text": "عندي سؤال: في ضمان على السخان يلي ركبتوه عندي؟ الشهر الماضي تركبه، وهلأ مبين فيه مشكلة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 214,
+    "text": "والله فرحتيني. شركتي تخصصت بتجهيز المطاعم، وبفضل دعمكم اللوجستي قدرنا نجهز طلبية كبيرة في قياس الوقت. أنقذتوا موسمي.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 215,
+    "text": "نصيحة لكل عائلة: لا تستخدم خدمة توصيل الأدوية تبعهم. جدي مات وهو مستني دواء القلب. أنا مش مسامحكم.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 216,
+    "text": "بدي أعرف كيف أطالب بتعويض عن فقدان شقتي بسبب حريق من عندكم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 217,
+    "text": "💔 كنت أعتز بخدمتكم صراحة. بس بعد خمس مشاكل ورا بعض، قلبي انكسر. كل مرة وعد وما في نتيجة. خلص وداعاً.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 218,
+    "text": "الغسالة الجديدة صوتها عالي جداً وبتخوف الأولاد. اتصلت استفسر، قالولي عادي! مش عادي، بدي فني يتفقدها.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 219,
+    "text": "بدي أسأل، خدماتكم للعائلات الكبيرة في خصم تاني؟ عندنا 6 أفراد وهالشهر الفاتورة غالية.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 220,
+    "text": "😤 كل أسبوع نفس القصة. زوجتي شغالة وانا شغال، وخدمة غسيل الملابس توصل متأخرة. صرنا ننام بدون ملابس نظيفة للأولاد.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 221,
+    "text": "لما شفت مكيفكم طايح على الأرض، عرفت إنه نصيبي. بس الحمد لله إنكم بعتوا مندوب بسرعة وركبتم غيره مجاناً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 222,
+    "text": "يا اخوان، الخدمة يلي بتقدموها لرعاية كبار الليلية، كيف أشتريها؟ جدي محتاج مراقبة وهو نايم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 223,
+    "text": "😊 الحمد لله شكراً. كنت متعطل عن دفع الفواتير, والحمد لله رجع النظام قبل آخر موعد.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 224,
+    "text": "😊 الحمد لله إنكم غيرتولي العداد القديم. الكهربا صارت مستقرة، وما بتقطع كل ساعة. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 225,
+    "text": "بدي ألغي خدمة الاشتراك العائلي لأن أولادي كبروا وكل واحد بدأ حساب مستقل. شو الخطوات؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 226,
+    "text": "أنا كلمتكم أول الأسبوع، قالولي بكرة. رجعت بكرة، قالوا بعده. رجعت بعده، قالوا الأسبوع الجاي. ساخرين مني؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 227,
+    "text": "المدفئة يلي عندي بالبيت خربت وهالبرد قاتل. اتصلت بكم الصبح قالوا منندب يجي بعد يومين. كيف بدنا نعيش؟ بدي حل.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 228,
+    "text": "❤️ والله ما توقعت هالسرعة. أختي كانت محتاجة توصيلة للمطار عشان تسافر للعلاج، وجيتوا قبل الموعد. ربنا يرضى عليكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 229,
+    "text": "⚠️ تحذير أخير. البريد الإلكتروني يلي وعدتوني فيه من أسبوع لسا ما وصل. كل يوم بقولوا بكرة بكرة. خلص بدي أشكو عليكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 230,
+    "text": "شكراً للمساعدة. عمي كبير بالسن واحتاج ترجمة لوثائق طبية، وصلتوا المترجم بنفس اليوم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 231,
+    "text": "شركتي قطعت علاقتها معكم اليوم. خسرت 3 زبائن دوليين بسبب أخطائكم المتكررة في الفوترة والشحن. ما بدي غير الحقوق القانونية.",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 232,
+    "text": "🚨 استغاثة: عربية الإسعاف يلي بعتوهالي كانت بدون أوكسجين. أنا ربو حاد. كدت أموت في الطريق. شو هالاستهتار بحياة البشر؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 233,
+    "text": "الحمد لله رجع المكيف شغال بالحر يلي كان فيه. أنا وأولادي صرنا نتنفس. أنقذتونا من الهلاك.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 234,
+    "text": "مرة تانية الغلط بنفس الطلب! 😡 أنا معطيكم عنواني صح، لكن كل مرة بتوصلوا للجيران. زهقت من هاللا مبالاة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 235,
+    "text": "بدي أعرف، شو لازم أعمل عشان تاخذوا مشكلتي بجدية؟ أنا روحي تعبت من المتابعة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 236,
+    "text": "أختي الصغيرة فرحانة إنها حصلت على منحة دراسية من برنامجكم. أنتو غيرتوا مستقبلها. يعطيكم العافية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 237,
+    "text": "لأول مرة أحس إنكم بتسمعوا. الموظف يلي حكيت معه اليوم فتح تذكرة جديدة وحل مشكلتي خلال ساعة. ارتحت.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 238,
+    "text": "من قلب القهر لقلب الفرحة. أنقذتوا حياتي اليوم. البنت يلي كنت خطبتها رجعت لي بعد ما حليتوا سوء الفهم عن طريق خدمة الوساطة تبعكم. شكراً يا رب. ❤️",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 239,
+    "text": "بدي أعرف كيف أتقدم بشكوى رسمية لإهمالكم الطبي. أمي توفيت بسبب تأخير الدواء من عندكم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 240,
+    "text": "عندي مشكلة بإشارة الواي فاي بالطابق التاني. أولادهم ما بشتغل النت عندهم. في حل تقني؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 241,
+    "text": "هل في إمكانية الحصول على خصم للطلبات الكبيرة؟ أنا بطلب أجهزة للمكاتب بكميات كبيرة، وبدي أتفاوض.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 242,
+    "text": "عاجل: أنا حامل بالشهر التاسع وبدأت أتولد. سيارة الإسعاف اللي طلبتها ما حدا جا. بدكم ترسلوا وحدة وإلا أنا وأولادي نموت.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 243,
+    "text": "أنا دايماً بطلب لأهلي. بس المرة هيك، الطلب وصل ناقص نصه. زعلان عليهم كانوا مستنين.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 244,
+    "text": "لو سمحتوا، بدي أغير عنوان الشحن. التأخير صار يغثني.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 245,
+    "text": "الحمد لله إنكم سمعتوا صوتي بعد 5 مكالمات. المشكلة انحلت، بس الضغط النفسي يلي عانيته ما يتعوض. 🙏",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 246,
+    "text": "⚠️ العداد الكهربائي يلي عندي طلع في شرارة النهاردة. خفت على ولادي. بدكم تبعوا كهربائي طوارئ.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 247,
+    "text": "😤 زبون ثقة عندي ترك تعامل معي عشان غلطتوا بالفاتورة 3 مرات متتالية. أنا بدي تعويض عن خسارة العلاقات التجارية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 248,
+    "text": "بدي أعرف ليش فاتورة الكهربا هاي الشهر ضعف أضعاف. أنا نفس الاستهلاك. في مشكلة بعدادكم؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 249,
+    "text": "أنا موظف سابق عندكم، وبعرف شو بصير جوا. الإدارة فاسدة والموظفين مقهورين. لهيك الخدمة سيئة. 😤",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 250,
+    "text": "❤️ فرحتي ما بتوصف. طفيت عليا الشمعة وانتظرت النص ساعة, ورجعت الكهربا قبل ما أولادي يصحوا. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 251,
+    "text": "يا ناس، شو هالتقصير. أخوي كان نازل من الدوام الليلي، ما حدا فتح له البيت لأن المفتاح الإلكتروني ما شتغل. نام بالسيارة من وراكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 252,
+    "text": "التسريب الغاز يلي صار بسبب بوتجازكم كاد يقتل عيلتي كلها. أنا مقدم بلاغ للشرطة. حرام عليكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 253,
+    "text": "الحمد لله إنكم أرسلتوا فريق إطفاء قبل ما تحترق الشقة كلها. جيران نادوا فيكم وصراحة كنتم سريعين.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 254,
+    "text": "أنا صرت أضحك على حالي. كل شهر أتصل أصلح نفس الغلطة بالفاتورة. أنتم عندكم زهايمر ولا بتتجاهلوا قصداً؟ 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 255,
+    "text": "⚠️ تنبيه: أنا حرفياً معلق على السطح من ساعة. المصعد تبعكم عطل وأنا بالدور العاشر. بدكم تبعوا نجدة قبل ما أغمى علي.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 256,
+    "text": "لما رنيت عليكم طوارئ, ما توقعت حد يرد بسرعة. الفني وصل خلال ربع ساعة. أنتم فريق محترف.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 257,
+    "text": "بعد 3 سنوات من المعاناة، قررت أسامحكم. غلطتكم كانت كبيرة، لكن تعويضكم كان منيح. الله يهدينا.",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 258,
+    "text": "أنا معترض بشدة. يلي صار معي الأسبوع الماضي لا يغتفر. ضيعتم عليا فرصة عمل بسبب بطئكم. مش مسامحكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 259,
+    "text": "بناتي بحاجة لمعلمة رياضيات أونلاين. في عندكم خدمة؟ وكيف الأسعار للعائلة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 260,
+    "text": "أنا عارف إنكم مش سحر، بس لما أتصل 12 مرة بدون حل، معناته في فشل نظامي. تعبت وأنا أكرر نفس الكلام.",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 261,
+    "text": "أنا طالب منكم إرجاع المنتج من 20 يوم. كل مرة تقولوا مندوبنا رايح يجي، وما حدا جاء. ضيعت مصاري.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 262,
+    "text": "شكراً كتير. كنا قاعدين بالظلمة ساعتين، وجيتوا ركبتوا لمبة الحوش يلي طلبتها. أنارت البيت كله.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 263,
+    "text": "بدي أشكر المهندس يلي ركب النت الجديد. شغله نظيف وسريع. أخيراً النت بسرعته المطلوبة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 264,
+    "text": "بدي أستفسر عن خدمة توصيل الأدوية للعزل المنزلي. كل العيلة مصابة بكورونا، ومش عارف نطلع.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 265,
+    "text": "بدي أعرف شو معنى \"خدمة الزبائن\" عندكم؟ أنا انتظرت على الخط نص ساعة، وبعدين قطعوا. هذا إهانة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 266,
+    "text": "أنا عجزت. عندي 3 أطفال معاقين، والمصعد المخصص لكراسيهم المتحركة معطل من أسبوع عندكم. أنا بنزلهم درج كل يوم على ظهري. زهقت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 267,
+    "text": "الحمد لله على السلامة. المطبخ المركزي يلي عندي كان راح ينفجر بسبب عطل كهربائي، وفريقكم جاء بسرعة. أنقذتوا المعدات.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 268,
+    "text": "عيب عليكم. وعدتوني بخصم 20٪ لأني عميل قديم، ولما جيت أشتري، قالوا العرض خلص. كدابين.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 269,
+    "text": "البوابة الإلكترونية للدفع معلقة. أنا بدي أشتري تذكرة سفر ولا بقدر. شو أعمل؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 270,
+    "text": "الحمد لله. رجع النت بعد 8 ساعات. كنت خسرت يوم كامل شغل. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 271,
+    "text": "النظام تبع الدفع الإلكتروني معطل. وقفت مبيعات محلي. تعبت وأنا أحاول أصلح من طرفي, بس العطل من عندكم. 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 272,
+    "text": "السيرفر تبع شركتنا واقف بسبب عطل عندكم. أنا خسران مصاري كل دقيقة. بدي رفع أولوية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 273,
+    "text": "سبع مكالمات، أربعة أيام، ولا حدا رد عليا. كيف بدي أثق فيكم بعد هيك؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 274,
+    "text": "الحمد لله. الفني تبعكم ركب المروحة الجديدة بالصالة بأقل من ساعة. صرنا نتنفس.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 275,
+    "text": "والله خدمتكم صارت زفت. كل ما أطلب شي، يتأخر. آخر مرة طلبت كرسي لمكتبي، وصل بعد شهر مكسور. زهقت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 276,
+    "text": "الحمد لله إنكم ساعدتوني أسترد سيارتي المسروقة بعد ما حطيت جهاز تعقب من عندكم. أنا ممتن.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 277,
+    "text": "شغلتكم صارت نكتة. تطبيقكم كل أسبوع ينزل تحديث وكل تحديث يخرب أكثر. بدي أرجع للنسخة القديمة بس ما بتقبلوا. 😤",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 278,
+    "text": "أنا كلمتكم النهاردة 4 مرات. كل مرة أحط بالتليفون، يرد عليا واحد يقول \"لحظة حولك\". وبس يعلق. هذا ممنهج!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 279,
+    "text": "💔 أبي توفى على باب المستشفى لأن سيارتكم ما حضرت. أنا هيك بدي أحرق فروعكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 280,
+    "text": "😡 شو هالهمجية؟ الدواء يلي طلبته لأمي المصابة بالسكري وصل بعد 3 أيام. دخلت في غيبوبة. أنا هيك بدي أبلّغ النيابة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 281,
+    "text": "😊 شكراً يا جماعة. كنت تعبت وأنا أحاول، وبفضل الله ثم المندوب يلي زارني، انحلت المشكلة بشكل نهائي.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 282,
+    "text": "شكراً للمدير يلي رفع الضغط عني. كنت هازق بسبب فاتورة غلط, وعدّلها في دقايق. الله يوفقه.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 283,
+    "text": "والله العظيم خلص أعصابي. اليوم تكلمت معكم 3 مرات، كل مرة بقص عليا قصة. أنا مش مستعد أستنى أكثر.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 284,
+    "text": "أنا مبسوط إنكم عدلتوا الغلط. بعد ما صار مشكلة بالفاتورة وكادوا يقطعوا الكهربا عن بيتي، رجعتم وصححتوا. الحمد لله.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 285,
+    "text": "😊 المحاسب تبعي استراح لما شاف الفاتورة مصححة. شكراً لسرعة التعديل بعد مكالمتي.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 286,
+    "text": "🚨 صار إطلاق نار ببيتنا، وخدمة الأمن تبعكم ما حدا رد. أنا وعيلتي محاصرين. بدكم تبعوا نجدة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 287,
+    "text": "❤️ والله فرحتيني. كنت خايف أروح عالزواج بدون بدلة, وصلتكم البذلة قبل ساعة من الفرح. أنقذتوا ليلتي.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 288,
+    "text": "الحمد لله. كنت ناوي ألغي العقد بسبب كثرة الأعطال, لكن الفني الأخير أصلح العطل الجذري. ارتحت.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 289,
+    "text": "بدي أطلب فحص للخط الرئيسي. النت يضعف كل مسا. مش عارف شو المشكلة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 290,
+    "text": "نصيحة لأي حد: لا تتعاملوا معهم. أنا خسرت 500 شيكل بسبب غلطهم ورفضوا يتحملوا المسؤولية. عيب.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 291,
+    "text": "والله العظيم أنكم أسوأ شركة تعاملت معها. الوعود الكاذبة والأعذار الواهية. بكفي.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 292,
+    "text": "شو يعني الصيانة المجدولة بدون إشعار؟ رنوا عليا قالوا الكهربا بتنقطع بعد ساعة. أنا عندي أجهزة طبية لأمي.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 293,
+    "text": "الحمد لله على السلامة. السخان يلي اشتريته للمطبخ التجاري انفجر، والفريق تبعكم استبدله بسرعة وما خسرنا وجبات.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 294,
+    "text": "الحمد لله إنكم ركبتوا المولد البديل بعد ساعتين. الثلاجة أنقذت وما خرب الأكل. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 295,
+    "text": "عندي سؤال بسيط: ليه لما أتصل أسمع أغاني نص ساعة وبعدين يردوا ويقطعوا؟ هذا تعذيب نفسي.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 296,
+    "text": "⚠️ تنبيه عاجل: حساباتي البنكية اخترقت بعد ما استخدمت تطبيقكم. ممكن تكون مصادفة، بس مع تكرار المشاكل عندكم، أنا متأكد في خلل أمني.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 297,
+    "text": "بعد عذاب شهر كامل, أخيراً تم تعديل الفاتورة الغلط. نفسي ما توصل لهيك بس الحمد لله انحلت.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 298,
+    "text": "عاجل: ولدي تعرض للتسمم الغذائي وبدي سيارة إسعاف خلال دقايق.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 299,
+    "text": "عندي طلب: ممكن تعملوا نظام تتبع للشكوى برقم؟ عشان ما أضطر أتصل 10 مرات.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 300,
+    "text": "يعطيكم العافية. قرضي التجاري يلي طلبتوا تأجيله بسبب أزمة كورونا، تم قبوله. تنفسنا الصعداء.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 301,
+    "text": "بدي أطلب جهاز تنفس بديل بسرعة. الجهاز اللي عندي خرب وأبي عم يختنق.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 302,
+    "text": "🚨 إنذار أخير: سيارتكم اللي وعدتوا فيها لأخذ جدي للمستشفى ما جت. جدي عم يموت. أنا بشتكي عليكم دولياً.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 303,
+    "text": "الحمد لله. كنت متوتر من مقابلة العمل أونلاين, والنت قطع, ورجع بفضل الله ثم بفضل فني سريع.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 304,
+    "text": "🙏 أنا ممتن. كنت متضايق كتير، لكن تعويضكم كان كريم. ربنا يبارك فيكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 305,
+    "text": "وا أسفاه. شركة التأمين رفضت تعوضني لأن تقرير الخبير تبعكم كان خطأ. أنا خسرت 20 ألف بسبب غلطكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 306,
+    "text": "لأول مرة أحس إنكم بتسمعوا. كنت هاقدم على الانتحار بسبب ديوني، وخدمة الدعم النفسي تبعكم ساعدتني. شكراً أنكم أنقذتوني.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 307,
+    "text": "شبكة التدفئة المركزية معطلة بسبب عطل كهربائي. البيت كله بارد. بدكم تبعوا فني.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 308,
+    "text": "الحمد لله رجع التيار بعد 3 ساعات. شكراً لمهندسكم يلي اشتغل تحت المطر عشان يركب الكابل.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 309,
+    "text": "بحاجة لممرضة متخصصة للعناية المركزة بالبيت لأمي. حالتها خطيرة وبدي خلال ساعة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 310,
+    "text": "شكراً كتير لسرعة إطفاء الحريق اللي صار بمخزن بضاعتي. أنقذتوا رزقي.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 311,
+    "text": "أنا حرفياً اكتئبت من تعاملكم. كل محاولة لإصلاح الغلط تزيد الطين بلة. تعبت نفسياً من هالخدمة.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 312,
+    "text": "بدي أعرف ليش عمولة التسويق يلي مكتوبة بالعقد اختلفت عن يلي نزلت بحسابي. في خطأ بالحسبة.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 313,
+    "text": "أنا ما بقدر أستمر هيك. كل مكالمة بتضيع مني نص ساعة من عمري. وصلت لمرحلة التوتر العصبي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 314,
+    "text": "أولادي جوعانين، طلبت أكل من ساعة. كل ما أتصل تقولوا التوصيل عالطريق. مش قادر أستنى أكثر.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 315,
+    "text": "الشفاط يلي بالمطبخ معطل، وريحة الأكل بتعبى البيت كلو. زوجتي بتعاني. وعدتوني بفني النهاردة، ما جاء.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 316,
+    "text": "يا جماعة الخير، مشكلتي ما بتتطلب مهندس صواريخ. طلب بسيط، ليه بدي أتصل 8 مرات عشان يتنفذ؟ زهقت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 317,
+    "text": "🚨 أنا حرفياً من شهر بحاول أحل مشكلة بسيطة. كل أسبوع وعد وما في نتيجة. بدي حدا عنده صلاحية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 318,
+    "text": "لحظة، أنا دافع زيادة عشان الشحن السريع. طلبي أجله أسبوع كامل. هذا احتيال ولا كيف؟ بدي استرد فلوسي كاملة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 319,
+    "text": "شو يعني تم إلغاء اشتراكي بدون سبب؟ أنا دافع السنة كاملة. هيك بنتعب معكم؟ بدي رد فوري.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 320,
+    "text": "أنا مش عارف صراحة كيف لسا بتشتغلوا. كل أصحابي حكيتلهم عنكم، كلهم عندهم مشاكل. تباً للسمعة.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 321,
+    "text": "باقي كم يوم على نهاية الشهر والنت مقطوع. بدي أخلص تقرير الشغل. متى بتصلحوه؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 322,
+    "text": "ما كنت أتصور إنكم ترجعوا تطلبوا مني تعتذروا. هاي أول مرة شركة تعمل هيك. أنتم محترمين.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 323,
+    "text": "😊 والله فرحتكم فرحتنا. مرتي ولدت، والخدمة يلي وعدتونا فيها للوليد وصلت بسرعة. تسلم إيديكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 324,
+    "text": "الشفاط موبايل لا يشتغل، والحمام كله ضباب. مش قادرين نستحم. اتصلت قالوا من يومين وماحدا جاء.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 325,
+    "text": "شكراً للمهندس يلي ضحى بوقته وركب الكابل الجديد تحت المطر. الله يجزيه الخير.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 326,
+    "text": "حماتي عملت عملية، وطلبت منكم ممرضة. الممرضة كانت محترفة وخليت البيت كله مرتاح. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 327,
+    "text": "⚠️ التنبيه التالت: النت مقطوع من 4 أيام. كل يوم بوعدوني وما حدا بيجي. بدي أغير الشركة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 328,
+    "text": "عندي استفسار: إجراءات استدعاء فريق الطوارئ عندكم؟ لإنه اتصلت 3 مرات وما حدا رد.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 329,
+    "text": "العداد الإلكتروني خرب وما بقدر أشحن كهربا. البيت كله ظلام. بدي مندوب يصله اليوم.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 330,
+    "text": "شكراً للموظف يلي تابع معي أسبوع كامل لحد ما انحلت المشكلة. أنت قدوة في الإخلاص.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 331,
+    "text": "عندي سؤال بسيط: ليش ما في رقم مباشر لتقديم الشكاوي؟ أنا مش ناقص أضيع وقت عشان أوصل.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 332,
+    "text": "عندي استفسار: ليه في أعطال متكررة بالمنطقة؟ هذا الشهر 4 مرات انقطاع.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 333,
+    "text": "⚠️ ولدي بلع قطعة من لعبة مكسورة ودخل المستشفى. أنا طالب منكم توصيل سيارتكم من ساعت وما حدا جاء. بدي إسعاف فوري.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 334,
+    "text": "ممكن أعرف رقم شكواي عشان أتابعها؟ ما حدا أعطاني إياه.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 335,
+    "text": "بدي أعرف ليه التأمين الصحي تبعكم ما غطى عملية والدتي الطارئة. أنا عليا ديون 20 ألف. تكفون ردوا.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 336,
+    "text": "شكراً يا إخوان. كنت خايف أجمد بالشتا، لكن الكهربا رجعت قبل العتمة بيوم. ربنا يسعدكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 337,
+    "text": "الحمد لله إنكم بدلتم القطعة المعيبة بدون وجع راس. ليتكم من الأول هيك.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 338,
+    "text": "الصراحة، ما كنت أتوقع إنكم ترجعوا تردوا عليا بعد 5 أيام. بس الحمد لله إنكم سمعتوا صوتي بالنهاية. 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 339,
+    "text": "🚨 طفلي عنده نزيف حاد، وخدمة الإسعاف تبعكم ما حدا رد. أنا لحالي معه. بدكم تتحركوا قبل ما يموت.",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 340,
+    "text": "أنا مسافر، ومسيب أهلي يعتمدوا عليكم. بس لما يحتاجوا مساعدة، ما حدا يرد عليهم. هذا تقصير كبير.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 341,
+    "text": "أنا مش فاهم. كيف شركة بهالحجم ما عندها فريق دعم فني يرد؟ أنا مش قادر أشغل المنتج ومرجعش.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 342,
+    "text": "أنا حرفياً بدي أحرق حسابي عندكم. كل مرة أفتح التطبيق، يعلق ويضرب. ولا مرا اشتغل بشكل طبيعي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 343,
+    "text": "تطبيقكم واقف من الصبح. مش قادر أحول مصاري لأهلي. زهقت من هالأعطال المتكررة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 344,
+    "text": "الفاتورة غلط مش أول مرة. أنا حاسبكم بالشهر الماضي وصرت أعيد الحساب كل مرة. مش عارف ليش ما بتتعلموا من أخطائكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 345,
+    "text": "كيف أغير عنوان التسليم لشحنة تجارية؟ أخطأت بالعنوان وأنا خايف تروح لمكان غلط.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 346,
+    "text": "عندي مشكلة بالواي فاي يلي موديله قديم. هل أنتم المسؤولين عن صيانته ولا أشتري واحد جديد؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 347,
+    "text": "مكتب المحاماة تبعي خسر قضية مهمة لأن المستندات ما وصلت في الموعد. أنتو كلفتوني تعويض 50 ألف.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 348,
+    "text": "لما سمعت صوت الموظف يقول \"سمعنا شكوتك وبنعتذر\"، ارتحت شوي. أول مرة حد يسمعني.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 349,
+    "text": "أنا متأكد إنكم بتتجاهلوني قصداً. 8 اتصالات خلال 10 أيام، وما في رد. عيب.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 350,
+    "text": "البريد الإلكتروني للشركة واقف. أنا بدي أرسل ملفات مهمة. متى بيرجع؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 351,
+    "text": "عنجد خدمة الزبائن عندكم زي الزفت. ما بعرف مين مأجركم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 352,
+    "text": "بدي أعبر عن شكري لموظف الاستقبال. كان لطيف جداً وفهم مشكلتي من أول كلمة. ربنا يجزيك الخير.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 353,
+    "text": "القهوة يلي اشتريتها طلع طعمها عفن، وترجعوا استبدالها قالوا مش باكدج. يا حرام تشتغلوا بهالطريقة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 354,
+    "text": "بدي أستفسر عن موعد توصيل البطاقة التموينية. أنا جيعان وأولادي بموتوا. وعدتوني الأسبوع الماضي ولسا.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 355,
+    "text": "لأول مرة أشوف انقطاع كهربا بهالطول. 5 ساعات وما في أي تحديث منكم. حرام هالإهمال.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 356,
+    "text": "والله فرحتوا قلبي. كنت خسران الأمل إنكم ترجعوا الفلوس، لكن الحمد لله استرديت حقي. ربنا يخليلكم ضميركم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 357,
+    "text": "أنا ما بدي غير حل واحد. بس كل موظف بحكيني قصة. واحد بقلي النظام، واحد بقلي القسم التاني. أنا تايه.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 358,
+    "text": "شكراً كتير. كنتم سريعين بإصلاح العطل بعد العاصفة. الكهربا رجعت لكل الحارة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 359,
+    "text": "⚠️ الإنترنت مقطوع من يوم واولادي عندهم امتحانات أونلاين. بدي حل عاجل قبل ما يرسبوا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 360,
+    "text": "أنتوا عندكم سجل من الشكاوي باسمي طوله شبر. ولا مرة انحلت مشكلتي بشكل نهائي. زهقت من التصليحات الوقتية.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 361,
+    "text": "أبوي كان يموت من الألم, وخدمة الإسعاف وصلت خلال دقايق. أنتم سبب حياته اليوم. 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 362,
+    "text": "هاي ثالث مرة هذا الشهر التيار يقطع بدون سبب. أنا شغال من البيت، وكل مرة يضيع عليا شغل. بدكم تصلحوا العطل الجذري.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 363,
+    "text": "بدي أطلب منكم شي بسيط: ردوا عليا. حتى لو تقولوا ما في حل، بس ردوا. الصمت أسوأ.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 364,
+    "text": "تعبت من الرد الآلي يلي ما بحل ولا مشكلة. بدي إنسان يفهم إنه المنتج يلي وصلني مكسور، وهذا ثالث بديل بنفس العيب.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 365,
+    "text": "يا أخي، أنا طالب منكم إلغاء الاشتراك خمس مرات. كل مرة بتقولوا تم، بس لسا بتنزعوا من حساباتي مصاري. حرام يعني نصابين؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 366,
+    "text": "المكيف الشباك يلي بغرفة الضيوف صوت مزعج جداً. جيران بيشتكوا. بدي فني يفككه وينظفه.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 367,
+    "text": "💔 أنا فقدت أخوي بسبب إنكم ما جبتوله دواء السرطان في الوقت. حرام عليكم، القلب ينطر.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 368,
+    "text": "أنا من كثر الأعطال عندكم، صرت خايف أشغل أي جهاز بالبيت. كل أسبوع عطل. هلأ الفرن خرب.",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 369,
+    "text": "عاجل: ابني انقطع عنه الأنسولين. بدكم توصيله خلال 20 دقيقة أو يدخل في غيبوبة سكر.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 370,
+    "text": "بدي أعرف شو الضمان على عمليات زراعة الكلى. مرتي تعبت بعد العملية بسبب خطأ طبي عندكم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 371,
+    "text": "شكراً كتير. خدمة الدعم الفني اشتغلت معي عالتليفون لحد ما رجع النت. صبركم جميل.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 372,
+    "text": "لوسمحتوا، بدي أغير عنوان توصيلة الدواء لإيد أمي. هية نقلت لبيتي مؤقتاً لأنها تعبانة. شو الإجراء؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 373,
+    "text": "يا حرام عليكم. مرتي كانت تنزف بعد الإجهاض، وسيارتكم ما جت. جار أنقذها. أنا هيك بدي أشهر بكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 374,
+    "text": "بابا عنده جلسة غسيل كلى، والمواصلات يلي طلبتها منكم ألغيتوها آخر لحظة. زهقت وأنا ألاقي حل. عيب عليكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 375,
+    "text": "أنا دايماً أمدحكم لأهلي. بس هالمرة، الطلب يلي لأولادي تأخر يومين بدون سبب. بخزي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 376,
+    "text": "😊 الحمد لله. كانت تجربة سيئة، بس في النهاية تعاملتوا باحترافية. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 377,
+    "text": "بدي أطلب شرح: ليه رسوم الشحن زادت بدون إشعار؟ أنا عميل دائم، المفروض تنبهوني.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 378,
+    "text": "بدي أستفسر: شو ضمانكم على أجهزة القلب الصناعية؟ جهاز أبي تعطل وخافنا عليه كثير.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 379,
+    "text": "الحمد لله على السلامة. السيارة يلي شريتها منكم كانت فيها مشكلة, وركبتوها تحت الضمان وما طلبتوا مصاري. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 380,
+    "text": "شو هالعرض الجديد لخدمة العائلة؟ سمعت في تخفيضات. بدي تفاصيل عشان أقرر أجدد الاشتراك.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 381,
+    "text": "أنا حطيت 3 تذكيرات، 5 اتصالات، وإيميلين. ولا حدا اعتذر حتى. حرام عليكم هالتعامل.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 382,
+    "text": "🚨 استغاثة يا جماعة! أبوي عم يموت، الجهاز يلي موصل للتنفس تعطل من عندكم. بدكم تبعوا فني خلال ربع ساعة وإلا روح أبي في خطر.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 383,
+    "text": "😊 الله يرضى عليكم. الثلاجة كانت بتسرب ميه، وجات الفني صلحها بدون ما يخرب الأرفف. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 384,
+    "text": "شكراً كتير. كنت تعبان ومرمي على السرير، والمكيف خرب. أرسلتولي وحدة محمولة في نص الليل. ما توقعت.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 385,
+    "text": "⚠️ يا جماعة الخير، ثاني تنبيه عاجل. درجات الحرارة نازلة والمكيف يلي اشتريته من عندكم شغال تدفئة؟ لا والله شغال تبريد. مرتين بدلوه ولسا نفس العيب.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 386,
+    "text": "شكراً لسرعة استجابتكم. الجهاز يلي اشتريته للمحل تعطل، وجيتوا ببديل خلال يوم. ما توقعت هالسرعة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 387,
+    "text": "بعد كل الضغط النفسي, الحمد لله إنكم حلّيتوا مشكلة الفوترة. ارتاح بالي. يعطيكم العافية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 388,
+    "text": "إيش هالتجاهل؟ أنا تارك عندكم 5 رسائل واتساب، 3 إيميلات، ومكالمتين. ولسا ولا رد. قررت أرفع شكوى لحماية المستهلك.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 389,
+    "text": "إشارة التلفون ضعيفة جداً من أسبوع. ما بقدر أحكي مع أهلي. بدكم تفحصوا البرج.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 390,
+    "text": "بدي أعرف، ليه موظفينكم مش مدربين؟ سألت موظف عن منتج، حكالي بدك تسأل القسم الثاني. تعبت من التخبيص.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 391,
+    "text": "بدي استفسار عن سبب العطل العام. المنطقة كلها مقطوع عنها النت. في تعويض؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 392,
+    "text": "الحمد لله إنكم كنتوا موجودين. ولدي انقطع عنه الأنسولين، ووصلتوه خلال ربع ساعة. دعوتلكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 393,
+    "text": "بدي أستفسر، شو سرعة استجابتكم للشكاوي؟ لأن عندي شكوى مفتوحة من 16 يوم وما في رد.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 394,
+    "text": "شكراً لفريق الإغاثة اللي أنقذ أسرتي من تحت الأنقاض بعد القصف. أنتم أبطال. ❤️",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 395,
+    "text": "المدفأة الكهربائية يلي شريتها من عندكم ريحتها زفر. زوجتي تعبت من ريحة البلاستيك المحروق. بدي استرجاع.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 396,
+    "text": "ليش كل شهر تزيدوا السعر بدون ما تعلموني؟ أنا مش جيبكم مصاري. بدي فاتورة واضحة أو أروح لشركة ثانية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 397,
+    "text": "لو في مرة وحدة تردوا عليا باحترام، كنت راح أكمل. بس أنتم بتستهينوا بآدمية الزبون. مع السلامة.",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 398,
+    "text": "🚨 استغاثة! النت مقطوع وأنا في اجتماع مهم للشغل من البيت. مديري راح يفصلني. رجعوا النت بأسرع وقت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 399,
+    "text": "أخيراً ارتحت. بعد 3 أسابيع من المكالمات، حدا فهم مشكلتي. شكراً يا رب. 🙏",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 400,
+    "text": "عنجد أنكم فرحتونا. كان عندي مقابلة عمل حاسمة، والنت تبعكم قطع، ركبتموه خلال ساعة. جبت الشغل بفضلكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 401,
+    "text": "شكراً يا أخوان. كنت خايف إنكم تنسوا طلبي، لكن وصل في الوقت المحدد. يعطيكم العافية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 402,
+    "text": "الحمد لله ثم الحمد لله. سيارة الإسعاف وصلت في 10 دقايق وأنقذت حياة مرتي بعد ولادتها. أنتم قد المسؤولية. ❤️",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 403,
+    "text": "الحمد لله إنكم بعتولي فني شاطر بالكهربا. ركبت العداد الخربان، والبيت كله صار فيه نور. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 404,
+    "text": "الحمد لله إنكم غيرتولي الراوتر القديم. الواي فاي صار يشتغل بكل البيت, وأولادي فرحانين.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 405,
+    "text": "شو اللي خلاني أتعامل معكم؟ خدمة ما بعد البيع صفر. رفضتوا تستقبلوا شكواي عن خسارة مالية بسبب عيب مصنعي.",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 406,
+    "text": "أمي عازمة أهلها، وطلبت منكم كعك ومعمول. وصل بعد ما خلصوا الزوار. حرام عليكم خجلتوني.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 407,
+    "text": "الحمد لله إنكم أرسلتوا دعم نفسي لأختي بعد محاولة الانتحار. جلساتكم ساعدتها ترجع طبيعية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 408,
+    "text": "❤️ اليوم عيد ميلاد بنتي، وال蛋糕 يلي طلبته منها وصل مزين بأجمل شكل. عيونها تلمعت من الفرحة. شكراً إنكم صنعتوا السعادة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 409,
+    "text": "الحمد لله إنكم سمعتوا صوتي. بعد 5 مكالمات فاشلة، الموظف السادس كان ذهب. يعطيك العافية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 410,
+    "text": "الكهربا قطعت وأنا بأوخر شاحن تلفوني. ما بقدر أتصل بأهلي. عيب عليكم ما في طوارئ.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 411,
+    "text": "⚠️ الخدمة مقطوعة من 5 أيام وما حدا جا يحل. أنا برفع قضية. حرام.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 412,
+    "text": "يا ناس، شو هالغباء. السيارة يلي شريتها من عندكم طلعت مسروقة. الشرطة وقفتني. بدكم تتحملوا أو أنا برفع قضية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 413,
+    "text": "الحمد لله شكراً. خدمة الواي فاي عندكم صارت أحسن بعد ما ركبتوا الراوتر الجديد. العيلة كلها مبسوطة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 414,
+    "text": "النت مقطوع تاني. هاي المرة الثالثة هالشهر. أنا بدي تعويض عن الأيام يلي ضاعت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 415,
+    "text": "بدي أستفسر: شو إجراءات التعويض عن وفاة والدي بسبب خطأ طبي من مستشفاكم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 416,
+    "text": "شو هالعيب. أنا جندي بالخدمة، وأهلي بيعتمدوا عليكم. ولا مرا حدا رد عليهم وقت الطوارئ. أنا خايف عليهم.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 417,
+    "text": "شو يعني تم رفض طلب الصيانة؟ عندي ضمان ساري. بدي تفسير.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 418,
+    "text": "بيتي كله اتهد بسبب غلط في التركيب عندكم. أنا وعيلتي طلعنا بالشارع. بدكم تحضرون فوراً.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 419,
+    "text": "شو يعني التأمين يلي طالع مع جهاز التكييف؟ ما حدا شرحلي. بدي أعرف إذا يغطي التلف.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 420,
+    "text": "شكراً إنكم سمعتوا صوتي. بنتي الصغيرة كانت محتاجة حليب صناعي، ووصل من بعد ساعة من اتصالي. أنقذتوني.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 421,
+    "text": "شكراً كتير يا جماعة. غلطتوا بالطلب ورجعتم استبدلته بدون ما أدفع زيادة. أنتم قد المسؤولية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 422,
+    "text": "مرتي حامل بالشهر الثامن، والثلاجة خربت. الأكل كله بوخذ يخرب. بعتولكم شكوى من يومين وما حدا تحرك. حرام عليكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 423,
+    "text": "بدي أتأكد: في خصم للطلبات الكبيرة؟ أنا ناوي أشتري أجهزة لمكتبي، بس خايف من تعاملتكم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 424,
+    "text": "عندي استفسار: إذا ألغيت الاشتراك في خطة الدعم الفني للمحل، هل في غرامة؟ بدي أعرف قبل ما أتخذ قرار.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 425,
+    "text": "شركتي وفرت عمالة لكم، ووعدتوني بدفع مستحقاتي خلال أسبوع. مرت 20 يوم وما في شي. أنا وراي التزامات لعمالي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 426,
+    "text": "الحمد لله إنكم رجعتم المبلغ كامل بدون نقصان. كنت خايف أتخاصم. شكراً للأمانة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 427,
+    "text": "الحمد لله إنه أخيراً في موظف فاهم. بعد 9 محاولات فاشلة، واحد فهم شو بدي. يعطيك العافية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 428,
+    "text": "مش قادر أدفع إيجار المحل هذا الشهر لأن بضاعتي محتجزة عندكم بسبب خطأ جمركي. بدكم تتحملوا المسؤولية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 429,
+    "text": "الحمد لله. كنت خايف من تأخير الشحنة, لكن وصلت قبل السفر بيوم. شكراً على التزامكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 430,
+    "text": "العيب مش بالمنتج، العيب بخدمتكم. اشتريت تلفزيون غالي، ولما خرب، صعبوا علي التصليح. أبداً ما أكررها.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 431,
+    "text": "بعد خمس مكالمات فاشلة، أخيراً انحل الموضوع. شكراً للمدير يلي تدخل شخصياً. الله يجزيك الخير.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 432,
+    "text": "أنا زهقت من كلمة \"سيتم التواصل معك\". هاي الجملة صارت كابوس حياتي. 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 433,
+    "text": "آسفين؟ هاي كلمة بتعرفوها؟ أنا كل مرة أسمع آسفين وما في تغيير. خلص صار الموضوع مزح.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 434,
+    "text": "⚠️ بيتنا تحت القصف وخدمة الإخلاء تبعكم لسا ما وصلت. بنموت وأنتم نايمين؟ استغاثة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 435,
+    "text": "شكراً كتير. فريق الإسعاف كان عندنا خلال 5 دقايق بعد حادث السير. لو لاكم كان مات واحد منا.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 436,
+    "text": "أنا تعبت من الدفع. طلب منكم إلغاء الخدمة 4 مرات. لسا بتنزعوا مصاري. أنا هيك أفلس.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 437,
+    "text": "شكراً كتير لخدمة العملاء. الليلة الماضية كنت خايف لحالي بالبيت, وكلمتكم وفهمتوا وضعي. ربي يرضى عليكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 438,
+    "text": "❤️ والله أنكم سند. انقطعت الكهربا مرة وحدة وأنا لحالي، وقد ما اتصلت بكم، جبتولي فني خلال نص ساعة. قلبي ارتاح.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 439,
+    "text": "أنا طالب منكم صيانة للثلاجة من أسبوع. جاتكم الفني قبل 4 أيام، قال بدها غاز، ولسا ما رجع. الأكل اتهرى.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 440,
+    "text": "أنا فاهم إنه في ظروف، بس كل مرة نفس العذر؟ لا والله هيك استهبال. زبون عندكم أربع سنين وبتعاملوه كأنه غريب.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 441,
+    "text": "لما رنيت على خدمة الطوارئ, ما حدا رد. كيف هيك؟ أنا لحالي بالبيت وخايف.",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 442,
+    "text": "⚠️ التنبيه! بوابة الدفع تبعكم معلقة من الصبح، وطلبات المحل كلها واقفة. أنا بخسر الإيراد اليومي. كل دقيقة بتكلفني.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 443,
+    "text": "هل في إمكانية تغيير موعد تسليم البضاعة لمحل ملابسي؟ العيد قرب، وأنا محتاج البضاعة بكرة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 444,
+    "text": "أنا أرسلت طلبي من 3 أسابيع. كل أسبوع أتصل أتأكد، يقولولي بيتم التحضير. لسا. شو بدكم بالضبط؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 445,
+    "text": "بدي أطلب شاحنة نقل لبضاعة موسمية. لازم تكون مبردة وواصلة بالضبط يوم السبت. ممكن تأكيد؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 446,
+    "text": "أنا زبون عندكم من 7 سنين. هاي أول مرة أحس إنكم بتتجاهلوني. أربع مكالمات ومافي نتيجة. أنا زعلان.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 447,
+    "text": "الحمد لله على السلامة. كان عندي حادث سير، وخدمة الإسعاف تبعكم وصلت بسرعة، خرجوني سالم. أنتم قد المسؤولية. 🙏",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 448,
+    "text": "أخوي الصغير عنده عملية بكرة، وخايف. أنتو وعدتونا بتوفير دعم نفسي قبل العملية. وصل؟ محتاجينكم.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 449,
+    "text": "لو سمحتوا، بدي أطلب جهاز تنقية هواء للبيت. عندي ولد عنده حساسية. شو أفضل نوع عندكم؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 450,
+    "text": "سبع مرات اتصلت عليكم. كل مرة بقولوا راح نرد عليك خلال ساعة. مرت أيام ولا حدا اتصل. زهقت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 451,
+    "text": "أنا وعدت حبيبي إني أكون عنده بالعيد. طلبت تذكرة طيران منكم، ما وصلت. حبيبي حزين وأنا مكسور. شو بدي أعمل؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 452,
+    "text": "مرتي حامل بالشهر التاسع، وطلبت منها سيارة عشان نروح المستشفى. ما حدا جاء. أنا مجنون من التوتر. 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 453,
+    "text": "عنجد، أنتم قد الثقة. بعد ما ضيعتوا طلبي, تعوضتم بأحسن منه. ما توقعت هالاهتمام. 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 454,
+    "text": "الحمد لله على السلامة. مرتي خرجت من المستشفى، وخدمة النقل تبعكم كانت مريحة. يعطيكم العافية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 455,
+    "text": "😤 أنا كتبت شكوى أول أمس، حكيت مع أربعة موظفين، كل واحد يحولي للتاني. لسا ولا حل. بدي أرفع قضية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 456,
+    "text": "الغسالة يلي اشتريتها من عندكم خربت بعد أسبوعين. جيتوا فتحتوا عليها وقلتوا بدها قطعة، مرت 10 أيام وما حدا رجع. زهقت والغسيل متراكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 457,
+    "text": "⚠️ هذا إنذار: أنا اشتكيت 9 مرات. كل مرة تقفلوا الشكوى بدون حل. بدي أتحدث مع مدير عام.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 458,
+    "text": "شكراً يا جماعة. كنت خايف تفوت عليا صفقة مهمة، لكن النظام رجع خلال نص ساعة. أنقذتوني.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 459,
+    "text": "شكراً يا إخوان. الصيانة يلي عملتوها لآلة التعبئة ما خلتني أوقف خط الإنتاج. ربحت وقت وخسارة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 460,
+    "text": "الحمد لله. المكيف يلي بالصيف تعطل ورجعوه بشتغل أحسن من قبل. ربي يرضى عليكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 461,
+    "text": "شكراً للموظف يلي رد عليا بعد 12 يوم. الحمد لله إنه في حدا سمعني.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 462,
+    "text": "تطبيق الخدمات البنكية تبعكم واقف. أنا بدي أدفع فواتيري قبل ما تنقطع الخدمات. شو الحل؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 463,
+    "text": "الحمد لله على سلامتكم. الشاحن يلي صار فيه تماس, بعتولكم مندوب استبدله خلال يوم. شكراً لسرعة التجاوب.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 464,
+    "text": "الحمد لله إنكم أرسلتوا دعم فني عن بُعد. حكيت معه عالتلفون وشرحلي كيف أحل المشكلة بنفسي. وفرت علي وقت.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 465,
+    "text": "النت مقطوع من يومين وأنا بشتغل من البيت. مديري حيحاسبني. بدكم ترجعوه اليوم وإلا أنا مطرود. 🚨",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 466,
+    "text": "كل مرة أتصل، بتقولولي نحولك للقسم المختص، وبعدين الخط يقطع. هاي ثامن مرة. بدي أتأكد هلأ في حدا شغال عندكم.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 467,
+    "text": "زلمة جاي يركب الأثاث، ما عرف يقرأ التعليمات وخرب الباب. قالوا أرسلنا غيره، ما حدا جاء. 😡 كله فوضى.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 468,
+    "text": "الحمد لله على كل شيء. كان ولدي في غيبوبة، وسيارة الإسعاف وصلت بسرعة وما توفي. دعيتلكم طول الليل.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 469,
+    "text": "بليز، بدي أعرف مواعيد دوام خدمة العناية بالأطفال. ابني مريض وبده حدا يقعد معاه وانا بالشغل.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 470,
+    "text": "💔 أنا حزين جداً. خدمة التخزين عندكم تسببت بحريق في بضاعتي بسبب إهمال الأسلاك. خسرت كل المخزون الموسمي. مش قادر أتعافى.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 471,
+    "text": "عندي استفسار: خدمة توصيل الوجبات للعائلات الكبيرة، هل في خصم إذا عدد أفراد العيلة أكثر من 5؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 472,
+    "text": "الحمد لله على كل حال. ما كنت أتوقع إنكم تعتذروا بصراحة. الاعتذار يخفف الغضب شوي.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 473,
+    "text": "شكراً للمهندس يلي أصلح تسريب الغاز في نص الليل. كان بيتنا راح ينفجر. ربنا يجزيك الخير.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 474,
+    "text": "لو سمحتوا، بدي ألغي طلبي رقم 4456 لأنه تأخر كثير وصرت ما بدي إياه. شو الإجراء؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 475,
+    "text": "🚨 ابني درجة حرارته 40، وطلب دواء من عندكم تأخر. أنا مش قادر أوصله لأي صيدلية. وين الطلب؟ تعبت وقلبي وجعني.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 476,
+    "text": "بدي أعرف شو خطة الطوارئ عندكم للكوارث الطبيعية. بيتنا تعرض لأضرار والحماية المدنية تبعكم تأخرت.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 477,
+    "text": "عندي استفسار: ليه في شرط خفي بالعقد ما حدا شرحه لي؟ أنا اكتشفته بعد ما خسرت فلوس. بدي توضيح.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 478,
+    "text": "الحمد لله إنكم استبدلتم الجهاز الخربان بعد 3 شكاوي. كان نفسي ما أوصل لهاي المرحلة، بس شكراً عالآخر. 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 479,
+    "text": "بدي أعرف كم بدي انتظر عشان أسترد فلوسي؟ 3 أسابيع وماحدا رد.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 480,
+    "text": "😊 ماما كانت مبسوطة كتير لما وصلتها وردة عيد الأم منكم قبل ما تصحى. ربي يخليلكم إياها.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 481,
+    "text": "مش قادر أتنفس من الغضب. أنا مسافر ومتروك أهلي عندكم، اكتشفت إنكم ما بعتوا الدواء لأمي المسنة. 5 أيام بدون دواء قلبها. أنا هيك بموت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 482,
+    "text": "كل مرة أتصل في موسيقى انتظار نص ساعة، وبعدين يرد واحد ما عنده صلاحية يحل إشي. إضاعة وقت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 483,
+    "text": "بدي أطلب فني يركب لي لمبات LED جديدة بالبيت. مواعيدكم متى متوفرة؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 484,
+    "text": "❤️ أنقذتوني من الحرارة اليوم. المكيف خرب بالليل وبعتولي فني قبل الظهر. صرت أقدر أنام.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 485,
+    "text": "أنا بدي عرض أسعار لخدمة معينة. أرسلت طلب من 10 أيام، ولسا. شو نظامكم؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 486,
+    "text": "المصعد الكهربائي في العمارة واقف من 3 أيام. في ناس مسنين مش قادرين ينزلوا. بدكم تبعوا فني.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 487,
+    "text": "🙏 شكراً من القلب. أنقذتوني لما أرسلتوا دكتور للبيت لأمي. قلبها كان وجعان، والحمد لله طمنونا.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 488,
+    "text": "خدمة التوصيل عندكم خربت عليا صفقة مع فندق كبير. تأخرت الشحنة، والفندق ألغى العقد. خسارة فادحة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 489,
+    "text": "⚠️ التلفزيون يلي اشتريته من أسبوعين صار يطفي لحاله كل شوي. العيلة كلها قاعدة تتفرج وما بتقدر تكمل. بدكم تبعوا فني بسرعة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 490,
+    "text": "🙏 أنقذتوا عيد ميلاد بنتي. كنت خايف الكهربا تقطع وقت الحفلة, وركبتوا مولد احتياطي قبل الحفلة بيوم. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 491,
+    "text": "شو يعني خصم العائلة ملغى؟ أنا معتمد عليه لمصاريف دراسة بنتي. بدي تفصيل.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 492,
+    "text": "يا خسارة. حلم عمري كان أسافر أعالج ابني، وشركة السفر تبعكم ألغت الرحلة بدون سبب. خسرنا موعدdoctor. انهدمت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 493,
+    "text": "أنا تعبت وأنا أصلح سخان الماء بنفسي. كل شهر عطل. وعدتوني بفني وما جاء. أشرب ميه باردة بالشتا؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 494,
+    "text": "أولاً يضيع طلبي، ثانياً يوصلني ناقص، ثالثاً بدل القطع الغلط. محتاجين تعيدوا تأهيل موظفينكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 495,
+    "text": "بعد كل المعاناة، النت رجع بفضل فني فاهم. ولادي قدروا يدخلوا على المدرسة. دعيتلكم من قلبي. ❤️",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 496,
+    "text": "يا ناس انتبهوا، أنا شكيت 7 مرات على نفس الرقم. آخر مكالمة قالولي تم إغلاق الشكوى بدون حل. وقاحة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 497,
+    "text": "شكراً كتير للفريق اللي أنقذ جاري من تحت ركام بيته. أنتم قدوة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 498,
+    "text": "الحمد لله. كنت حاقركم، بس آخر مرة حكيت مع موظف فنان، خلاني أرجع أثق فيكم. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 499,
+    "text": "ياريتني ما تعاملت معكم. غلطة في حوالة البنك خسرتني كل مدخراتي. رحت أحكي معكم، قالوا مش مشكلتنا. أنا حالياً مهدد بالطرد من البيت.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 500,
+    "text": "🙏 شكراً لسرعة الاستجابة. كنت عالخط مع عميل والنظام وقع، رجع قبل ما يضيع المكالمة. أنتم قدها.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 501,
+    "text": "شفت بعيني ابني ينزل دم من رأسه. اتصلت بكم طوارئ، قالوا السيارات كلها مشغولة. أنا طفلتي أنا لوحدي. شو بدي أعمل؟ إنسانيتكم وين؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 502,
+    "text": "أولادي رجعوا من المدرسة، وما في نت عشان يخلصوا واجباتهم. أنا عاجز أشرحلهم ليش. بدكم تعوضونا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 503,
+    "text": "دمي غلي لما شفت العداد يقطع الكهربا وأنا جالس جنب أمي بالمستشفى. الجهاز يلي موصلها فصل. كدب عليكم لو ما متت من الرعب. 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 504,
+    "text": "أنا دفعت اشتراك سنة كاملة، وبعد شهرين قطعتم الخدمة بدون سبب. اتصلت قالوا غلط من النظام. لسا مقطوعة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 505,
+    "text": "كنت ناوي أطلب منكم 50 قطعة لمعرضي الموسمي. بس آخر 3 طلبات كانت فيها مشاكل. بدي ضمانات قبل ما أكمل.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 506,
+    "text": "😡 إعلانكم يلي نزل غلط، كتبتوا سعر المنتج أقل من تكلفته. أنا اضطررت أبيع بخسارة عشان ما أخسر الزبون. حرام عليكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 507,
+    "text": "لما بدي ألغي موعد التركيب، بحكيلهم بكرا الصبح. ما حدا اتصل. ضيعت يوم كامل انتظر. كل مرة هيك.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 508,
+    "text": "في تأخير بشحنة بضاعتي للمطعم. الزبون الجديد يلي كنت أتفاوض معاه الغى العقد عشان ما وثق فينا. بدي تعويض أخلاقي.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 509,
+    "text": "الحمد لله إنكم استبدلتم الجهاز الخربان. ضيعتوا وقتي, بس في النهاية اشتغلتوا. يعطيكم العافية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 510,
+    "text": "الحمد لله شكراً. كنت مستني الرد من أسبوع، واليوم وصلني إيميل إنه تم حل المشكلة. ارتحت.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 511,
+    "text": "❤️ والله أنكم خلصتوني. كنت مديون لموردي، وتأخرت عليا دفعة من زبون بسبب غلط بالتحويل عندكم، وتدخلتوا وصححتوا. شكراً.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 512,
+    "text": "شكراً إنكم سمعتوا صوتي وخفضتوا الفاتورة. كنت على وشك أقطع الخدمة. الحمد لله استجبتوا.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 513,
+    "text": "الحمد لله على كل حال. كنت تعبان نفسياً من المشكلة, واليوم لما اتصلت فيكم, حدا فاهم حكا معي. ارتحت.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 514,
+    "text": "أنتم سيئين لدرجة إني بدأت أشك إنه في تآمر. كل شيء غلط: الفواتير، الشحن، الدعم الفني. مين بعمل عندكم؟",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 515,
+    "text": "بدي أشكركم إنكم بدلتو الجهاز الخربان بجهاز جديد. ما توقعت هالسرعة. الله يوفقكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 516,
+    "text": "كل شهر نفس القصة: الخصم ما بينطبق عالسلة. أضيع نص ساعة أحاول. أنتم بتسخروا فيي ولا شو؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 517,
+    "text": "بعد 20 يوم ومكالمات وأيميلات، لسا ما حدا حللي مشكلة الفاتورة. أنا صرت مضطر أدفع عشان ما يقطعوا الخدمة. حرام.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 518,
+    "text": "الحمد لله إنكم بعتوا فني كهرباء بعد ساعة من اتصالي. التيار رجع والثلاجة شغالة، وما خربت الأكل. 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 519,
+    "text": "بدي أستفسر عن سياسة التعويض عن الأضرار الجسدية. زوجتي كسرت رجلها بسبب بلاط زلق ركبتوه عندنا.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 520,
+    "text": "اشتريت كرت شحن وسحبت الرقم، طلع مستعمل. رحت للفرع قالوا مش مشكلتنا. أنا خسران أنتوا كسبانين. عيب عليكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 521,
+    "text": "😊 يعطيكم العافية. كل زبائني راضين عن الأوساط الجديدة يلي وصلتهم بواسطتكم. سمعة محلي تحسنت.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 522,
+    "text": "دمي غلي يوم شفت الفاتورة. 3000 شيكل زيادة بدون سبب. أنا عايش بالقرض. بدكم تصححوا وإلا أقطع يدي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 523,
+    "text": "⚠️ تنبيه أخير. أنا كلمتكم 11 مرة. كل مرة بوعدوني بالحل والنتيجة صفر. بدي أرفع شكوى لجهة رسمية.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 524,
+    "text": "وصلني إيميل إنه تم تحديث بياناتي، بس أنا ما طلبت شي. شكله عندكم هكر أو إهمال. بدي اتأكد مين عامل هالحركة.",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 525,
+    "text": "انقذوا أسرتي. بيتنا تحت القصف، وخدمة الإخلاء تبعكم ما حدا رد. وين الضمير؟",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 526,
+    "text": "أمي مسنة وما بتعرف تستخدم التطبيق. بدي حدا يتصل فيها يشرحلها خدمة التوصيل الجديدة. ممكن تساعدوها؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 527,
+    "text": "بدي أعرف موعد نهاية الصيانة. أنا مضطر أشتغل من كافيه.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 528,
+    "text": "⚠️ القنبلة اللي انفجرت جنب بيتنا خربت كل شي. خدمات الإسعاف والإخلاء تبعكم ما وصلت إلا بعد ساعتين. أنتم فشلتم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 529,
+    "text": "في عروض على المكيفات الجديدة؟ بدي أغير مكيف الصالة لأنه خرب.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 530,
+    "text": "أنا مش بهزر. بيتي غرق بسبب مواسير أنتو ركبتوها. الأثاث كله خرب، جدران تساقطت. بدي أرفع قضية وأخدكم للمحكمة. 😤",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 531,
+    "text": "أنا عم بحلم؟ طلبت سيارة عشان أوصل أمي للمستشفى، جات بعد 4 ساعات. توفيت واستناها. أنا ما راح أسامحكم.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 532,
+    "text": "ليش تعلنوا عن عروض مش حقيقية؟ كتبت أشتري غسالة، قالوا العرض خلص من أول يوم. إعلان مضلل.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 533,
+    "text": "شو يعني ما نقدر نعوضك؟ أنا خسرت بيتي حريق بسبب شاحنكم. هاي نهاية العلاقة.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 534,
+    "text": "بدي أشوف وجه المسؤول. كل مرة أتصل، في موظف جديد وما بعرف إشي. صرت أحفظ القصة عن ظهر قلب. حلول!",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 535,
+    "text": "الحمد لله. بعد ما اشتكيت, تغير تعامل الموظفين وصاروا محترمين. شكراً إنكم سمعتوا.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 536,
+    "text": "شو هالهمجية؟ المكيف وقع من الحيط على راس ابني الصغير. لو جاء أعلى شوية كان مات. أنا شاكك في التركيب. بدي تحقيق.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 537,
+    "text": "الحمد لله. بعت شحنة تصدير لأول مرة بمساعدتكم، ووصلت سليمة. فتحت لنا أسواق جديدة.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 538,
+    "text": "الحمد لله على كل حال. أهل غزة أرسلنا لهم مساعدات من خلالكم، ووصلت بسلام. أنتم قد المسؤولية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 539,
+    "text": "الحمد لله. الغسالة الجديدة ركبتوها بسرعة وأخذتوا القديمة. ما خربت علي يوم. شكراً للتنظيم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 540,
+    "text": "اتصلت عليكم 22 مرة الليلة الماضية. زوجتي كانت تنزف وطلبت إسعاف. ما حدا رد. شو أعمل يعني؟ أموتها قدامي؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 541,
+    "text": "بدي أستفسر عن خدمة جديدة بعد ما ارتحت من خدمتكم. ممكن تفاصيل عن عروض العائلة؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 542,
+    "text": "ختي كانت بتجهز لعقد قرانها، ومصفف الشعر يلي من عندكم ما جاء. اضطريت ألملم نفسي أعمل لها تسريحة. ضيعتوا يومها.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 543,
+    "text": "عاجل: المولد الكهربائي يلي عندي للمستشفى المنزلي توقف. بدون كهرباء، أجهزة أمي كلها بتوقف. بدكم تبدلوه خلال ساعة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 544,
+    "text": "💔 زهقت من العيشة بالبيت. كل أسبوع جهاز يخرب. هاي المرة الميكرويف. أنا تعبت.",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 545,
+    "text": "🙏 والله أنكم فرحتونا. رجع النت قبل مقابلة الشغل اللي في حياتي. يعطيكم العافية.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 546,
+    "text": "بدي أستفسر عن خطة التأمين على البضائع أثناء النقل. سمعت إنكم غطيتوها. بدي تفاصيل.",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 547,
+    "text": "الحمد لله على السلامة. كنت متوقع إنكم تتجاهلوني، لكن المندوب يلي جه كان محترم وأصلح العطل. ربنا يرضى عليه.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 548,
+    "text": "أنا عندي كافتيريا، وثلاجة المشروبات تعطلت عندكم بالضمان. أخذتوها وما رجعتوها. خسرت مبيعات كولا لمدة 5 أيام. أين ثلاجتي؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 549,
+    "text": "الحمد لله إنكم أرسلتوا طبيب بالتليفون في نص الليل لولدي. نصحنا وأخذنا المستشفى في الوقت المناسب. أنقذتوه.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 550,
+    "text": "الحمد لله. الثلاجة رجعت تشتغل بعد ما أصلحتم العطل. الأكل كله ما فسد. دعيتلكم.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 551,
+    "text": "الإنترنت عندي بطيء جداً من شهر، وكل ما أتصل بقلكم خلاص ضبطنا ولا شي بيتغير. أولادي ما بقدر يفتحوا فيديو للدرس. زهقت.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 552,
+    "text": "الحمد لله. كنت على وشك إغلاق المحل بسبب كساد، وبفضل برنامج الدعم منكم، قدرنا نكمل. شكراً من القلب.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 553,
+    "text": "المنتج اللي وصلني لونه غير اللي طلبته، وكل ما أرجعوه، يرجعوا نفس اللون الغلط. يعني بتستهبلوا عليا؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 554,
+    "text": "شكراً لفريق الإخلاء اللي طلعنا من تحت الأنقاض بعد الزلزال. ما توقعت تكونوا موجودين. ❤️",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 555,
+    "text": "⚠️ الحريق اللي صار بسبب شاحنكم أكل البيت كلو. أنا وأولادي بالشارع. بدكم تعوضونا.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 556,
+    "text": "شكراً كتير. كنت هاقاطعكم، لكن حسن تعامل الموظف الأخير خلاني أرجع.",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 557,
+    "text": "عنجد أنا استحيت منكم. تقولوا عندنا ضمان شامل، ولما يعطل الجهاز، بقولوا ما يشمله الضمان. نصابين باحترام.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 558,
+    "text": "طالبين مني أدفع غرامة تأخير مع أنه غلطكم. أنا أعطيتكم مهلة شهر، أنتم يلي طولتوا. بدي محامي.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 559,
+    "text": "⚠️ بنتي عندها حساسية من الأكل، وطلبت لها وجبة خاصة. جاتهم الوجبة العادية، وأكلت وخنقت. أنا هيك بدي أموت من الخوف. مشكلة كبيرة.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 560,
+    "text": "بدي أطلب بضاعة لمحل العطارة عندي. بدي إياها مجزأة ومغلفة. في خدمة التغليف؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 561,
+    "text": "النت مقطوع تاني. هاي المرة الرابعة بالشهر. أنا تعبت وأنا أتصل بكم وأسمع \"نحن بصدد حل المشكلة\". كلها كلام.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 562,
+    "text": "بدي أغير أسلاك الكهربا يلي بالبيت. قديمة ومعرقة. شو التكلفة التقريبية؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 563,
+    "text": "بحاجة لتبرع عاجل بالدم لأبي. عندكم خدمة توصيل متبرعين؟ بدي خلال ساعة.",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_deepseek_v3"
+  },
+  {
+    "id": 564,
+    "text": "طلبي تأخر 3 أسابيع، ولما وصل، إذا بالصندوق حجر بدل الجهاز. مزحة؟ وين الضمير؟ بدي تحقيق.",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_deepseek_v3"
+  }
+]
