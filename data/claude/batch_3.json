@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "msg": "هلا، طلبي وصل اليوم وكل شي تمام، شكراً كتير",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 2,
+    "msg": "بدي أغير عنوان التوصيل قبل ما يتشحن الطلب، ممكن؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 3,
+    "msg": "أرسلولي رمز التحقق مرة ثانية، ما وصلني",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Medium"
+  },
+  {
+    "id": 4,
+    "msg": "الطلب رقم 4821 وصل سليم، ربنا يخليكم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 5,
+    "msg": "فين طلبي؟ زابط يومين وما في تحديث",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 6,
+    "msg": "بدي إلغاء الطلب الآن قبل ما يطلع من المستودع",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical"
+  },
+  {
+    "id": 7,
+    "msg": "ممكن تعجلوا التوصيل؟ محتاجه قبل الجمعة",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 8,
+    "msg": "قبل شوي دفعت وما جاني تأكيد، كل شي تمام؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 9,
+    "msg": "الخدمة ممتازة والتوصيل كان أسرع من المتوقع",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 10,
+    "msg": "بدي أعرف إمتى بيوصل طلب رقم 3340",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 11,
+    "msg": "الموقع مش شغال عندي منذ ربع ساعة، في مشكلة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical"
+  },
+  {
+    "id": 12,
+    "msg": "غيرولي رقم التلفون المرتبط بالحساب من فضلكم",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Medium"
+  },
+  {
+    "id": 13,
+    "msg": "هلا، استلمت الطلب وكل شي زبط، تسلم الطاقم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 14,
+    "msg": "حسابي متوقف وعندي طلب ضروري لازم يكتمل اليوم",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical"
+  },
+  {
+    "id": 15,
+    "msg": "بدي أضيف منتج لطلبي قبل ما يتأكد",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 16,
+    "msg": "ما قدرت أكمل الدفع، في خطأ بالصفحة",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 17,
+    "msg": "ابعتولي فاتورة الطلب على الإيميل من فضلكم",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Medium"
+  },
+  {
+    "id": 18,
+    "msg": "التطبيق شغال تمام والطلبية تأكدت، شكراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 19,
+    "msg": "عندكم طلب ضروري بيوصل المستشفى، تقدروا تعجلوه؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical"
+  },
+  {
+    "id": 20,
+    "msg": "كيف أتابع طلبي على الخريطة الآن؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 21,
+    "msg": "الكود ما اشتغل وعندي ٥ دقايق باقيات للعرض",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical"
+  },
+  {
+    "id": 22,
+    "msg": "ممكن أرجع المنتج؟ استلمته قبل شوي وفيه عيب",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 23,
+    "msg": "هلا، جربت خدمتكم وعجبتني كتير، رح أوصي فيها",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 24,
+    "msg": "بدي أعرف إذا المنتج موجود بالمستودع هلأ",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 25,
+    "msg": "وصلتني رسالة خطأ وقت تأكيد الدفع، شو أعمل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 26,
+    "msg": "غيروا كلمة مروري من فضلكم، ناسيها",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Medium"
+  },
+  {
+    "id": 27,
+    "msg": "التوصيل قبل الموعد بيوم، رضيت كتير، شكراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 28,
+    "msg": "بدي طلب عاجل للمنزل خلال ساعتين، ممكن؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical"
+  },
+  {
+    "id": 29,
+    "msg": "فين التأكيد؟ أنا دافع من ٣٠ دقيقة وما في شي",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 30,
+    "msg": "عندكم خدمة التوصيل نفس اليوم لنابلس؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 31,
+    "msg": "تم تحديث معلوماتي؟ بعتلكم الإيميل قبل شوي",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 32,
+    "msg": "الموظف كان محترم جداً وحل مشكلتي بسرعة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 33,
+    "msg": "انقطعت الخدمة عندي الآن ولازم أكمل طلب مهم",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical"
+  },
+  {
+    "id": 34,
+    "msg": "كيف أعدل كمية المنتج بعد ما أضفته للسلة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Low"
+  },
+  {
+    "id": 35,
+    "msg": "أرسلوا للمندوب يتصل قبل ما يجي، مش موجود دايماً",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Medium"
+  },
+  {
+    "id": 36,
+    "msg": "وصل الطلب وهدية مجانية معه، شكراً من القلب",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 37,
+    "msg": "نسيت أحط ملاحظة للمندوب، ممكن تضيفوها الآن؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 38,
+    "msg": "ما عندي إنترنت غير موبايل، التطبيق شغال؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 39,
+    "msg": "طلبي توقف بالجمارك، شو الإجراء؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 40,
+    "msg": "خدمة ممتازة من أول يوم، مستمر معكم دايماً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 41,
+    "msg": "بدي أعرف سياسة الاسترجاع قبل ما أكمل الشراء",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 42,
+    "msg": "الرسالة جاتني مكسورة، ما قدرت أقرأ الكود",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 43,
+    "msg": "أوقفوا الاشتراك التلقائي من حسابي هلأ",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 44,
+    "msg": "تحديث المعلومات اشتغل، شكراً على المتابعة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 45,
+    "msg": "طلبي رقم 7711 وين وصل هلأ؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 46,
+    "msg": "ما أقدر أسجل دخول من الأيفون، في مشكلة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 47,
+    "msg": "بدي طلب عاجل لأدوية، ممكن توصيل سريع؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical"
+  },
+  {
+    "id": 48,
+    "msg": "ليش تأخر الطلب يومين عن الموعد المحدد؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 49,
+    "msg": "الدعم رد سريع وحل الموضوع بكل احترافية",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 50,
+    "msg": "عندي مشكلة بالدفع بالفيزا، بتقبلوا كاش؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 51,
+    "msg": "قبل شوي اشتغل التطبيق، هلأ ما بيفتح معي",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 52,
+    "msg": "بدي أضيف ملاحظة لطلبي اللي طلعه قبل ساعة",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 53,
+    "msg": "منتج ممتاز، مطابق للوصف بالضبط",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 54,
+    "msg": "ابعتوا مندوب ثاني، الأول ما قدر يوصل للعنوان",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 55,
+    "msg": "كيف أضيف عنوان توصيل ثاني لحسابي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Low"
+  },
+  {
+    "id": 56,
+    "msg": "المدفوعات الآن معطلة؟ بجرب من ساعة وما بيكمل",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical"
+  },
+  {
+    "id": 57,
+    "msg": "وصلتني رسالة إن الطلب جاهز، أمتى يتوصل؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 58,
+    "msg": "بدي أعرف إذا فيه خصم لطلبيات الجملة",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Low"
+  },
+  {
+    "id": 59,
+    "msg": "تم إلغاء اشتراكي؟ بعتلكم طلب الإلغاء امبارح",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 60,
+    "msg": "الموقع بطيء جداً الليلة، في صيانة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 61,
+    "msg": "ابعتولي رقم تتبع الطلب على واتساب",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Medium"
+  },
+  {
+    "id": 62,
+    "msg": "قدرت أكمل الطلب بدون مشاكل، كل شي واضح",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 63,
+    "msg": "فاتورتي غلط فيها رقم، ممكن تصليحها الآن؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 64,
+    "msg": "وين أقدر أشوف تاريخ طلباتي القديمة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Low"
+  },
+  {
+    "id": 65,
+    "msg": "ما وصلني إيميل التأكيد، بعدين تأكد الدفع",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 66,
+    "msg": "بدي تعجيل لطلب العيد، قبل يومين فقط",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical"
+  },
+  {
+    "id": 67,
+    "msg": "التعامل راقي والمنتج فاق توقعاتي",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 68,
+    "msg": "كيف أعرف إذا العنوان تسجل صح بالنظام؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 69,
+    "msg": "بدي أغير طريقة الدفع لطلب ما اتشحن بعد",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 70,
+    "msg": "جاني منتج غلط، بدي تبديل سريع",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical"
+  },
+  {
+    "id": 71,
+    "msg": "قبل شوي قدرت أدفع، الموضوع اتحل شكراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 72,
+    "msg": "بدي أشوف تفاصيل طلبي رقم 9002 الآن",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 73,
+    "msg": "الخدمة الآن مقطوعة عندنا كلنا بالمنطقة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical"
+  },
+  {
+    "id": 74,
+    "msg": "تسلموا، المشكلة اتحلت والطلب عالطريق",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 75,
+    "msg": "بدي أزيد الكمية لطلبي قبل الشحن",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 76,
+    "msg": "ممكن تعيدوا إرسال الكود؟ انتهت صلاحيته",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 77,
+    "msg": "أسرع توصيل جربته، وصل قبل الموعد بساعات",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 78,
+    "msg": "بدي اشتراك مؤقت بس لشهر واحد ممكن؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Low"
+  },
+  {
+    "id": 79,
+    "msg": "الكاشير ما قبل البطاقة، كيف أكمل الدفع؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical"
+  },
+  {
+    "id": 80,
+    "msg": "إيميلي القديم اتحذف، غيروا البريد الآن",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 81,
+    "msg": "قبل ساعتين دفعت ولسا ما طلع من المستودع",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 82,
+    "msg": "عجبني الرد السريع، مشكور الدعم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 83,
+    "msg": "في منتج ناقص من طلبي، بدي أعرف الحل",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 84,
+    "msg": "ممكن تضيفوا خيار التغليف لطلباتنا؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Low"
+  },
+  {
+    "id": 85,
+    "msg": "الحساب اتعطل فجأة، مش قادر أدخل",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical"
+  },
+  {
+    "id": 86,
+    "msg": "جربت الخدمة للمرة الأولى وانبسطت كتير",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 87,
+    "msg": "بدي تأكيد إن الطلب وصل للمندوب فعلاً",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 88,
+    "msg": "في عرض للطلبات الكبيرة؟ بدي أطلب بالجملة",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 89,
+    "msg": "الطلب تأخر أكثر من المدة، بدي إلغاء الآن",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical"
+  },
+  {
+    "id": 90,
+    "msg": "تسلموا على التعامل الراقي والاحترافية العالية",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 91,
+    "msg": "كيف أفعل الإشعارات للطلبات على الموبايل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Low"
+  },
+  {
+    "id": 92,
+    "msg": "بدي تحديث العنوان قبل ما يطلع المندوب الآن",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical"
+  },
+  {
+    "id": 93,
+    "msg": "ممتنن، الطاقم حل موضوعي بأسرع وقت",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 94,
+    "msg": "وين أحمل صورة هويتي لتوثيق الحساب؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  },
+  {
+    "id": 95,
+    "msg": "قبل شوي وصل المندوب بدون ما يتصل، خسرنا الطلب",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 96,
+    "msg": "بدي أضيف ملاحظة للمندوب قبل ما يوصل",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent"
+  },
+  {
+    "id": 97,
+    "msg": "طلبيتي الثانية وكل مرة بتجي كاملة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 98,
+    "msg": "عندي ظرف طارئ، ممكن تعجلوا الطلب اليوم؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical"
+  },
+  {
+    "id": 99,
+    "msg": "التطبيق اتحدث وهلأ بيشتغل أحسن، شكراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Low"
+  },
+  {
+    "id": 100,
+    "msg": "بدي أسأل عن حالة الشكوى اللي رفعتها امبارح",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Medium"
+  }
+]

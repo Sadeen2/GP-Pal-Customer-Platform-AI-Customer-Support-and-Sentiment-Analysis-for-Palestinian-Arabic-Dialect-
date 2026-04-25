@@ -1,0 +1,4594 @@
+[
+  {
+    "id": 1,
+    "text": "كل التنبيهات عم تضيع وما حدا يحل المشكلة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 2,
+    "text": "الtracking stuck، شو الحل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 3,
+    "text": "تم إلغاء الاشتراك بدون مشاكل شكرا لكم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 4,
+    "text": "في طريقة اعرف مين شركة الشحن؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 5,
+    "text": "شكراً الكود اشتغل معي أخيراً وخصم تمام 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 6,
+    "text": "في رسوم إضافية على التجديد ولا نفس السعر؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 7,
+    "text": "الباسورد صح وانتو رافضين الدخول!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 8,
+    "text": "تأكدت من الفاتورة وكل التفاصيل واضحة",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 9,
+    "text": "حاطين promo وهمي ما بشتغل!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 10,
+    "text": "وصلني wrong size، بس عادي إذا بتعوضوني",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 11,
+    "text": "رفضوا الريفند بدون توضيح! 🚨",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 12,
+    "text": "وين باقي الأغراض؟ الموضوع critical 🚨",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 13,
+    "text": "ما فهمت ليش الكود مرفوض",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 14,
+    "text": "التنبيهات delayed بشكل واضح",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 15,
+    "text": "الاكاونت تبعي locked بدون سبب واضح",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 16,
+    "text": "ليش العملية بطيئة لهالدرجة؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 17,
+    "text": "الlogin خرب شغلي، حلّوها بسرعة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 18,
+    "text": "تم تفعيل الاشتراك الجديد فور الدفع",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 19,
+    "text": "ما شاء الله شغل clean واحترافي",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 20,
+    "text": "تم إرجاع الطلب، شكراً، بس متى المبلغ برجع؟ 😊",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 21,
+    "text": "الريفند approved من أيام، بس لسا ما وصل، ممكن مساعدة؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 22,
+    "text": "كان في تأخير قبل بس حالياً الوضع ممتاز",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 23,
+    "text": "وصلني نص الطلب، الباقي وين؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 24,
+    "text": "ممكن تعطوني كود بديل إذا القديم انتهى؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 25,
+    "text": "هل في مشكلة بالنظام؟ ما وصلني أي alert",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 26,
+    "text": "التوصيل تأخر شوي بس الكابتن كان محترم، شكراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 27,
+    "text": "طلبت 3 items وصلوا 2 بس",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 28,
+    "text": "الحمدلله قدرت اسجل دخول قبل الشغل",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 29,
+    "text": "التنبيهات وصلت متأخرة بس هالمرة وصلت بالنهاية 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 30,
+    "text": "🚨 الطلب مش موجود ولا حدا رد علي!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 31,
+    "text": "وصلني item مش إلي، شو الحل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 32,
+    "text": "تأخير مش طبيعي، وين الطلب؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 33,
+    "text": "ما وصلني ايميل reset لحد الآن",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 34,
+    "text": "ليش auto renewal ما اشتغل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 35,
+    "text": "الorder تأخر زيادة، بدي حل سريع",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 36,
+    "text": "الدعم كان helpful جداً، رجعت الحساب بعد نسيان الباسورد",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 37,
+    "text": "تمام الخصم انطبق مباشرة شكراً كتير",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 38,
+    "text": "ليش الكابتن ما بيرد؟ الوضع مش طبيعي",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 39,
+    "text": "tracking غلط، لازم تصححوه فوراً",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 40,
+    "text": "في خطأ بسيط بالطلب بس ما في مشكلة، شكراً 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 41,
+    "text": "الأداء ممتاز وما في lag أبداً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 42,
+    "text": "بدي أتواصل مع شخص حقيقي، مش automated",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 43,
+    "text": "login error مستمر من الصبح",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 44,
+    "text": "الخدمة سيئة، reset password ما بشتغل",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 45,
+    "text": "الريفند تبعي pending من أسبوع، في تحديث؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 46,
+    "text": "ممكن تتأكدوا إذا الكود فعال؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 47,
+    "text": "شكراً على الخدمة رغم الخطأ البسيط 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 48,
+    "text": "بدي حل الآن 🚨 مش قادر ادخل حسابي",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 49,
+    "text": "الرابط ما بوصل اصلاً! شو هالخدمة؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 50,
+    "text": "رجعت لحسابي بعد reset سريع، شكراً للدعم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 51,
+    "text": "promo code كان valid واشتغل بسهولة",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 52,
+    "text": "مش طبيعي، حسابي locked بدون تنبيه",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 53,
+    "text": "وين الشحنة؟ صار تأخير كبير",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 54,
+    "text": "تم رفض الريفند، ممكن توضحوا السبب؟ شكراً 🙏",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 55,
+    "text": "كيف بقدر أعمل update للعنوان الجديد؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 56,
+    "text": "رجع حسابي يشتغل، كنت قلقان بس انحلت",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 57,
+    "text": "لو سمحتوا update على الشحنة، شكراً الكم",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 58,
+    "text": "التجربة عادية، لا ممتازة ولا سيئة",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 59,
+    "text": "هل في مشكلة عامة بالlogin اليوم؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 60,
+    "text": "وين مصاري؟ صارلي أسبوعين ناطر",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 61,
+    "text": "هل لازم كلمة السر تكون قوية؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 62,
+    "text": "الخدمة ممتازة، بس بدي أعرف كم بياخد وقت refund",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 63,
+    "text": "شكراً، قدرت ادخل قبل ما ينسكر الحساب",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 64,
+    "text": "شو أسرع طريقة لreset password؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 65,
+    "text": "نسيت الباسورد بس قدرت اعمله reset بسهولة، شكراً 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 66,
+    "text": "في اختلاف بين الطلب واللي وصلني",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 67,
+    "text": "الكود مش واضح إذا شغال ولا لا ⚠️",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 68,
+    "text": "الإشعارات عم توصل بعد وقت طويل",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 69,
+    "text": "ممكن أغير الطلب لمنتج ثاني؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 70,
+    "text": "في item ناقص، بدي أعرف الإجراء",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 71,
+    "text": "التجديد صار بدون إذني وهذا غلط",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 72,
+    "text": "هل بقدر أغير العنوان بعد الشحن؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 73,
+    "text": "بدي أغير subscription للpremium",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 74,
+    "text": "الـ discount كان واضح وسهل الاستخدام",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 75,
+    "text": "مرحبا، التتبع مبين delivered بس ما وصلني، ممكن توضيح؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 76,
+    "text": "في خطأ صغير بس overall ممتاز 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 77,
+    "text": "مش منطقي الكود ما ينطبق أبداً",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 78,
+    "text": "وصلني طلب شخص ثاني بالغلط، شو أعمل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 79,
+    "text": "هل الشحنة وصلت البلد؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 80,
+    "text": "هل في tracking للطلب؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 81,
+    "text": "في شغلات حلوة وشغلات بدها تحسين",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 82,
+    "text": "الطلب غلط وهاد مزعج 😤",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 83,
+    "text": "أنا مبسوط من الخدمة الحالية، كملوا هيك",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 84,
+    "text": "تأخيركم سببلي مشكلة كبيرة 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 85,
+    "text": "تم فتح الحساب بعد ما كان locked، ممتاز",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 86,
+    "text": "لو سمحت cancel order تبعي بأسرع وقت",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 87,
+    "text": "بدي أغير وقت التوصيل للطلب",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 88,
+    "text": "ما عم يجيني أي notification من اليوم",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 89,
+    "text": "يعطيكم العافية، بس حاب اعرف وين وصل الريفند تبعي 😊",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 90,
+    "text": "ليش ما انطبق الخصم على السلة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 91,
+    "text": "في تأخير بالإشعارات، ممكن توضحوا السبب؟ ⚠️",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 92,
+    "text": "ليش الاوردر لسه pending؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 93,
+    "text": "التحديث الجديد كثير حلو وعملي",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 94,
+    "text": "طلبت refund من زمان وما صار شي",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 95,
+    "text": "الأداء بطيء بشكل مزعج",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 96,
+    "text": "سيستمكم بطيء ومزعج ⚠️",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 97,
+    "text": "الorder مش متحرك من امبارح، ليش؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 98,
+    "text": "أنا مستني الطلب كامل، missing items ليش؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 99,
+    "text": "طلبي ضايع، هاي مصيبة!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 100,
+    "text": "وصلتني إشعارات كانت مفقودة من قبل",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 101,
+    "text": "الدعم سريع جداً، قدرت اغير كلمة السر خلال دقائق",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 102,
+    "text": "هل الكود مستخدم قبل هيك؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 103,
+    "text": "الكود valid ولا بس لفترة محدودة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 104,
+    "text": "خدمة ممتازة بموضوع الفواتير 👌",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 105,
+    "text": "ممكن تعطوني ETA للشحنة؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 106,
+    "text": "شكراً، بس ممكن تعطوني مكان الاوردر الحالي؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 107,
+    "text": "الكود مرفوض بدون سبب!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 108,
+    "text": "الorder ناقص item مهم، بدي حل بسرعة 🚨",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 109,
+    "text": "مش فاهم وين الطلب تبعي",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 110,
+    "text": "رجعتوا لي الفرق بعد تغيير الخطة شكرا",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 111,
+    "text": "شكراً على التحسينات الأخيرة، فرق واضح",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 112,
+    "text": "شو الفايدة من التطبيق إذا notifications ما بتوصل؟ 😤",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 113,
+    "text": "بدي أعرف إذا الطلب مؤهل للريفند أو لا",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 114,
+    "text": "كيف بقدر اعمل reset للباسورد؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 115,
+    "text": "ما بقدر اضغط على الرابط، في bug؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 116,
+    "text": "مش اول مرة بصير هيك معكم",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 117,
+    "text": "تم الموافقة على الريفند، بس كم يوم ليوصل الحساب؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 118,
+    "text": "انقذتوني، reset password اشتغل فوراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 119,
+    "text": "أنا معتمد على alerts وما عم يوصلني شيء 🚨",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 120,
+    "text": "هل السيرفر فيه ضغط؟ notifications بطيئة",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 121,
+    "text": "غيرت الخطة بسهولة من monthly ل yearly",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 122,
+    "text": "في item زيادة بالغلط، بدي أرجعو",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 123,
+    "text": "شكراً بس في نقص صغير، ياريت تنتبهو",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 124,
+    "text": "كل الأكواد عندكم fail",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 125,
+    "text": "انحلت المشكلة بسرعة بعد ما ما اشتغل الرابط اول مرة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 126,
+    "text": "finally login زبط بعد reset password 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 127,
+    "text": "شو آخر update على التوصيل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 128,
+    "text": "كيف أوقف الاشتراك فوراً؟ 🚨",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 129,
+    "text": "بكتب الباسورد صح بس برفض الدخول، ليش؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 130,
+    "text": "ليش الفاتورة فيها مبلغ مختلف؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 131,
+    "text": "بدي أعدل العنوان لأنه تغير مكاني",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 132,
+    "text": "في lag قوي وما بنفع هيك",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 133,
+    "text": "التنبيهات عندي ميتة تماماً شو هالمشكلة!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 134,
+    "text": "الكود ظاهر expired بس وصلني اليوم",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 135,
+    "text": "الطلب راح لعنوان غلط، مين المسؤول؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 136,
+    "text": "بدي ألغي الاشتراك قبل ما يتجدد",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 137,
+    "text": "الكود ما اشتغل، ممكن resend؟",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 138,
+    "text": "الدعم ممتاز، حلوا مشكلة الرابط بسرعة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 139,
+    "text": "ال renewal صار تلقائي وكل اشي تمام",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 140,
+    "text": "اللينك اشتغل بعد المحاولة الثانية، appreciated",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 141,
+    "text": "شو حالة الطلب تبعي للريفند؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 142,
+    "text": "ما في اي support! الباسورد ضايع",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 143,
+    "text": "تم تحديث وسيلة الدفع واشتغل مباشرة",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 144,
+    "text": "في تأخير واضح بالريفند، شو السبب؟",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 145,
+    "text": "⚠️ الكود انتهى قبل ما استخدمه!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 146,
+    "text": "وين الطلب؟ اختفى ولا شو؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 147,
+    "text": "تمام هسا الاكاونت فتح بعد ما غيرت الباسورد، يعطيكم العافية",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 148,
+    "text": "في اختلاف بالأداء بين يوم ويوم",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 149,
+    "text": "الدليفري تأخر ممكن تعطوني ETA؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 150,
+    "text": "وين حقي؟ الطلب ما وصل ابداً",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 151,
+    "text": "بدي أطلب إعادة النظر بقرار رفض الريفند",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 152,
+    "text": "في مشكلة بسيطة بreset page، ممكن اصلاح",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 153,
+    "text": "اشتراكي اتفعل مباشرة بعد الدفع شكرا",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 154,
+    "text": "everything smooth وما في مشاكل لحد الآن",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 155,
+    "text": "متى بينتهي صلاحية الكود؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 156,
+    "text": "الطلب مرتب بس ناقص قطعة صغيرة، مش مشكلة كبيرة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 157,
+    "text": "بدي ارجع حسابي القديم، كيف؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 158,
+    "text": "العنوان غلط بالنظام، بدكم تصححوه فوراً",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 159,
+    "text": "بعتولي reset link فوراً وانقذت الوضع 🚨",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 160,
+    "text": "حليت مشكلة ال account locked، شكراً للدعم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 161,
+    "text": "هل المشكلة من النت ولا من التطبيق؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 162,
+    "text": "وين المشكلة؟ البنك ولا عندكم؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 163,
+    "text": "شكراً على التوصيل بس في missing item، بتمنى تنتبهو 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 164,
+    "text": "شكرا تم تجديد الاشتراك تبعي بسهولة 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 165,
+    "text": "مرحبا، ممكن أعرف وين وصل طلب الريفند؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 166,
+    "text": "عنجد سهل الاستخدام، حتى أول مرة فهمته بسرعة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 167,
+    "text": "الorder اختفى من التتبع، شو صار؟",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 168,
+    "text": "العنوان غلط بسببكم مش مني",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 169,
+    "text": "الدعم تجاوب بسرعة وبعتولي reset link جديد",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 170,
+    "text": "مش فاهم بعض الخصائص، ممكن توضيح؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 171,
+    "text": "التصميم مرتب وواضح، يعطيكم العافية 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 172,
+    "text": "شكراً لخدمتكم، بس ممكن تحديث عن refund الطلب؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 173,
+    "text": "جربت كل الطرق والكود فاضي!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 174,
+    "text": "رغم الخطأ أنا راضي عن الخدمة 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 175,
+    "text": "مشكورين، رجعت الحساب قبل ما يصير اي ضرر",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 176,
+    "text": "السيستم تبعكم سيء، login ما بشتغل",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 177,
+    "text": "خربتوا علي الطلب بسبب الكود",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 178,
+    "text": "الدعم ساعدني ألغي الاشتراك بسرعة ✅",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 179,
+    "text": "ممكن تلغوا الطلب قبل ما يطلع؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 180,
+    "text": "ليش ما في استجابة سريعة للمشاكل؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 181,
+    "text": "بدي حل فوراً! مش قادر ادخل 🚨",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 182,
+    "text": "انخصم مني مبلغ زيادة بدون سبب 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 183,
+    "text": "بدي أغير العنوان لأنه غلط كتبته",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 184,
+    "text": "التطبيق سيء جداً وكل شوي فيه مشاكل 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 185,
+    "text": "عم بستنى alerts وما وصلني شيء",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 186,
+    "text": "في item ناقص بس ماشي الحال 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 187,
+    "text": "بدي أتابع موضوع الريفند لأنه تأخر",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 188,
+    "text": "مش معقول! reset link مش راضي يفتح 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 189,
+    "text": "وصلني كود جديد وفعلاً اشتغل معي ممتاز",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 190,
+    "text": "التطبيق شغال بس مش الأفضل بصراحة",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 191,
+    "text": "ممكن اعرف ليش الطلب لسا ما وصل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 192,
+    "text": "ليش دفعت وما تفعل الاشتراك لحد الآن؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 193,
+    "text": "ممكن تفتحولي الحساب بسرعة؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 194,
+    "text": "نسيت كلمة السر بس الخدمة كانت ممتازة بالحماية",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 195,
+    "text": "شكراً رجعت notifications تشتغل طبيعي عندي",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 196,
+    "text": "ليش كل مرة في missing items؟ 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 197,
+    "text": "reset password كان سريع وما واجهت مشاكل",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 198,
+    "text": "كل شي واقف بسبب الاكاونت المقفول",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 199,
+    "text": "ممكن أضيف item على الطلب الحالي؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 200,
+    "text": "شكراً عالتجاوب، قدرت اغير الباسورد قبل ما ينتهي الوقت",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 201,
+    "text": "حسابي انقفل بعد محاولات كثيرة، شو الحل؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 202,
+    "text": "في discount لو حولت لخطة سنوية؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 203,
+    "text": "بدي رد سريع، وين الطلب؟ 🚨",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 204,
+    "text": "نسيت الباسورد، شو الخطوات لإعادة تعيينه؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 205,
+    "text": "متى بتنزل الفاتورة الشهرية؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 206,
+    "text": "كيف أعمل reset password للحساب تبعي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 207,
+    "text": "عنجد شكراً، حسّنتوا التطبيق بشكل كبير",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 208,
+    "text": "كل مرة بحاول أدفع بيطلع error 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 209,
+    "text": "غيروا العنوان بس قدروا يوصلوه، يعطيكم العافية",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 210,
+    "text": "الاشتراك اتوقف فجأة رغم الدفع",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 211,
+    "text": "مرحبا، مش فاهم ليش ما بقدر اسجل دخول",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 212,
+    "text": "في مشكلة واضحة بتأخير الريفند، بدي حل",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 213,
+    "text": "تجربة الخصم كانت smooth جداً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 214,
+    "text": "الاشتراك expired رغم إني دافع",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 215,
+    "text": "كان في مشكلة delivery بس انحلت مشكورين",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 216,
+    "text": "هسا عم استلم التنبيهات بدون تأخير الحمدلله",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 217,
+    "text": "تأخير غير مقبول نهائياً",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 218,
+    "text": "صارلي 3 أسابيع ناطر refund 😤",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 219,
+    "text": "حبيت ال UI الجديد، كتير user friendly",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 220,
+    "text": "التطبيق reliable وبعتمد عليه يومياً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 221,
+    "text": "Everything worked perfectly with reset process",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 222,
+    "text": "جربت تحديث التطبيق وصار كلشي ممتاز",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 223,
+    "text": "في تأخير طبيعي ولا في مشكلة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 224,
+    "text": "الحساب تبعي مش راضي يفتح، شو الحل؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 225,
+    "text": "يعطيكم العافية، شكراً عالخدمة، بس بدي status update",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 226,
+    "text": "هذا غير مقبول، وين الاوردر؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 227,
+    "text": "جربت كود جديد وكان شغال تمام",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 228,
+    "text": "تم إرجاع المنتج، بس المبلغ لسا pending",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 229,
+    "text": "الطلب واضح لازم يرجع مصاري، ليش رافضين؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 230,
+    "text": "delivery تأخر زيادة عن اللزوم!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 231,
+    "text": "كل التنبيهات وصلت بعد إعادة تشغيل الجهاز",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 232,
+    "text": "كنت خايف يضيع حسابي بس انحل الموضوع بسرعة، شكراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 233,
+    "text": "عملية reset واضحة وسهلة، يعطيكم العافية",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 234,
+    "text": "عنجد disappointed من الأداء الحالي",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 235,
+    "text": "في مشكلة بالحساب، ممكن تساعدوني تصلحوها؟",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 236,
+    "text": "ليش ما في update جديد؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 237,
+    "text": "في طريقة ارجع ادخل اذا نسيت الpassword؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 238,
+    "text": "في error لما ادخل username",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 239,
+    "text": "شو هاد السيستم الغلط؟ login مش شغال",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 240,
+    "text": "شكراً، غيرت كلمة السر بسهولة من اول مرة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 241,
+    "text": "متى يوصل الطلب؟ ممكن تفاصيل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 242,
+    "text": "حاب أعرف إذا في تحديث جديد قريب؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 243,
+    "text": "اذا ما انحل اليوم رح اخسر شغلي",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 244,
+    "text": "التطبيق كاتب shipped، في تفاصيل اكثر؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 245,
+    "text": "وين صار الاوردر تبعي هسا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 246,
+    "text": "التطبيق خربان، ما بقدر اسجل دخول",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 247,
+    "text": "بدي أحكي مع human agent مش bot",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 248,
+    "text": "account locked بعد ما غيرت الجهاز",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 249,
+    "text": "رجعت alerts تشتغل بعد ما فعلت settings",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 250,
+    "text": "النظام صار يشتغل flawless بالنسبة للتنبيهات",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 251,
+    "text": "الطلب ناقص جداً 😤",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 252,
+    "text": "وصلني تنبيه قبل الخصم وهذا اشي ممتاز",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 253,
+    "text": "لو سمحت بدي refund على الطلب لأنه وصل غلط",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 254,
+    "text": "ليش جاني wrong order؟ 😤",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 255,
+    "text": "كل شي تمام مع تغيير الباسورد، شكراً كتير",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 256,
+    "text": "العنوان واضح ليش راح مكان ثاني؟",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 257,
+    "text": "خدمتكم ممتازة، بس الريفند لسا ما وصلني، في تأخير؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 258,
+    "text": "ما بقدر ألغي الاشتراك والمبلغ عم ينخصم",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 259,
+    "text": "كل مرة بستخدمه بعلق 😤",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 260,
+    "text": "ما حدا تواصل معي والتوصيل متأخر",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 261,
+    "text": "ليش لسا ما رجعتوا المبلغ؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 262,
+    "text": "الإشعارات عم توصل متأخرة جداً",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 263,
+    "text": "ليش الإشعارات ما عم توصلني؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 264,
+    "text": "المبلغ لسا ما رجع رغم الموافقة",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 265,
+    "text": "تأخير الإشعارات سببلي مشكلة كبيرة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 266,
+    "text": "invalid login كل مرة، تعبت!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 267,
+    "text": "هل تم تحويل الريفند للبنك ولا لسا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 268,
+    "text": "العملية كانت سهلة، بس لسا ناطر المبلغ يرجع",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 269,
+    "text": "كنت مش قادر ادخل بس انحلت المشكلة، كل شي تمام",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 270,
+    "text": "ليش ما بتوصلني reset link؟ ⚠️",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 271,
+    "text": "التتبع غلط، بدي تصحيح هلأ",
+    "sentiment": "Positive",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 272,
+    "text": "بدي أعدل العنوان قبل التوصيل لو سمحت",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 273,
+    "text": "ما عم يجيني alerts إلا لما أفتح التطبيق",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 274,
+    "text": "⚠️ الطلب متأخر كثير، شو السبب؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 275,
+    "text": "ليش كل مرة برفض الدخول 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 276,
+    "text": "كل يوم بسأل وما في جواب واضح 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 277,
+    "text": "حبيت نظام التذكير قبل renewal 👍",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 278,
+    "text": "غيرت الباسورد بس مش متأكد اذا حفظ",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 279,
+    "text": "مش معقول هالتأخير بالrefund",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 280,
+    "text": "ليش ما بقبل الكود رغم انه صحيح؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 281,
+    "text": "🚨 بدي الطلب فوراً، صار تأخير خطير",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 282,
+    "text": "صارلي ساعتين بستنى الطلب، الوضع عادي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 283,
+    "text": "ليش الكود مش عم يشتغل عندي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 284,
+    "text": "كان في لخبطة بالعنوان بس انحلت ووصل",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 285,
+    "text": "ممكن تساعدوني ليش notifications متأخرة؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 286,
+    "text": "التوصيل تأخر بس وصل قبل ما احتاجه الحمدلله",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 287,
+    "text": "في اختلاف بسيط بالorder، شو الحل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 288,
+    "text": "في error بالحساب، كيف أصلحه؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 289,
+    "text": "التوصيل غلط العنوان بس تم تصحيحه بسرعة",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 290,
+    "text": "التطبيق غير مستقر ومزعج جداً 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 291,
+    "text": "عنجد impressed بالخدمة تبعتكم 👍",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 292,
+    "text": "الكود اشتغل بعد التحديث شكراً الكم",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 293,
+    "text": "عم ينخصم مني كل شهر وأنا ملغي",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 294,
+    "text": "في نقص بالorder، بدي أتأكد إذا بيكملوه",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 295,
+    "text": "ما في أي احترام للوقت عندكم",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 296,
+    "text": "تم حل مشكلة عدم وصول التنبيهات سريعاً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 297,
+    "text": "حابب أعرف إذا في دعم عربي أفضل قريباً",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 298,
+    "text": "missing item، ممكن متابعة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 299,
+    "text": "الكود مش راضي يشتغل أبداً 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 300,
+    "text": "⚠️ في تأخير كبير جداً، بدي حل فوراً",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 301,
+    "text": "هل الطلب وصل مرحلة التوصيل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 302,
+    "text": "missing items كتير 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 303,
+    "text": "حلّيتوا مشكلة الكود بسرعة شكراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 304,
+    "text": "التأخير اختفى وصار كلشي طبيعي 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 305,
+    "text": "الtracking number مش شغال، ممكن تساعدوني؟",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 306,
+    "text": "في delay بالاوردار؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 307,
+    "text": "هل في مدة محددة للrefund؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 308,
+    "text": "اشتراكي انخصم صح وما في double charge",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 309,
+    "text": "مش معقول هاد الأداء، لازم حل فوراً 🚨",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 310,
+    "text": "دخلت الكود بس ما تغير السعر",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 311,
+    "text": "هل في مشكلة بالنظام؟ reset مش شغال",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 312,
+    "text": "ما واجهت مشاكل كبيرة بس في ملاحظات بسيطة",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 313,
+    "text": "مش فاهم ليش الأمور أسوأ من قبل",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 314,
+    "text": "صارلي يومين بدفع ولسه مش مفعل",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 315,
+    "text": "please update me فوراً عن الشحنة",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 316,
+    "text": "نسيت الباسورد وكل مرة بحاول بفشل",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 317,
+    "text": "تم تطبيق الخصم بنجاح شكراً للدعم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 318,
+    "text": "تم حل مشكلة reset link بسرعة، يعطيكم العافية 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 319,
+    "text": "كيف أشيك على billing history؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 320,
+    "text": "كل شوي crashes بدون سبب",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 321,
+    "text": "ما توقعت هيك مستوى من الخدمة",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 322,
+    "text": "ليش ما بقدر أعمل cancel؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 323,
+    "text": "بدي حل سريع لمشكلة الباسورد",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 324,
+    "text": "الطلب وصل بعد تأخير بسيط وكل اشي تمام",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 325,
+    "text": "تم حل المشكلة بسرعة عالية، appreciate it",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 326,
+    "text": "رجعت الخدمة مثل أول وأحسن",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 327,
+    "text": "في item مش إلي، بس بحب أشكركم على السرعة 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 328,
+    "text": "وصلني order غلط بس تعاملكم ممتاز 👍",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 329,
+    "text": "هل بقدر أعدل الطلب بعد الدفع؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 330,
+    "text": "التوصيل عندكم بطيء جداً",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 331,
+    "text": "مرحبا، قدرت ارجع اسجل دخول بس بعد محاولات، شكراً 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 332,
+    "text": "ضليت ساعة أحاول والكود useless",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 333,
+    "text": "ليش عم يتم رفض البطاقة تبعتي؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 334,
+    "text": "انحلت المشكلة قبل ما تصير كارثة بالشغل",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 335,
+    "text": "هل في update لازم أعمله عشان الإشعارات؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 336,
+    "text": "وين صار الكابتن؟ tracking مش واضح",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 337,
+    "text": "الرابط وصلني فوراً وقدرت احدث الباسورد بدون مشاكل",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 338,
+    "text": "ممكن توضحوا شروط استخدام الكود؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 339,
+    "text": "في بعض الbugs الصغيرة لاحظتها",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 340,
+    "text": "🚨 ما وصل الطلب نهائياً، في مشكلة؟",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 341,
+    "text": "الخصم صار مرتين وهذا غير مقبول 🚨",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 342,
+    "text": "وصل الطلب متأخر بس الحمدلله وصل بالنهاية 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 343,
+    "text": "التجربة overall مقبولة بس مش ثابتة",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 344,
+    "text": "التجربة بشكل عام smooth وما واجهت مشاكل",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 345,
+    "text": "بدي اتأكد اذا انشحن الطلب ولا لا",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 346,
+    "text": "في مشكلة بالتتبع، كل مرة نفس الحالة",
+    "sentiment": "Positive",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 347,
+    "text": "هل الكود مخصص لمنتجات معينة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 348,
+    "text": "بدي أغير الخطة بسرعة قبل الخصم الجاي",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 349,
+    "text": "الطلب ناقص وهاد الشي متكرر 😤",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 350,
+    "text": "everything works fine عندي، ما في ملاحظات",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 351,
+    "text": "عملت reset من الموبايل وكل شي اشتغل مضبوط 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 352,
+    "text": "tracking number ما بيفتح، ليش؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 353,
+    "text": "شكراً، تم حل مشكلة wrong password بسرعة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 354,
+    "text": "بدي اعرف مكان الشحنة فوراً",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 355,
+    "text": "الكود ما وصلني، ممكن تعيدوا إرساله؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 356,
+    "text": "وصلتني كل التنبيهات المتراكمة مرة وحدة 👍",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 357,
+    "text": "ليش ولا إشعار عم يوصل؟ الموضوع مهم جداً 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 358,
+    "text": "كويس إنو المشكلة انحلت وصرت استلم notifications",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 359,
+    "text": "ممكن تحديث عن refund رقم الطلب 123؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 360,
+    "text": "thank you حلّيتوا مشكلة التوصيل بسرعة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 361,
+    "text": "الطلب مش عندي رغم انه مكتوب تم التوصيل",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 362,
+    "text": "ليش الاوردر متأخر هيك؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 363,
+    "text": "ليش انخصم مني مرتين هذا الشهر؟ ⚠️",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 364,
+    "text": "في مشكلة تسجيل دخول، شو أعمل؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 365,
+    "text": "العنوان واضح ليش ما بتعرفوا توصلوا؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 366,
+    "text": "تم رفض refund، شو السبب؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 367,
+    "text": "مبسوط إنه الكود اشتغل بدون مشاكل",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 368,
+    "text": "في update جديد على الشحنة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 369,
+    "text": "شكراً رغم الغلط البسيط بالطلب 👍",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 370,
+    "text": "وين الاوردر؟ صارله كتير وقت",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 371,
+    "text": "الخصم applied بدون مشاكل 👍",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 372,
+    "text": "بدي أوقف الاشتراك تبعي نهائياً",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 373,
+    "text": "ليش ما في خيار واضح لإلغاء الاشتراك؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 374,
+    "text": "الnotifications عم توصل مباشرة بدون delay",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 375,
+    "text": "التوصيل المفروض اليوم، في update؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 376,
+    "text": "بدي أغير الاشتراك تبعي لخطة أرخص",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 377,
+    "text": "وين وصل طلبي؟ ممكن check delivery status",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 378,
+    "text": "ليش النظام فاشل بهيك شغلة بسيطة!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 379,
+    "text": "كيف أقدر أستفيد أكثر من التطبيق؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 380,
+    "text": "هل في إعداد معين لازم أفعله للتنبيهات؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 381,
+    "text": "طلبي ضايع بالكامل ومحدش مهتم",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 382,
+    "text": "ليش التطبيق دايماً فيه bugs؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 383,
+    "text": "عنجد تجربة سيئة وما بنصح فيه",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 384,
+    "text": "الـ promo صار usable بعد ما تواصلتوا معي",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 385,
+    "text": "الحمدلله الحساب رجع قبل الديدلاين",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 386,
+    "text": "الخدمة acceptable بس في مجال للتطوير",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 387,
+    "text": "دخلت عالحساب بسرعة بعد ما ساعدتوني، شكراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 388,
+    "text": "مش قادر اوصل لبياناتي بسبب login error",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 389,
+    "text": "وين الاوردر؟ صارله اسبوع 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 390,
+    "text": "جربت كودين وما اشتغلوا شو السبب؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 391,
+    "text": "شكراً الكم، التجربة ممتازة من كل النواحي",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 392,
+    "text": "في مشكلة بالinvoice مش واضحة أبداً",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 393,
+    "text": "وصلني reset link واشتغل تمام، يعطيكم العافية",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 394,
+    "text": "طلبت منتج وجاني غيره تماماً 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 395,
+    "text": "بصراحة التطبيق كثير ممتاز وسريع 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 396,
+    "text": "الوضع سيء جداً الإشعارات ما بتشتغل نهائياً",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 397,
+    "text": "شكراً بس في missing sauce بسيط، ممكن تضيفوه next time 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 398,
+    "text": "ممكن أحكي مع support agent؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 399,
+    "text": "الريفند متأخر كثير، هاد مش طبيعي",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 400,
+    "text": "تم تغيير الباسورد بسرعة عالية، خدمة ممتازة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 401,
+    "text": "ممكن تتأكدوا من حالة الطلب؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 402,
+    "text": "بدي أوقف auto renewal للاشتراك",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 403,
+    "text": "كل الطلب غلط 😡 بدي حل فوري",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 404,
+    "text": "ممكن تسريع عملية refund؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 405,
+    "text": "هل في limit لاستخدام الكود؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 406,
+    "text": "كل يوم نفس المشكلة بالlogin!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 407,
+    "text": "وصلني طلب ناقص شوي",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 408,
+    "text": "الخدمة صارت أسوأ بعد التحديث",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 409,
+    "text": "alerts عم توصل بعد ما يخلص الحدث",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 410,
+    "text": "كيف أغير كلمة السر من settings؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 411,
+    "text": "شكراً لردكم، بس لسا المبلغ مش ظاهر بالحساب",
+    "sentiment": "Positive",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 412,
+    "text": "بدي أعرف إذا في حل لمشكلة التأخير",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 413,
+    "text": "الشحنة ضايعة؟ مش مبين مكانها",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 414,
+    "text": "بدي حل حالاً، الطلب مهم!",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 415,
+    "text": "كيف أضيف payment method جديدة بسرعة؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 416,
+    "text": "الخدمة عندكم مرتبة وكل اشي واضح، يعطيكم العافية",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 417,
+    "text": "النظام صار يرسل alerts بدون تأخير",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 418,
+    "text": "الاشتراك اشتغل بعد ما دفعت بدون تأخير",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 419,
+    "text": "وصلني التنبيه بعد ما فتحت التطبيق بس مش مشكلة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 420,
+    "text": "صارلي ساعة بحاول ادخل بدون فايدة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 421,
+    "text": "ممكن أغير تفاصيل الطلب قبل ما ينشحن؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 422,
+    "text": "شكراً للدعم، ساعدتوني ارجع الحساب بعد نسيان الباسورد",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 423,
+    "text": "الدليفري تأخر بس service كان منيح",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 424,
+    "text": "هل لازم حد أدنى للمبلغ عشان الكود؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 425,
+    "text": "ممكن تساعدوني ارجع الحساب؟ ⚠️",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 426,
+    "text": "كل شي تمام، بس الريفند طول شوي، في مشكلة؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 427,
+    "text": "وصلني الطلب بس فيه item زيادة مش إلي، كيف أرجعو؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 428,
+    "text": "ليش مكتوب delivered وانا ما استلمت؟",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 429,
+    "text": "بدي ألغي الأوردر تبعي فوراً لو سمحت",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 430,
+    "text": "التوصيل تأخر فوق الحد",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 431,
+    "text": "الorder لسه processing، شو السبب؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 432,
+    "text": "الدعم تبعكم سريع و helpful جداً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 433,
+    "text": "في item ناقص بس بشكل عام الخدمة كويسة 👍",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 434,
+    "text": "حلو الدعم تبعكم، دخلت الحساب بسهولة",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 435,
+    "text": "ممكن أعرف متى رح يتجدد الاشتراك تبعي؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 436,
+    "text": "كلشي صار سريع والإشعارات تمام",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 437,
+    "text": "كلشي تمام الكود اشتغل معي اليوم",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 438,
+    "text": "هل في طريقة استرجع الباسورد بدون ايميل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 439,
+    "text": "كم مدة صلاحية reset link؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 440,
+    "text": "وين الفاتورة؟ مش لاقي أي details",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 441,
+    "text": "الطلب ناقص بس شكراً لتعاونكم 👍",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 442,
+    "text": "مش طبيعي، صارلي ساعة بحاول reset بدون فايدة",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 443,
+    "text": "ما وصلني إشعار التجديد ممكن توضحوا؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 444,
+    "text": "هل في مشكلة بالنظام بسبب delay بالrefund؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 445,
+    "text": "الدفع تم بدون أي error وكل شي smooth",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 446,
+    "text": "في فرق بسيط بين الطلب واللي وصلني بس تمام 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 447,
+    "text": "ليش ما بقدر ألغي الطلب؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 448,
+    "text": "أنا زعلان من التجربة وما رح أستخدمه تاني",
+    "sentiment": "Negative",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 449,
+    "text": "متى متوقع يوصل الاوردر؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 450,
+    "text": "الأداء متوسط، أحياناً سريع وأحياناً لا",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 451,
+    "text": "يعطيكم العافية، بدي أتأكد هل الريفند processed؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 452,
+    "text": "تم استرجاع المبلغ بعد الإلغاء شكرا كتير",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 453,
+    "text": "وصلني تنبيه واحد بس والباقي لا",
+    "sentiment": "Neutral",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 454,
+    "text": "بدي تفعيل فوري للتنبيهات لو سمحتوا",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 455,
+    "text": "كيف أقدم طلب refund؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 456,
+    "text": "في مشكلة بالـ promo system عندكم؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 457,
+    "text": "كنت بحاجة ادخل فوراً، شكراً لحل مشكلة الباسورد",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 458,
+    "text": "الرابط expired، شو الحل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 459,
+    "text": "الorder كله غلط 😡 شو هاد؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 460,
+    "text": "كان في delay بسيط بس هسا تمام الأمور",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 461,
+    "text": "ناقص item واحد، ممكن توضيح؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 462,
+    "text": "خدمة الدعم كانت لطيفة، بس بدي متابعة للريفند تبعي",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 463,
+    "text": "عم بحاول login من موبايل وما بزبط",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 464,
+    "text": "طلبت burger وجاني chicken، ممكن تبدلوه؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 465,
+    "text": "الطلب ناقص وضروري اليوم ⚠️",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 466,
+    "text": "الريفند approved، بس البنك ما وصلو شي، ممكن تفيدوني؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 467,
+    "text": "كل شي اشتغل بعد verification، شكراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 468,
+    "text": "اشتراكي اتجدد والخصم كان صحيح مية بالمية",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 469,
+    "text": "ليش بيطلعلي invalid credentials؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 470,
+    "text": "الكود fake واضح 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 471,
+    "text": "شكراً على الإصلاح صارت notifications تمام",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 472,
+    "text": "وصل الطلب بعد ما تواصلت معكم، appreciated 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 473,
+    "text": "ما في أي update، هاد اشي مزعج",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 474,
+    "text": "محتاج اعرف موقع الاوردر حالياً",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 475,
+    "text": "الرابط ما اشتغل، ممكن تبعتولي غيره؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 476,
+    "text": "ليش push notifications ما بتوصل بسرعة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 477,
+    "text": "رغم التأخير كنتوا متعاونين كثير",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 478,
+    "text": "الـ discount انضاف مباشرة بدون تأخير",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 479,
+    "text": "دخلت promo code بس ما انخصم شي",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 480,
+    "text": "كيف بدي أغير طريقة الدفع تبعتي؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 481,
+    "text": "وين السواق حالياً؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 482,
+    "text": "ناقص item واحد بس بدي أعرف إذا بيوصلوه",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 483,
+    "text": "خصم رائع فعلاً التجربة كانت سهلة 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 484,
+    "text": "سيستم التتبع عندكم سيء جداً",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 485,
+    "text": "الحساب فيه bug، ممكن إصلاح سريع؟",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 486,
+    "text": "بستخدمه أحياناً، مش بشكل دائم",
+    "sentiment": "Neutral",
+    "intent": "Other",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 487,
+    "text": "كل مرة بحاول ادخل بيطلب verification زيادة",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 488,
+    "text": "مش قادر اغير كلمة السر، بدي مساعدة",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 489,
+    "text": "ما بقدر ادخل من اي جهاز، شو الحل؟",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 490,
+    "text": "كل مرة بحكوا pending! شو القصة؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 491,
+    "text": "التجربة overall ممتازة وما عندي complaints",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 492,
+    "text": "كل الدعم ما فاد، لسا المبلغ مش راجع",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 493,
+    "text": "support ساعدني ادخل بسرعة، شكراً كتير",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 494,
+    "text": "مش متأكد إذا المشكلة عندي ولا منكم",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 495,
+    "text": "كم الوقت المتوقع لرجوع المبلغ؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 496,
+    "text": "الريفند واضح إنه شغال، بس بدي أتأكد متى يكتمل ✅",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 497,
+    "text": "محتاج update سريع على الاوردر تبعي",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 498,
+    "text": "اشتراكي انلغى لحاله شو القصة؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 499,
+    "text": "التوصيل سيء جداً، دايماً تأخير",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 500,
+    "text": "login صار يزبط بعد التحديث، شكراً الكم",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 501,
+    "text": "في مشكلة بالطلب، wrong item بالكامل",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 502,
+    "text": "شو الفرق بين monthly و yearly subscription؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 503,
+    "text": "شكراً إنكم لحقتوا الطلب رغم التأخير 👍",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 504,
+    "text": "جربت كود اليوم واشتغل 100% شكراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 505,
+    "text": "هل في limit لمحاولات login؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 506,
+    "text": "نسيت كلمة السر، شو الخطوات؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 507,
+    "text": "رجعت الإشعارات بعد ما فعلت push notifications",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 508,
+    "text": "شو وضع الشحنة تبعتي حالياً؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 509,
+    "text": "رجعت ادخل الاكاونت بدون error، تمام",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 510,
+    "text": "الكود انتهى فجأة بدون تنبيه!",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 511,
+    "text": "🚨 بدي كود شغال فوراً أو ألغي الطلب",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 512,
+    "text": "كان في delay بسيط بس بالنهاية تغير الباسورد، مشكورين",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 513,
+    "text": "بدي دعم بشري حالاً، الموضوع مهم 🚨",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 514,
+    "text": "حلوا المشكلة فوراً أو رح أوقف استخدام التطبيق",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 515,
+    "text": "ليش كل مرة لازم اعيد الخطوات؟ تعبت",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 516,
+    "text": "كل يوم بحكوا بكرا، تعبنا",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 517,
+    "text": "يعطيكم العافية، شكراً عالرد السابق، بس بدي أتأكد من حالة refund",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 518,
+    "text": "عملت forgot password وكل شي صار smooth، شكراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 519,
+    "text": "وين الإدارة؟ بدي حل فوري",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 520,
+    "text": "tracking كله غلط، بدي حل حالاً 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 521,
+    "text": "حاولت أدفع بس payment failed شو الحل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 522,
+    "text": "الاشتراك تبعي active ولا لسه pending؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 523,
+    "text": "بدي أغير الطلب قبل ما يتأكد",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 524,
+    "text": "ال billing system عندكم فيه مشكلة كبيرة 😤",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 525,
+    "text": "ما وصلني verification code، شو أعمل؟",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 526,
+    "text": "وين باقي الطلب؟ الموضوع urgent ⚠️",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 527,
+    "text": "تحسن واضح بسرعة الإشعارات عندي",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 528,
+    "text": "ليش ما في تحسينات جدية لحد الآن؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 529,
+    "text": "الكود expired، ممكن تبعتوا واحد جديد؟",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 530,
+    "text": "الرابط وصل بس ما بعرف كيف استخدمه",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 531,
+    "text": "tracking system مش شغال",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 532,
+    "text": "في خطأ بالطلب بس الأمور تمام غير هيك 😊",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 533,
+    "text": "هل refund بيرجع لنفس طريقة الدفع؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 534,
+    "text": "تم إلغاء الطلب، شكراً، بس المبلغ لسا pending",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 535,
+    "text": "مشكلتي مع login انحلت، الله يعطيكم العافية",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 536,
+    "text": "استفدت من ال promo code الجديد وكان ممتاز",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 537,
+    "text": "مش راضي عن الخدمة نهائياً",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 538,
+    "text": "ما وصلني alert مهم وخسرت فرصة بسببه",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 539,
+    "text": "كل مرة نفس المشكلة بالتوصيل",
+    "sentiment": "Negative",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 540,
+    "text": "ليش ما حدا تواصل معي؟ 😡",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 541,
+    "text": "ممكن أحكي مع agent بشكل مباشر؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 542,
+    "text": "تم تأكيد الريفند، شكراً، بس بدي follow up سريع",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 543,
+    "text": "بدي أغير نوع الاشتراك تبعي",
+    "sentiment": "Positive",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 544,
+    "text": "الفلوس انسحبت وما في اشتراك مفعل",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 545,
+    "text": "ممكن تغيروا العنوان قبل ما يوصل؟",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 546,
+    "text": "بعد التحديث رجعت الإشعارات توصل بشكل أحسن",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 547,
+    "text": "ليش بتسكروا الحساب بدون سبب؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 548,
+    "text": "متى يرجع المبلغ بعد الإلغاء؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 549,
+    "text": "الdelivery status غلط، بدي توضيح حالاً",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 550,
+    "text": "ليش السعر تغير فجأة بدون تنبيه؟",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 551,
+    "text": "بدي حل سريع لهالمشكلة، الوضع سيء جداً",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 552,
+    "text": "كل اشي تمام عندي والتطبيق شغال perfect",
+    "sentiment": "Positive",
+    "intent": "Other",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 553,
+    "text": "طلبت color معين وجاني غيره، شو الحل؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 554,
+    "text": "وين الاوردر فوراً بدي اعرف ⚠️",
+    "sentiment": "Negative",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 555,
+    "text": "شكراً الدعم رجعت الإشعارات عندي",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 556,
+    "text": "وين السواق هسا؟ بدي اعرف مكان الاوردر",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 557,
+    "text": "نسيت الباسورد وبدي ادخل بسرعة",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 558,
+    "text": "في تحسينات حلوة بس لسا بدو شغل",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 559,
+    "text": "🚨 بدي دعم فوري الكود خرب الطلب",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 560,
+    "text": "انحلت المشكلة وصرت أعرف كل alerts فوراً",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 561,
+    "text": "الalerts صارت توصل أسرع من قبل 👌",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 562,
+    "text": "الحساب عندي فيه glitch، ممكن تصلحوه؟",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 563,
+    "text": "هل في خطة لإضافة features جديدة؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 564,
+    "text": "ممكن تحسين سرعة التطبيق شوي؟ ⚠️",
+    "sentiment": "Neutral",
+    "intent": "Request",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 565,
+    "text": "التتبع واقف من يومين، في اشي غلط؟",
+    "sentiment": "Positive",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 566,
+    "text": "بدي refund لأنه المنتج ما عجبني",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 567,
+    "text": "cancel subscription مش شغال عندي",
+    "sentiment": "Negative",
+    "intent": "Complaint",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 568,
+    "text": "هل بقدر ألغي الطلب بدون رسوم؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 569,
+    "text": "هل السيرفر فيه مشكلة login حالياً؟",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 570,
+    "text": "تمام هسا notifications عم توصل أول بأول",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 571,
+    "text": "الإشعارات مش ثابتة أحياناً توصل وأحياناً لا",
+    "sentiment": "Neutral",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 572,
+    "text": "الorder كله غلط 😡، بدي refund فوراً",
+    "sentiment": "Negative",
+    "intent": "Request",
+    "urgency": "Critical",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 573,
+    "text": "في feature مش واضحة عندي كيف أستخدمها",
+    "sentiment": "Neutral",
+    "intent": "Inquiry",
+    "urgency": "Urgent",
+    "source": "generated_chatgpt_v5"
+  },
+  {
+    "id": 574,
+    "text": "كل شي تمام هسا، اقدر ادخل بدون مشاكل 👍",
+    "sentiment": "Positive",
+    "intent": "Feedback",
+    "urgency": "Normal",
+    "source": "generated_chatgpt_v5"
+  }
+]

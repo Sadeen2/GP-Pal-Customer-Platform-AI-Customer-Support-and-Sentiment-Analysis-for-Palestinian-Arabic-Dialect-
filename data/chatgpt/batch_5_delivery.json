@@ -1,1 +1,72 @@
-[]
+[
+{ "id": 1, "text": "وصل الطلب متأخر بس الحمدلله وصل بالنهاية 😊", "sentiment": "Positive", "intent": "Feedback", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 2, "text": "التوصيل تأخر شوي بس الكابتن كان محترم، شكراً", "sentiment": "Positive", "intent": "Feedback", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 3, "text": "الطلب وصل بعد تأخير بسيط وكل اشي تمام", "sentiment": "Positive", "intent": "Other", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 4, "text": "غيروا العنوان بس قدروا يوصلوه، يعطيكم العافية", "sentiment": "Positive", "intent": "Feedback", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 5, "text": "شكراً إنكم لحقتوا الطلب رغم التأخير 👍", "sentiment": "Positive", "intent": "Feedback", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 6, "text": "الدليفري تأخر بس service كان منيح", "sentiment": "Positive", "intent": "Feedback", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 7, "text": "وصل الطلب بعد ما تواصلت معكم، appreciated 😊", "sentiment": "Positive", "intent": "Feedback", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 8, "text": "كان في لخبطة بالعنوان بس انحلت ووصل", "sentiment": "Positive", "intent": "Other", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 9, "text": "التوصيل تأخر بس وصل قبل ما احتاجه الحمدلله", "sentiment": "Positive", "intent": "Feedback", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 10, "text": "thank you حلّيتوا مشكلة التوصيل بسرعة", "sentiment": "Positive", "intent": "Feedback", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+
+{ "id": 11, "text": "صار تأخير كبير بس بالنهاية وصل الطلب ✅", "sentiment": "Positive", "intent": "Feedback", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 12, "text": "التوصيل غلط العنوان بس تم تصحيحه بسرعة", "sentiment": "Positive", "intent": "Other", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 13, "text": "كان في مشكلة delivery بس انحلت مشكورين", "sentiment": "Positive", "intent": "Feedback", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 14, "text": "رغم التأخير كنتوا متعاونين كثير", "sentiment": "Positive", "intent": "Feedback", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 15, "text": "طلب تأخر بس الدعم تبعكم ممتاز", "sentiment": "Positive", "intent": "Feedback", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+
+{ "id": 16, "text": "ممكن اعرف ليش الطلب لسا ما وصل؟", "sentiment": "Neutral", "intent": "Inquiry", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 17, "text": "التوصيل المفروض اليوم، في update؟", "sentiment": "Neutral", "intent": "Inquiry", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 18, "text": "وصلني notification انه delivered بس ما استلمت اشي", "sentiment": "Neutral", "intent": "Complaint", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 19, "text": "العنوان واضح ليش راح مكان ثاني؟", "sentiment": "Neutral", "intent": "Complaint", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 20, "text": "في تأخير طبيعي ولا في مشكلة؟", "sentiment": "Neutral", "intent": "Inquiry", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+
+{ "id": 21, "text": "صارلي ساعتين بستنى الطلب، الوضع عادي؟", "sentiment": "Neutral", "intent": "Inquiry", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 22, "text": "الدليفري تأخر ممكن تعطوني ETA؟", "sentiment": "Neutral", "intent": "Request", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 23, "text": "وين صار الكابتن؟ tracking مش واضح", "sentiment": "Neutral", "intent": "Inquiry", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 24, "text": "الطلب مش عندي رغم انه مكتوب تم التوصيل", "sentiment": "Neutral", "intent": "Complaint", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 25, "text": "ممكن تغيروا العنوان قبل ما يوصل؟", "sentiment": "Neutral", "intent": "Request", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+
+{ "id": 26, "text": "⚠️ الطلب متأخر كثير، شو السبب؟", "sentiment": "Neutral", "intent": "Inquiry", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 27, "text": "🚨 ما وصل الطلب نهائياً، في مشكلة؟", "sentiment": "Neutral", "intent": "Complaint", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 28, "text": "العنوان غلط بالنظام، بدكم تصححوه فوراً", "sentiment": "Neutral", "intent": "Request", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 29, "text": "الdelivery status غلط، بدي توضيح حالاً", "sentiment": "Neutral", "intent": "Inquiry", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 30, "text": "ليش مكتوب delivered وانا ما استلمت؟", "sentiment": "Neutral", "intent": "Complaint", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+
+{ "id": 31, "text": "😡 الطلب صارله يومين وما وصل، شو هاد؟", "sentiment": "Negative", "intent": "Complaint", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 32, "text": "التوصيل سيء جداً، دايماً تأخير", "sentiment": "Negative", "intent": "Feedback", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 33, "text": "وين الطلب؟ اختفى ولا شو؟", "sentiment": "Negative", "intent": "Complaint", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 34, "text": "كل مرة نفس المشكلة بالتوصيل", "sentiment": "Negative", "intent": "Feedback", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 35, "text": "العنوان واضح ليش ما بتعرفوا توصلوا؟", "sentiment": "Negative", "intent": "Complaint", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+
+{ "id": 36, "text": "😤 صارلي ناطر كثير، وين الطلب؟", "sentiment": "Negative", "intent": "Complaint", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 37, "text": "delivery تأخر زيادة عن اللزوم!", "sentiment": "Negative", "intent": "Complaint", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 38, "text": "الطلب راح لعنوان غلط، مين المسؤول؟", "sentiment": "Negative", "intent": "Complaint", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 39, "text": "ما حدا تواصل معي والتوصيل متأخر", "sentiment": "Negative", "intent": "Complaint", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 40, "text": "ليش الكابتن ما بيرد؟ الوضع مش طبيعي", "sentiment": "Negative", "intent": "Complaint", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+
+{ "id": 41, "text": "🚨 الطلب مش موجود ولا حدا رد علي!", "sentiment": "Negative", "intent": "Complaint", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 42, "text": "⚠️ في تأخير كبير جداً، بدي حل فوراً", "sentiment": "Negative", "intent": "Request", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 43, "text": "ليش بتكتبوا delivered وانتو ما سلمتوا؟!", "sentiment": "Negative", "intent": "Complaint", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 44, "text": "طلبي ضايع، هاي مصيبة!", "sentiment": "Negative", "intent": "Complaint", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 45, "text": "وين حقي؟ الطلب ما وصل ابداً", "sentiment": "Negative", "intent": "Complaint", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+
+{ "id": 46, "text": "تأخير غير مقبول نهائياً", "sentiment": "Negative", "intent": "Feedback", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 47, "text": "كل يوم بحكوا بكرا، تعبنا", "sentiment": "Negative", "intent": "Complaint", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 48, "text": "مش اول مرة بصير هيك معكم", "sentiment": "Negative", "intent": "Feedback", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 49, "text": "التوصيل عندكم بطيء جداً", "sentiment": "Negative", "intent": "Feedback", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+{ "id": 50, "text": "العنوان غلط بسببكم مش مني", "sentiment": "Negative", "intent": "Complaint", "urgency": "Normal", "source": "generated_chatgpt_v5" },
+
+{ "id": 51, "text": "ليش ما حدا تواصل معي؟ 😡", "sentiment": "Negative", "intent": "Complaint", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 52, "text": "بدي حل حالاً، الطلب مهم!", "sentiment": "Negative", "intent": "Request", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 53, "text": "التوصيل تأخر فوق الحد", "sentiment": "Negative", "intent": "Complaint", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 54, "text": "tracking system مش شغال", "sentiment": "Negative", "intent": "Complaint", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+{ "id": 55, "text": "مش عارف وين راح الطلب", "sentiment": "Negative", "intent": "Inquiry", "urgency": "Urgent", "source": "generated_chatgpt_v5" },
+
+{ "id": 56, "text": "🚨 بدي الطلب فوراً، صار تأخير خطير", "sentiment": "Negative", "intent": "Request", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 57, "text": "⚠️ اذا ما وصل اليوم بدي شكوى رسمية", "sentiment": "Negative", "intent": "Threat", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 58, "text": "ما في أي احترام للوقت عندكم", "sentiment": "Negative", "intent": "Feedback", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 59, "text": "وين الإدارة؟ بدي حل فوري", "sentiment": "Negative", "intent": "Request", "urgency": "Critical", "source": "generated_chatgpt_v5" },
+{ "id": 60, "text": "طلبي ضايع بالكامل ومحدش مهتم", "sentiment": "Negative", "intent": "Complaint", "urgency": "Critical", "source": "generated_chatgpt_v5" }
+]

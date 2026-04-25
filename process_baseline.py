@@ -1,5 +1,4 @@
 import json
-import glob
 import random
 import re
 from collections import Counter
@@ -8,8 +7,8 @@ from pathlib import Path
 # =========================
 # Paths
 # =========================
-INPUT_FOLDER = "data/claude"
-OUTPUT_FILE = "data/claude/claude_clean.json"
+INPUT_FILE = "data/baseline_dataset/generated_data_combined.json"
+OUTPUT_FILE = "data/baseline_dataset/baseline_clean.json"
 
 USE_SEMANTIC_DEDUP = True
 SEMANTIC_THRESHOLD = 0.85
@@ -18,6 +17,15 @@ VALID_SENTIMENT = {"Positive", "Neutral", "Negative"}
 VALID_INTENT = {"Inquiry", "Complaint", "Request", "Feedback", "Other"}
 VALID_URGENCY = {"Normal", "Urgent", "Critical"}
 
+URGENCY_MAPPING = {
+    "Low": "Normal",
+    "Medium": "Urgent",
+    "High": "Critical",
+    "Normal": "Normal",
+    "Urgent": "Urgent",
+    "Critical": "Critical",
+}
+
 
 def clean_text(text):
     text = str(text).strip()
@@ -25,23 +33,19 @@ def clean_text(text):
     return text
 
 
-def load_json_files():
-    files = glob.glob(f"{INPUT_FOLDER}/batch_*.json")
-    all_data = []
-
-    for file in files:
-        with open(file, "r", encoding="utf-8") as f:
-            try:
-                data = json.load(f)
-                if isinstance(data, list):
-                    all_data.extend(data)
-                    print(f"Loaded {len(data)} records from {file}")
-                else:
-                    print(f"Skipped {file}: not a JSON list")
-            except json.JSONDecodeError:
-                print(f"Skipped {file}: invalid JSON")
-
-    return all_data
+def load_json_file():
+    with open(INPUT_FILE, "r", encoding="utf-8") as f:
+        try:
+            data = json.load(f)
+            if isinstance(data, list):
+                print(f"Loaded {len(data)} records from {INPUT_FILE}")
+                return data
+            else:
+                print("Input file is not a JSON list.")
+                return []
+        except json.JSONDecodeError:
+            print("Invalid JSON file.")
+            return []
 
 
 def basic_clean_and_validate(data):
@@ -59,14 +63,7 @@ def basic_clean_and_validate(data):
         intent = item.get("intent", "")
         urgency = item.get("urgency", "")
 
-        mapping = {
-            "Low": "Normal",
-            "Medium": "Urgent",
-            "High": "Critical",
-            "Critical": "Critical"
-        }
-
-        urgency = mapping.get(urgency, urgency)
+        urgency = URGENCY_MAPPING.get(urgency, urgency)
 
         if not text:
             invalid.append((idx, "empty_text"))
@@ -90,8 +87,13 @@ def basic_clean_and_validate(data):
             "sentiment": sentiment,
             "intent": intent,
             "urgency": urgency,
-            "source": item.get("source", "generated_gemini_v2")
+            "source": item.get("source", "baseline_generated")
         })
+
+    if invalid:
+        print("\nInvalid examples:")
+        for ex in invalid[:10]:
+            print(ex)
 
     return cleaned, invalid
 
@@ -153,7 +155,7 @@ def print_distribution(data):
 
 
 def save_output(data):
-    Path(INPUT_FOLDER).mkdir(parents=True, exist_ok=True)
+    Path(OUTPUT_FILE).parent.mkdir(parents=True, exist_ok=True)
 
     for i, item in enumerate(data, start=1):
         item["id"] = i
@@ -161,14 +163,14 @@ def save_output(data):
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    print(f"\nSaved clean dataset to: {OUTPUT_FILE}")
+    print(f"\nSaved clean baseline dataset to: {OUTPUT_FILE}")
 
 
 def main():
-    print("Starting merge pipeline...\n")
+    print("Starting baseline processing pipeline...\n")
 
-    raw_data = load_json_files()
-    print("\nTotal before cleaning:", len(raw_data))
+    raw_data = load_json_file()
+    print("Total before cleaning:", len(raw_data))
 
     cleaned, invalid = basic_clean_and_validate(raw_data)
     print("After validation:", len(cleaned))
