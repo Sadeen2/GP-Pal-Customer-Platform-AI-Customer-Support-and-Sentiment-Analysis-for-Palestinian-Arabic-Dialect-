@@ -68,7 +68,7 @@ The following preprocessing steps were applied:
 
 ---
 
-## 🧾 Final Dataset Format
+## Final Dataset Format
 
 Each record in the final dataset follows a structured JSON format:
 
