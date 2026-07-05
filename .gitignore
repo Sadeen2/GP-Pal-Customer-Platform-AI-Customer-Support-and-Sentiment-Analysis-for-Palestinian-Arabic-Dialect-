@@ -1,0 +1,8 @@
+.env
+*.db
+__pycache__/
+*.pyc
+saved_model/
+dataset.json
+clean_dataset.json
+ngrok.exe

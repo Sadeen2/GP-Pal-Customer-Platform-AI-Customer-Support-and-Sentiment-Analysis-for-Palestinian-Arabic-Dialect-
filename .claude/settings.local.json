@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"/c/Users/mobie/Downloads/New folder \\(21\\)/New folder \\(21\\)\" && grep -n \"assign\\\\|assigned_agent\\\\|currentUser\\\\|conversationDetail\\\\|selectedMessageId\\\\|renderConversation\\\\|reply\\\\b\" frontend/app.js | head -100)",
+      "Read(//c/c/Users/mobie/Downloads/New folder \\(21\\)/New folder \\(21\\)/frontend/**)",
+      "Bash(\"/c/Users/mobie/AppData/Local/Python/pythoncore-3.14-64/python.exe\" -m pip install psycopg2-binary -q)",
+      "Bash(/c/Users/mobie/AppData/Local/Python/pythoncore-3.14-64/python.exe -c ' *)",
+      "PowerShell(Get-ChildItem \"C:\\\\Program Files\\\\PostgreSQL\\\\18\\\\data\" -ErrorAction SilentlyContinue)"
+    ]
+  }
+}
